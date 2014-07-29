@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - 
+  - Important
+  - AI
+  - Ground
+  - RainSound
+  - Bomber
+  - Obstacle
+  - Lighthouse
+  - War
+  - Rally
+  - TV
+  - Pyramid
+  - Sphere
+  - KillAll
+  - Black
+  - Bench
+  - Wavy
+  - RainParticles
+  - White
+  - Death
+  - Escalator
+  - Dollar
+  - Female
+  - Male
+  - Queer
+  - Desert
+  - Ocean
+  - DesertGroup
+  - OceanGroup
+  - Bag
+  - Debris
+  - RainRipples
+  - Family
+  - Artist
+  - Money
+  - Noose
+  - BombCam
+  - Casket
+  - Guide
+  - 
+  - ground
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: 
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: Player
+  User Layer 9: Obstacle
+  User Layer 10: Text
+  User Layer 11: Ground
+  User Layer 12: Wall
+  User Layer 13: Boat
+  User Layer 14: GroundWall
+  User Layer 15: Chest
+  User Layer 16: Civilian
+  User Layer 17: Treatment
+  User Layer 18: Menu
+  User Layer 19: Fence
+  User Layer 20: Naav
+  User Layer 21: 
+  User Layer 22: 
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: 
+  User Layer 31: 
+  m_SortingLayers:
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0
