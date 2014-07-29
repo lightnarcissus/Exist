@@ -2,6 +2,47 @@
 Thumbs.db
 ehthumbs.db
 
+
+obj
+Temp
+*.tmproj
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.userprefs
+
+.DS_Store
+Temp
+
+Library/cache/*
+Library/metadata/*
+Library/previews/*
+Library/ScriptAssemblies/*
+
+AnnotationManager
+assetDatabase3
+AssetImportState
+assetservercachev3
+AssetServerCacheV3
+AssetVersioning.db
+AudioManager.asset
+BuildPlayer.prefs
+BuildSettings.asset
+DynamicsManager.asset
+EditorSettings.asset
+EditorUserBuildSettings.asset
+expandedItems
+FailedAssetImports.txt
+guidmapper
+InspectorExpandedItems.asset
+MonoManager.asset
+NetworkManager.asset
+ScriptMapper
+
+
 # Folder config file
 Desktop.ini
 
@@ -26,7 +67,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
