@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 672cf143d6a3acb4991d8c33686dcd53
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: aircond
+    100002: //RootNode
+    100004: cilindrove
+    100006: colonne mu
+    100008: Colonnepic
+    100010: Cube 1 and
+    100012: Cylinder 1
+    100014: Cylinder 1 1
+    100016: Cylinder 1 2
+    100018: floors
+    100020: landing
+    100022: muro
+    100024: piani
+    100026: piani1
+    100028: roof
+    100030: roofbldng
+    100032: tetto
+    100034: tetto 1 an
+    100036: travers
+    100038: travers1
+    100040: traverse
+    100042: traverse b
+    100044: v tetto
+    100046: vetro
+    100048: vetrosotto
+    400000: aircond
+    400002: //RootNode
+    400004: cilindrove
+    400006: colonne mu
+    400008: Colonnepic
+    400010: Cube 1 and
+    400012: Cylinder 1
+    400014: Cylinder 1 1
+    400016: Cylinder 1 2
+    400018: floors
+    400020: landing
+    400022: muro
+    400024: piani
+    400026: piani1
+    400028: roof
+    400030: roofbldng
+    400032: tetto
+    400034: tetto 1 an
+    400036: travers
+    400038: travers1
+    400040: traverse
+    400042: traverse b
+    400044: v tetto
+    400046: vetro
+    400048: vetrosotto
+    2300000: aircond
+    2300002: cilindrove
+    2300004: colonne mu
+    2300006: Colonnepic
+    2300008: Cube 1 and
+    2300010: Cylinder 1
+    2300012: Cylinder 1 1
+    2300014: Cylinder 1 2
+    2300016: floors
+    2300018: landing
+    2300020: muro
+    2300022: piani
+    2300024: piani1
+    2300026: roof
+    2300028: roofbldng
+    2300030: tetto
+    2300032: tetto 1 an
+    2300034: travers
+    2300036: travers1
+    2300038: traverse
+    2300040: traverse b
+    2300042: v tetto
+    2300044: vetro
+    2300046: vetrosotto
+    3300000: aircond
+    3300002: cilindrove
+    3300004: colonne mu
+    3300006: Colonnepic
+    3300008: Cube 1 and
+    3300010: Cylinder 1
+    3300012: Cylinder 1 1
+    3300014: Cylinder 1 2
+    3300016: floors
+    3300018: landing
+    3300020: muro
+    3300022: piani
+    3300024: piani1
+    3300026: roof
+    3300028: roofbldng
+    3300030: tetto
+    3300032: tetto 1 an
+    3300034: travers
+    3300036: travers1
+    3300038: traverse
+    3300040: traverse b
+    3300042: v tetto
+    3300044: vetro
+    3300046: vetrosotto
+    4300000: cilindrove
+    4300002: traverse
+    4300004: tetto
+    4300006: floors
+    4300008: v tetto
+    4300010: vetrosotto
+    4300012: traverse b
+    4300014: Colonnepic
+    4300016: Cylinder 1
+    4300018: Cylinder 1
+    4300020: piani
+    4300022: vetro
+    4300024: travers
+    4300026: piani1
+    4300028: tetto 1 an
+    4300030: travers1
+    4300032: roof
+    4300034: landing
+    4300036: roofbldng
+    4300038: aircond
+    4300040: Cube 1 and
+    4300042: Cylinder 1
+    4300044: colonne mu
+    4300046: muro
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

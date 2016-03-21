@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: GUI Atlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 3b4f3dec06bde19478dc785f1d82bb0f, type: 2}
+  sprites:
+  - name: Red_Inner
+    outer:
+      serializedVersion: 2
+      x: 895
+      y: 1158
+      width: 381
+      height: 382
+    inner:
+      serializedVersion: 2
+      x: 895
+      y: 1158
+      width: 381
+      height: 382
+    paddingLeft: .335958004
+    paddingRight: 1.35170603
+    paddingTop: .335078537
+    paddingBottom: 1.3455497
+  - name: Red_Glow
+    outer:
+      serializedVersion: 2
+      x: 1277
+      y: 1159
+      width: 381
+      height: 381
+    inner:
+      serializedVersion: 2
+      x: 1277
+      y: 1159
+      width: 381
+      height: 381
+    paddingLeft: .335958004
+    paddingRight: 1.35170603
+    paddingTop: .335958004
+    paddingBottom: 1.35170603
+  - name: Yellow_Glow
+    outer:
+      serializedVersion: 2
+      x: 512
+      y: 769
+      width: 382
+      height: 382
+    inner:
+      serializedVersion: 2
+      x: 512
+      y: 769
+      width: 382
+      height: 382
+    paddingLeft: .332460731
+    paddingRight: 1.34816754
+    paddingTop: 1.3455497
+    paddingBottom: .335078537
+  - name: Yellow_Inner
+    outer:
+      serializedVersion: 2
+      x: 510
+      y: 259
+      width: 383
+      height: 383
+    inner:
+      serializedVersion: 2
+      x: 510
+      y: 259
+      width: 383
+      height: 383
+    paddingLeft: .328981727
+    paddingRight: 1.34464753
+    paddingTop: 1.3420366
+    paddingBottom: .331592679
+  - name: Yellow_Outter
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 134
+      width: 509
+      height: 508
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 134
+      width: 509
+      height: 508
+    paddingLeft: .00196463661
+    paddingRight: 1.0098232
+    paddingTop: 1.00984251
+    paddingBottom: .00590551179
+  - name: Blue_Inner
+    outer:
+      serializedVersion: 2
+      x: 1406
+      y: 1666
+      width: 383
+      height: 382
+    inner:
+      serializedVersion: 2
+      x: 1406
+      y: 1666
+      width: 383
+      height: 382
+    paddingLeft: 1.3420366
+    paddingRight: .331592679
+    paddingTop: 1.34031415
+    paddingBottom: .34031415
+  - name: Blue_Glow
+    outer:
+      serializedVersion: 2
+      x: 895
+      y: 777
+      width: 381
+      height: 380
+    inner:
+      serializedVersion: 2
+      x: 895
+      y: 777
+      width: 381
+      height: 380
+    paddingLeft: 1.35170603
+    paddingRight: .335958004
+    paddingTop: 1.35000002
+    paddingBottom: .344736844
+  - name: Blue_Outter
+    outer:
+      serializedVersion: 2
+      x: 895
+      y: 1541
+      width: 510
+      height: 507
+    inner:
+      serializedVersion: 2
+      x: 895
+      y: 1541
+      width: 510
+      height: 507
+    paddingLeft: 1.00784314
+    paddingRight: 0
+    paddingTop: 1.01577914
+    paddingBottom: .00394477323
+  - name: Green_Glow
+    outer:
+      serializedVersion: 2
+      x: 1277
+      y: 777
+      width: 381
+      height: 380
+    inner:
+      serializedVersion: 2
+      x: 1277
+      y: 777
+      width: 381
+      height: 380
+    paddingLeft: 1.34645665
+    paddingRight: .341207355
+    paddingTop: .33684212
+    paddingBottom: 1.35789478
+  - name: Green_Inner
+    outer:
+      serializedVersion: 2
+      x: 1659
+      y: 1159
+      width: 381
+      height: 381
+    inner:
+      serializedVersion: 2
+      x: 1659
+      y: 1159
+      width: 381
+      height: 381
+    paddingLeft: 1.34645665
+    paddingRight: .341207355
+    paddingTop: .335958004
+    paddingBottom: 1.35170603
+  - name: Green_Outter
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 643
+      width: 511
+      height: 508
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 643
+      width: 511
+      height: 508
+    paddingLeft: 1.00195694
+    paddingRight: .00195694715
+    paddingTop: 0
+    paddingBottom: 1.01574802
+  - name: Red_Outter
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1152
+      width: 894
+      height: 896
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1152
+      width: 894
+      height: 896
+    paddingLeft: 0
+    paddingRight: .145413876
+    paddingTop: 0
+    paddingBottom: .142857149
+  - name: MouseLeft
+    outer:
+      serializedVersion: 2
+      x: 631
+      y: 71
+      width: 120
+      height: 187
+    inner:
+      serializedVersion: 2
+      x: 631
+      y: 71
+      width: 120
+      height: 187
+    paddingLeft: .550000012
+    paddingRight: .583333313
+    paddingTop: .187165782
+    paddingBottom: .181818187
+  - name: MouseIcon
+    outer:
+      serializedVersion: 2
+      x: 752
+      y: 71
+      width: 120
+      height: 187
+    inner:
+      serializedVersion: 2
+      x: 752
+      y: 71
+      width: 120
+      height: 187
+    paddingLeft: .550000012
+    paddingRight: .583333313
+    paddingTop: .187165782
+    paddingBottom: .181818187
+  - name: MouseRight
+    outer:
+      serializedVersion: 2
+      x: 510
+      y: 71
+      width: 120
+      height: 187
+    inner:
+      serializedVersion: 2
+      x: 510
+      y: 71
+      width: 120
+      height: 187
+    paddingLeft: .550000012
+    paddingRight: .583333313
+    paddingTop: .187165782
+    paddingBottom: .181818187
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

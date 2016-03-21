@@ -1,0 +1,1633 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Take 001
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0174151771, y: .0174164586, z: .706891775, w: .706892788}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.0174151771, y: .0174164586, z: .706891775, w: .706892788}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.499999672, y: .500000358, z: .499999672, w: .500000358}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.499999672, y: .500000358, z: .499999672, w: .500000358}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.10024314e-06, y: 7.14079135e-07, z: -.0302812252, w: .999541461}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -2.10024314e-06, y: 7.14079135e-07, z: -.0302812252, w: .999541461}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.79105334e-13, y: 8.28841493e-08, z: -.0298832357, w: .999553382}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.79105334e-13, y: 8.28841493e-08, z: -.0298832357, w: .999553382}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.06190073e-14, y: 4.43450602e-07, z: -.159882694, w: .987136066}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.06190073e-14, y: 4.43450602e-07, z: -.159882694, w: .987136066}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.82312658e-14, y: 4.4345046e-07, z: -.159882665, w: .987136066}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 3.82312658e-14, y: 4.4345046e-07, z: -.159882665, w: .987136066}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.39817986e-12, y: -1.60362856e-06, z: .578176379, w: .815911829}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -1.39817986e-12, y: -1.60362856e-06, z: .578176379, w: .815911829}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1/BEAR_
+      Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.45372679e-12, y: 2.25151439e-06, z: -.811766326, w: .583982468}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.45372679e-12, y: 2.25151439e-06, z: -.811766326, w: .583982468}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1/BEAR_
+      Head/BEAR_ Queue de cheval 1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.61715734, y: .124133989, z: .720257044, w: -.291440189}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.61715734, y: .124133989, z: .720257044, w: -.291440189}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.522303045, y: -.317730546, z: .287655145, w: .737225533}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.522303045, y: -.317730546, z: .287655145, w: .737225533}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 5.22980859e-09, y: -4.21330171e-09, z: .299938262, w: .953958631}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 5.22980859e-09, y: -4.21330171e-09, z: .299938262, w: .953958631}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000314842706, y: .000243691291, z: .612090766, w: .790787399}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .000314842706, y: .000243691291, z: .612090766, w: .790787399}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm/BEAR_ L Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.000398089353, y: 7.59059185e-06, z: .0190691277, w: .999818087}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.000398089353, y: 7.59059185e-06, z: .0190691277, w: .999818087}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm/BEAR_ L Hand/BEAR_ L Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.82472676e-09, y: 3.4149103e-10, z: -.155298561, w: .987867594}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 3.82472676e-09, y: 3.4149103e-10, z: -.155298561, w: .987867594}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm/BEAR_ L Hand/BEAR_ L Finger0/BEAR_ L Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .617156565, y: -.124135993, z: .720256746, w: -.291441888}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .617156565, y: -.124135993, z: .720256746, w: -.291441888}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .522302985, y: .317730576, z: .287655175, w: .737225473}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .522302985, y: .317730576, z: .287655175, w: .737225473}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -8.5682732e-09, y: 7.06872605e-09, z: .299938262, w: .953958631}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -8.5682732e-09, y: 7.06872605e-09, z: .299938262, w: .953958631}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.000314838951, y: -.000243696035, z: .612090766, w: .790787399}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.000314838951, y: -.000243696035, z: .612090766, w: .790787399}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm/BEAR_ R Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000398089382, y: -7.59034356e-06, z: .0190691296, w: .999818087}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .000398089382, y: -7.59034356e-06, z: .0190691296, w: .999818087}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm/BEAR_ R Hand/BEAR_ R Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.98467975e-09, y: -6.30757169e-10, z: -.155298561, w: .987867594}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -1.98467975e-09, y: -6.30757169e-10, z: -.155298561, w: .987867594}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm/BEAR_ R Hand/BEAR_ R Finger0/BEAR_ R Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .736657023, y: -.668357015, z: -.0737505481, w: -.0720850751}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .736657023, y: -.668357015, z: -.0737505481, w: -.0720850751}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 7.14331883e-09, y: 2.11757722e-09, z: .284216434, w: .958760142}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 7.14331883e-09, y: 2.11757722e-09, z: .284216434, w: .958760142}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0302477852, y: .0985910371, z: -.237924486, w: .965793371}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .0302477852, y: .0985910371, z: -.237924486, w: .965793371}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.5454253e-08, y: 1.54542548e-08, z: -.707106829, w: .707106829}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -1.5454253e-08, y: 1.54542548e-08, z: -.707106829, w: .707106829}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+      L Toe0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 5.68434256e-14, y: 1.77635705e-15, z: -1.00974208e-28, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 5.68434256e-14, y: 1.77635705e-15, z: -1.00974208e-28, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+      L Toe0/BEAR_ L Toe01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 5.68434256e-14, y: 1.77635705e-15, z: -1.00974208e-28, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 5.68434256e-14, y: 1.77635705e-15, z: -1.00974208e-28, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+      L Toe0/BEAR_ L Toe01/BEAR_ L Toe02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .736657262, y: -.668357134, z: .0737486705, w: .0720830113}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .736657262, y: -.668357134, z: .0737486705, w: .0720830113}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -5.68923708e-09, y: 6.0845311e-09, z: .284216493, w: .958760142}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -5.68923708e-09, y: 6.0845311e-09, z: .284216493, w: .958760142}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0302477013, y: -.098591052, z: -.237924501, w: .965793371}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.0302477013, y: -.098591052, z: -.237924501, w: .965793371}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.54543365e-08, y: -1.54543347e-08, z: -.707106829, w: .707106829}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.54543365e-08, y: -1.54543347e-08, z: -.707106829, w: .707106829}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+      R Toe0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+      R Toe0/BEAR_ R Toe01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+      R Toe0/BEAR_ R Toe01/BEAR_ R Toe02
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 1.0484972, z: -.471161723}
+        inSlope: {x: -0, y: 1.77635667e-14, z: -8.88178335e-15}
+        outSlope: {x: -0, y: 1.77635667e-14, z: -8.88178335e-15}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -0, y: 1.0484972, z: -.471161723}
+        inSlope: {x: -0, y: 7.61295764e-15, z: -3.80647882e-15}
+        outSlope: {x: -0, y: 7.61295764e-15, z: -3.80647882e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.249777406, y: -.0034539795, z: 3.51181512e-07}
+        inSlope: {x: -2.22044584e-15, y: -1.04083409e-16, z: 4.23516433e-21}
+        outSlope: {x: -2.22044584e-15, y: -1.04083409e-16, z: 4.23516433e-21}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.249777406, y: -.0034539795, z: 3.51181512e-07}
+        inSlope: {x: -9.51619705e-16, y: -4.4607177e-17, z: 1.81507054e-21}
+        outSlope: {x: -9.51619705e-16, y: -4.4607177e-17, z: 1.81507054e-21}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.453718394, y: -.000360641483, z: -1.00029862e-09}
+        inSlope: {x: -8.88178335e-15, y: -4.95635249e-18, z: -1.65436107e-23}
+        outSlope: {x: -8.88178335e-15, y: -4.95635249e-18, z: -1.65436107e-23}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.453718394, y: -.000360641483, z: -1.00029862e-09}
+        inSlope: {x: -3.80647882e-15, y: 4.95635249e-18, z: -7.09011931e-24}
+        outSlope: {x: -3.80647882e-15, y: 4.95635249e-18, z: -7.09011931e-24}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.484309047, y: -.0555793755, z: -7.98290429e-08}
+        inSlope: {x: -4.44089167e-15, y: -0, z: -1.05879108e-21}
+        outSlope: {x: -4.44089167e-15, y: -0, z: -1.05879108e-21}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.484309047, y: -.0555793755, z: -7.98290429e-08}
+        inSlope: {x: -1.90323941e-15, y: -0, z: -4.53767636e-22}
+        outSlope: {x: -1.90323941e-15, y: -0, z: -4.53767636e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.27422905, y: -.000207138059, z: -5.74364056e-10}
+        inSlope: {x: -6.66133815e-15, y: -2.16840414e-18, z: -8.27180534e-24}
+        outSlope: {x: -6.66133815e-15, y: -2.16840414e-18, z: -8.27180534e-24}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.27422905, y: -.000207138059, z: -5.74364056e-10}
+        inSlope: {x: -2.85485933e-15, y: -9.29316118e-19, z: -3.54505966e-24}
+        outSlope: {x: -2.85485933e-15, y: -9.29316118e-19, z: -3.54505966e-24}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.344419658, y: -.021995239, z: -1.02109475e-07}
+        inSlope: {x: -5.07530495e-15, y: -2.7755573e-16, z: -0}
+        outSlope: {x: -5.07530495e-15, y: -2.7755573e-16, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.344419658, y: -.021995239, z: -1.02109475e-07}
+        inSlope: {x: 5.07530495e-15, y: -1.18952463e-16, z: -0}
+        outSlope: {x: 5.07530495e-15, y: -1.18952463e-16, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1/BEAR_
+      Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .170287773, y: .120090745, z: -3.82704513e-07}
+        inSlope: {x: 1.11022292e-15, y: 1.90323941e-15, z: -4.23516433e-21}
+        outSlope: {x: 1.11022292e-15, y: 1.90323941e-15, z: -4.23516433e-21}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .170287773, y: .120090745, z: -3.82704513e-07}
+        inSlope: {x: 4.75809853e-16, y: 4.44089167e-15, z: -1.81507054e-21}
+        outSlope: {x: 4.75809853e-16, y: 4.44089167e-15, z: -1.81507054e-21}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1/BEAR_
+      Head/BEAR_ Queue de cheval 1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0313429236, y: .0208911896, z: .0953164101}
+        inSlope: {x: -0, y: 4.16333634e-16, z: 1.11022292e-15}
+        outSlope: {x: -0, y: 4.16333634e-16, z: 1.11022292e-15}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .0313429236, y: .0208911896, z: .0953164101}
+        inSlope: {x: -0, y: 1.78428708e-16, z: 4.75809853e-16}
+        outSlope: {x: -0, y: 1.78428708e-16, z: 4.75809853e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.3296974, y: 0, z: 1.14440915e-07}
+        inSlope: {x: -6.66133815e-15, y: -0, z: -0}
+        outSlope: {x: -6.66133815e-15, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.3296974, y: 0, z: 1.14440915e-07}
+        inSlope: {x: -2.85485933e-15, y: -0, z: -0}
+        outSlope: {x: -2.85485933e-15, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.47206077, y: -5.72204577e-08, z: 0}
+        inSlope: {x: -1.33226763e-14, y: -0, z: -0}
+        outSlope: {x: -1.33226763e-14, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.47206077, y: -5.72204577e-08, z: 0}
+        inSlope: {x: -5.70971865e-15, y: -0, z: -0}
+        outSlope: {x: -5.70971865e-15, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.413543552, y: 0, z: 0}
+        inSlope: {x: -8.88178335e-15, y: -0, z: -0}
+        outSlope: {x: -8.88178335e-15, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.413543552, y: 0, z: 0}
+        inSlope: {x: -3.80647882e-15, y: -0, z: -0}
+        outSlope: {x: -3.80647882e-15, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm/BEAR_ L Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.112446442, y: .0246140212, z: -.00140083313}
+        inSlope: {x: -3.33066907e-15, y: 5.55111459e-16, z: -8.67361655e-18}
+        outSlope: {x: -3.33066907e-15, y: 5.55111459e-16, z: -8.67361655e-18}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.112446442, y: .0246140212, z: -.00140083313}
+        inSlope: {x: -1.42742966e-15, y: 2.37904926e-16, z: -3.71726447e-18}
+        outSlope: {x: -1.42742966e-15, y: 2.37904926e-16, z: -3.71726447e-18}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm/BEAR_ L Hand/BEAR_ L Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0986149609, y: 2.38418574e-09, z: 3.81469718e-08}
+        inSlope: {x: -9.51619705e-16, y: 3.30872213e-23, z: 5.29395542e-22}
+        outSlope: {x: -9.51619705e-16, y: 3.30872213e-23, z: 5.29395542e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.0986149609, y: 2.38418574e-09, z: 3.81469718e-08}
+        inSlope: {x: -2.22044584e-15, y: 1.41802386e-23, z: 2.26883818e-22}
+        outSlope: {x: -2.22044584e-15, y: 1.41802386e-23, z: 2.26883818e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm/BEAR_ L Hand/BEAR_ L Finger0/BEAR_ L Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0313428864, y: .0208917223, z: -.095316425}
+        inSlope: {x: -0, y: 4.16333634e-16, z: -2.06184273e-15}
+        outSlope: {x: -0, y: 4.16333634e-16, z: -2.06184273e-15}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .0313428864, y: .0208917223, z: -.095316425}
+        inSlope: {x: -0, y: 1.78428708e-16, z: -2.6962558e-15}
+        outSlope: {x: -0, y: 1.78428708e-16, z: -2.6962558e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.3296974, y: 0, z: -1.52587887e-07}
+        inSlope: {x: -6.66133815e-15, y: -0, z: -2.11758217e-21}
+        outSlope: {x: -6.66133815e-15, y: -0, z: -2.11758217e-21}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.3296974, y: 0, z: -1.52587887e-07}
+        inSlope: {x: -2.85485933e-15, y: -0, z: -9.07535272e-22}
+        outSlope: {x: -2.85485933e-15, y: -0, z: -9.07535272e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.47206074, y: -3.81469718e-08, z: 0}
+        inSlope: {x: -5.70971738e-15, y: -5.29395542e-22, z: -0}
+        outSlope: {x: -5.70971738e-15, y: -5.29395542e-22, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.47206074, y: -3.81469718e-08, z: 0}
+        inSlope: {x: 1.20538497e-14, y: -2.26883818e-22, z: -0}
+        outSlope: {x: 1.20538497e-14, y: -2.26883818e-22, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.413543612, y: 3.81469718e-08, z: 0}
+        inSlope: {x: -8.88178335e-15, y: 5.29395542e-22, z: -0}
+        outSlope: {x: -8.88178335e-15, y: 5.29395542e-22, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.413543612, y: 3.81469718e-08, z: 0}
+        inSlope: {x: -3.80647882e-15, y: 2.26883818e-22, z: -0}
+        outSlope: {x: -3.80647882e-15, y: 2.26883818e-22, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm/BEAR_ R Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.112446398, y: .0246140137, z: .00140090939}
+        inSlope: {x: -7.93016492e-16, y: 5.15460682e-16, z: 3.46944662e-17}
+        outSlope: {x: -7.93016492e-16, y: 5.15460682e-16, z: 3.46944662e-17}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.112446398, y: .0246140137, z: .00140090939}
+        inSlope: {x: -3.96508193e-15, y: 6.74063949e-16, z: 1.48690579e-17}
+        outSlope: {x: -3.96508193e-15, y: 6.74063949e-16, z: 1.48690579e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm/BEAR_ R Hand/BEAR_ R Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0986149162, y: 2.38418574e-09, z: 3.81469718e-08}
+        inSlope: {x: -1.11022292e-15, y: 3.30872213e-23, z: 5.29395542e-22}
+        outSlope: {x: -1.11022292e-15, y: 3.30872213e-23, z: 5.29395542e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.0986149162, y: 2.38418574e-09, z: 3.81469718e-08}
+        inSlope: {x: -4.75809853e-16, y: 1.41802386e-23, z: 2.26883818e-22}
+        outSlope: {x: -4.75809853e-16, y: 1.41802386e-23, z: 2.26883818e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm/BEAR_ R Hand/BEAR_ R Finger0/BEAR_ R Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .249110192, y: .0185668934, z: .364716679}
+        inSlope: {x: 2.22044584e-15, y: 2.7755573e-16, z: 4.44089167e-15}
+        outSlope: {x: 2.22044584e-15, y: 2.7755573e-16, z: 4.44089167e-15}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .249110192, y: .0185668934, z: .364716679}
+        inSlope: {x: 9.51619705e-16, y: 1.18952463e-16, z: 1.90323941e-15}
+        outSlope: {x: 9.51619705e-16, y: 1.18952463e-16, z: 1.90323941e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.577577412, y: 0, z: 1.14440915e-07}
+        inSlope: {x: -8.88178335e-15, y: -0, z: -0}
+        outSlope: {x: -8.88178335e-15, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.577577412, y: 0, z: 1.14440915e-07}
+        inSlope: {x: -3.80647882e-15, y: -0, z: -0}
+        outSlope: {x: -3.80647882e-15, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.408713669, y: 0, z: -3.81469718e-08}
+        inSlope: {x: -1.33226763e-14, y: -0, z: -5.29395542e-22}
+        outSlope: {x: -1.33226763e-14, y: -0, z: -5.29395542e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.408713669, y: 0, z: -3.81469718e-08}
+        inSlope: {x: -5.70971865e-15, y: -0, z: -2.26883818e-22}
+        outSlope: {x: -5.70971865e-15, y: -0, z: -2.26883818e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.130185902, y: .198428109, z: 3.81469718e-08}
+        inSlope: {x: -1.42742935e-15, y: 4.12368546e-15, z: 5.29395542e-22}
+        outSlope: {x: -1.42742935e-15, y: 4.12368546e-15, z: 5.29395542e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.130185902, y: .198428109, z: 3.81469718e-08}
+        inSlope: {x: 3.01346243e-15, y: 5.39251159e-15, z: 2.26883818e-22}
+        outSlope: {x: 3.01346243e-15, y: 5.39251159e-15, z: 2.26883818e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+      L Toe0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0527942628, y: 0, z: 0}
+        inSlope: {x: -1.11022292e-15, y: -0, z: -0}
+        outSlope: {x: -1.11022292e-15, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.0527942628, y: 0, z: 0}
+        inSlope: {x: -4.75809853e-16, y: -0, z: -0}
+        outSlope: {x: -4.75809853e-16, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+      L Toe0/BEAR_ L Toe01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0133680338, y: 0, z: 0}
+        inSlope: {x: -2.7755573e-16, y: -0, z: -0}
+        outSlope: {x: -2.7755573e-16, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.0133680338, y: 0, z: 0}
+        inSlope: {x: -1.18952463e-16, y: -0, z: -0}
+        outSlope: {x: -1.18952463e-16, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+      L Toe0/BEAR_ L Toe01/BEAR_ L Toe02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .249110192, y: .0185689535, z: -.364716589}
+        inSlope: {x: 2.22044584e-15, y: 4.16333634e-16, z: -6.66133815e-15}
+        outSlope: {x: 2.22044584e-15, y: 4.16333634e-16, z: -6.66133815e-15}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .249110192, y: .0185689535, z: -.364716589}
+        inSlope: {x: 9.51619705e-16, y: 1.78428708e-16, z: -2.85485933e-15}
+        outSlope: {x: 9.51619705e-16, y: 1.78428708e-16, z: -2.85485933e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.577577353, y: 3.81469718e-08, z: 3.81469718e-08}
+        inSlope: {x: -8.88178335e-15, y: 5.29395542e-22, z: 5.29395542e-22}
+        outSlope: {x: -8.88178335e-15, y: 5.29395542e-22, z: 5.29395542e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.577577353, y: 3.81469718e-08, z: 3.81469718e-08}
+        inSlope: {x: -3.80647882e-15, y: 2.26883818e-22, z: 2.26883818e-22}
+        outSlope: {x: -3.80647882e-15, y: 2.26883818e-22, z: 2.26883818e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.408713609, y: -3.81469718e-08, z: -3.81469718e-08}
+        inSlope: {x: -7.61295764e-15, y: -5.29395542e-22, z: -5.29395542e-22}
+        outSlope: {x: -7.61295764e-15, y: -5.29395542e-22, z: -5.29395542e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.408713609, y: -3.81469718e-08, z: -3.81469718e-08}
+        inSlope: {x: -1.77635667e-14, y: -2.26883818e-22, z: -2.26883818e-22}
+        outSlope: {x: -1.77635667e-14, y: -2.26883818e-22, z: -2.26883818e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.130185902, y: .198428154, z: 3.81469718e-08}
+        inSlope: {x: -1.42742935e-15, y: 4.44089167e-15, z: 5.29395542e-22}
+        outSlope: {x: -1.42742935e-15, y: 4.44089167e-15, z: 5.29395542e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.130185902, y: .198428154, z: 3.81469718e-08}
+        inSlope: {x: 3.01346243e-15, y: 1.90323941e-15, z: 2.26883818e-22}
+        outSlope: {x: 3.01346243e-15, y: 1.90323941e-15, z: 2.26883818e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+      R Toe0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0527942628, y: 0, z: 0}
+        inSlope: {x: -1.11022292e-15, y: -0, z: -0}
+        outSlope: {x: -1.11022292e-15, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.0527942628, y: 0, z: 0}
+        inSlope: {x: -4.75809853e-16, y: -0, z: -0}
+        outSlope: {x: -4.75809853e-16, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+      R Toe0/BEAR_ R Toe01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0133679956, y: 0, z: 0}
+        inSlope: {x: -1.38777865e-16, y: -0, z: -0}
+        outSlope: {x: -1.38777865e-16, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.0133679956, y: 0, z: 0}
+        inSlope: {x: -5.94762316e-17, y: -0, z: -0}
+        outSlope: {x: -5.94762316e-17, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+      R Toe0/BEAR_ R Toe01/BEAR_ R Toe02
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999821, y: .999999762, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999821, y: .999999762, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1/BEAR_
+      Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1/BEAR_
+      Head/BEAR_ Queue de cheval 1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999881, y: 1, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999881, y: 1, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: .99999994, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: .99999994, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm/BEAR_ L Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: 1, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: 1, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm/BEAR_ L Hand/BEAR_ L Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+      L UpperArm/BEAR_ L Forearm/BEAR_ L Hand/BEAR_ L Finger0/BEAR_ L Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: .99999994, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: .99999994, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm/BEAR_ R Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999881, y: .999999881, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999881, y: .999999881, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm/BEAR_ R Hand/BEAR_ R Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+      R UpperArm/BEAR_ R Forearm/BEAR_ R Hand/BEAR_ R Finger0/BEAR_ R Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1.00000012, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1.00000012, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+      L Toe0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+      L Toe0/BEAR_ L Toe01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+      L Toe0/BEAR_ L Toe01/BEAR_ L Toe02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999881, y: .999999881, z: .999999881}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999881, y: .999999881, z: .999999881}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+      R Toe0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+      R Toe0/BEAR_ R Toe01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+      R Toe0/BEAR_ R Toe01/BEAR_ R Toe02
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 8.34465027e-07, y: .766276777, z: .308107018}
+    m_Extent: {x: .68851459, y: .782325923, z: 1.28038859}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

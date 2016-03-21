@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!48 &4800000
+Shader:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RainAdd
+  m_Script: "Shader \"RainAdd\" {\nProperties {\n _Color (\"Rain Color\", Color) =
+    (0.5,0.5,0.5,0.5)\n _MainTex (\"Particle Texture\", 2D) = \"white\" {}\n _InvFade
+    (\"Soft Particles Factor\", Range(0.01,3)) = 1\n}\nSubShader { \n Tags { \"QUEUE\"=\"Transparent\"
+    \"IGNOREPROJECTOR\"=\"True\" \"RenderType\"=\"Transparent\" }\n Pass {\n  Tags
+    { \"QUEUE\"=\"Transparent\" \"IGNOREPROJECTOR\"=\"True\" \"RenderType\"=\"Transparent\"
+    }\n  BindChannels {\n   Bind \"vertex\", Vertex\n   Bind \"color\", Color\n   Bind
+    \"texcoord\", TexCoord\n  }\n  ZWrite Off\n  Cull Off\n  Fog {\n   Color (0,0,0,0)\n
+    \ }\n  Blend SrcAlpha One\n  AlphaTest Greater 0.01\n  ColorMask RGB\nProgram
+    \"vp\" {\nSubProgram \"opengl \" {\nKeywords { \"SOFTPARTICLES_OFF\" }\nBind \"vertex\"
+    Vertex\nBind \"color\" Color\nBind \"texcoord\" TexCoord0\nVector 5 [_MainTex_ST]\n\"!!ARBvp1.0\n#
+    6 ALU\nPARAM c[6] = { program.local[0],\n\t\tstate.matrix.mvp,\n\t\tprogram.local[5]
+    };\nMOV result.color, vertex.color;\nMAD result.texcoord[0].xy, vertex.texcoord[0],
+    c[5], c[5].zwzw;\nDP4 result.position.w, vertex.position, c[4];\nDP4 result.position.z,
+    vertex.position, c[3];\nDP4 result.position.y, vertex.position, c[2];\nDP4 result.position.x,
+    vertex.position, c[1];\nEND\n# 6 instructions, 0 R-regs\n\"\n}\nSubProgram \"d3d9
+    \" {\nKeywords { \"SOFTPARTICLES_OFF\" }\nBind \"vertex\" Vertex\nBind \"color\"
+    Color\nBind \"texcoord\" TexCoord0\nMatrix 0 [glstate_matrix_mvp]\nVector 4 [_MainTex_ST]\n\"vs_2_0\n;
+    6 ALU\ndcl_position0 v0\ndcl_color0 v1\ndcl_texcoord0 v2\nmov oD0, v1\nmad oT0.xy,
+    v2, c4, c4.zwzw\ndp4 oPos.w, v0, c3\ndp4 oPos.z, v0, c2\ndp4 oPos.y, v0, c1\ndp4
+    oPos.x, v0, c0\n\"\n}\nSubProgram \"opengl \" {\nKeywords { \"SOFTPARTICLES_ON\"
+    }\nBind \"vertex\" Vertex\nBind \"color\" Color\nBind \"texcoord\" TexCoord0\nVector
+    9 [_ProjectionParams]\nVector 10 [_MainTex_ST]\n\"!!ARBvp1.0\n# 14 ALU\nPARAM
+    c[11] = { { 0.5 },\n\t\tstate.matrix.modelview[0],\n\t\tstate.matrix.mvp,\n\t\tprogram.local[9..10]
+    };\nTEMP R0;\nTEMP R1;\nDP4 R1.w, vertex.position, c[8];\nDP4 R0.x, vertex.position,
+    c[5];\nMOV R0.w, R1;\nDP4 R0.y, vertex.position, c[6];\nMUL R1.xyz, R0.xyww, c[0].x;\nMUL
+    R1.y, R1, c[9].x;\nDP4 R0.z, vertex.position, c[7];\nMOV result.position, R0;\nDP4
+    R0.x, vertex.position, c[3];\nADD result.texcoord[1].xy, R1, R1.z;\nMOV result.color,
+    vertex.color;\nMAD result.texcoord[0].xy, vertex.texcoord[0], c[10], c[10].zwzw;\nMOV
+    result.texcoord[1].z, -R0.x;\nMOV result.texcoord[1].w, R1;\nEND\n# 14 instructions,
+    2 R-regs\n\"\n}\nSubProgram \"d3d9 \" {\nKeywords { \"SOFTPARTICLES_ON\" }\nBind
+    \"vertex\" Vertex\nBind \"color\" Color\nBind \"texcoord\" TexCoord0\nMatrix 0
+    [glstate_matrix_modelview0]\nMatrix 4 [glstate_matrix_mvp]\nVector 8 [_ProjectionParams]\nVector
+    9 [_ScreenParams]\nVector 10 [_MainTex_ST]\n\"vs_2_0\n; 14 ALU\ndef c11, 0.50000000,
+    0, 0, 0\ndcl_position0 v0\ndcl_color0 v1\ndcl_texcoord0 v2\ndp4 r1.w, v0, c7\ndp4
+    r0.x, v0, c4\nmov r0.w, r1\ndp4 r0.y, v0, c5\nmul r1.xyz, r0.xyww, c11.x\nmul
+    r1.y, r1, c8.x\ndp4 r0.z, v0, c6\nmov oPos, r0\ndp4 r0.x, v0, c2\nmad oT1.xy,
+    r1.z, c9.zwzw, r1\nmov oD0, v1\nmad oT0.xy, v2, c10, c10.zwzw\nmov oT1.z, -r0.x\nmov
+    oT1.w, r1\n\"\n}\n}\nProgram \"fp\" {\nSubProgram \"opengl \" {\nKeywords { \"SOFTPARTICLES_OFF\"
+    }\nVector 0 [_Color]\nSetTexture 0 [_MainTex] 2D\n\"!!ARBfp1.0\nOPTION ARB_precision_hint_fastest;\n#
+    4 ALU, 1 TEX\nPARAM c[2] = { program.local[0],\n\t\t{ 2 } };\nTEMP R0;\nTEMP R1;\nTEX
+    R0, fragment.texcoord[0], texture[0], 2D;\nMUL R1, fragment.color.primary, c[0];\nMUL
+    R0, R1, R0;\nMUL result.color, R0, c[1].x;\nEND\n# 4 instructions, 2 R-regs\n\"\n}\nSubProgram
+    \"d3d9 \" {\nKeywords { \"SOFTPARTICLES_OFF\" }\nVector 0 [_Color]\nSetTexture
+    0 [_MainTex] 2D\n\"ps_2_0\n; 4 ALU, 1 TEX\ndcl_2d s0\ndef c1, 2.00000000, 0, 0,
+    0\ndcl v0\ndcl t0.xy\ntexld r0, t0, s0\nmul r1, v0, c0\nmul r0, r1, r0\nmul r0,
+    r0, c1.x\nmov_pp oC0, r0\n\"\n}\nSubProgram \"opengl \" {\nKeywords { \"SOFTPARTICLES_ON\"
+    }\nVector 0 [_ZBufferParams]\nVector 1 [_Color]\nFloat 2 [_InvFade]\nSetTexture
+    0 [_CameraDepthTexture] 2D\nSetTexture 1 [_MainTex] 2D\n\"!!ARBfp1.0\nOPTION ARB_precision_hint_fastest;\n#
+    11 ALU, 2 TEX\nPARAM c[4] = { program.local[0..2],\n\t\t{ 2 } };\nTEMP R0;\nTEMP
+    R1;\nTXP R1.x, fragment.texcoord[1], texture[0], 2D;\nTEX R0, fragment.texcoord[0],
+    texture[1], 2D;\nMAD R1.x, R1, c[0].z, c[0].w;\nRCP R1.x, R1.x;\nADD R1.x, R1,
+    -fragment.texcoord[1].z;\nMUL_SAT R1.w, R1.x, c[2].x;\nMOV R1.xyz, fragment.color.primary;\nMUL
+    R1.w, fragment.color.primary, R1;\nMUL R1, R1, c[1];\nMUL R0, R1, R0;\nMUL result.color,
+    R0, c[3].x;\nEND\n# 11 instructions, 2 R-regs\n\"\n}\nSubProgram \"d3d9 \" {\nKeywords
+    { \"SOFTPARTICLES_ON\" }\nVector 0 [_ZBufferParams]\nVector 1 [_Color]\nFloat
+    2 [_InvFade]\nSetTexture 0 [_CameraDepthTexture] 2D\nSetTexture 1 [_MainTex] 2D\n\"ps_2_0\n;
+    10 ALU, 2 TEX\ndcl_2d s0\ndcl_2d s1\ndef c3, 2.00000000, 0, 0, 0\ndcl v0\ndcl
+    t0.xy\ndcl t1\ntexldp r0, t1, s0\ntexld r1, t0, s1\nmad r0.x, r0, c0.z, c0.w\nrcp
+    r0.x, r0.x\nadd r0.x, r0, -t1.z\nmul_sat r0.x, r0, c2\nmov_pp r2.xyz, v0\nmul_pp
+    r2.w, v0, r0.x\nmul r0, r2, c1\nmul r0, r0, r1\nmul r0, r0, c3.x\nmov_pp oC0,
+    r0\n\"\n}\n}\n }\n}\nSubShader { \n Tags { \"QUEUE\"=\"Transparent\" \"IGNOREPROJECTOR\"=\"True\"
+    \"RenderType\"=\"Transparent\" }\n Pass {\n  Tags { \"QUEUE\"=\"Transparent\"
+    \"IGNOREPROJECTOR\"=\"True\" \"RenderType\"=\"Transparent\" }\n  BindChannels
+    {\n   Bind \"vertex\", Vertex\n   Bind \"color\", Color\n   Bind \"texcoord\",
+    TexCoord\n  }\n  ZWrite Off\n  Cull Off\n  Fog {\n   Color (0,0,0,0)\n  }\n  Blend
+    SrcAlpha One\n  AlphaTest Greater 0.01\n  ColorMask RGB\n  SetTexture [_MainTex]
+    { ConstantColor [_Color] combine constant * primary }\n  SetTexture [_MainTex]
+    { combine texture * previous double }\n }\n}\nSubShader { \n Tags { \"QUEUE\"=\"Transparent\"
+    \"IGNOREPROJECTOR\"=\"True\" \"RenderType\"=\"Transparent\" }\n Pass {\n  Tags
+    { \"QUEUE\"=\"Transparent\" \"IGNOREPROJECTOR\"=\"True\" \"RenderType\"=\"Transparent\"
+    }\n  BindChannels {\n   Bind \"vertex\", Vertex\n   Bind \"color\", Color\n   Bind
+    \"texcoord\", TexCoord\n  }\n  ZWrite Off\n  Cull Off\n  Fog {\n   Color (0,0,0,0)\n
+    \ }\n  Blend SrcAlpha One\n  AlphaTest Greater 0.01\n  ColorMask RGB\n  SetTexture
+    [_MainTex] { combine texture * primary }\n }\n}\n}"
+  m_PathName: 
+  m_Dependencies: []
+  m_ShaderIsBaked: 0
+  errors: []
+  m_DefaultTextures: {}
+--- !u!1002 &4800001
+EditorExtensionImpl:
+  serializedVersion: 6

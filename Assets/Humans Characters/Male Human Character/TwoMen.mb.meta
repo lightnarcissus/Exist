@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: d30360e20f6a6cb40acb8cf7c0a0b826
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip02
+    100002: Male_Human1
+    100004: Male_Human2
+    100006: maleNew:accamulator-fix
+    100008: maleNew:Bip01
+    100010: maleNew:Bip01 Head
+    100012: maleNew:Bip01 L Calf
+    100014: maleNew:Bip01 L Clavicle
+    100016: maleNew:Bip01 L Finger0
+    100018: maleNew:Bip01 L Finger01
+    100020: maleNew:Bip01 L Finger02
+    100022: maleNew:Bip01 L Finger1
+    100024: maleNew:Bip01 L Finger11
+    100026: maleNew:Bip01 L Finger12
+    100028: maleNew:Bip01 L Finger2
+    100030: maleNew:Bip01 L Finger21
+    100032: maleNew:Bip01 L Finger22
+    100034: maleNew:Bip01 L Finger3
+    100036: maleNew:Bip01 L Finger31
+    100038: maleNew:Bip01 L Finger32
+    100040: maleNew:Bip01 L Finger4
+    100042: maleNew:Bip01 L Finger41
+    100044: maleNew:Bip01 L Finger42
+    100046: maleNew:Bip01 L Foot
+    100048: maleNew:Bip01 L Forearm
+    100050: maleNew:Bip01 L Hand
+    100052: maleNew:Bip01 L Thigh
+    100054: maleNew:Bip01 L Toe0
+    100056: maleNew:Bip01 L UpperArm
+    100058: maleNew:Bip01 Neck
+    100060: maleNew:Bip01 Pelvis
+    100062: maleNew:Bip01 R Calf
+    100064: maleNew:Bip01 R Clavicle
+    100066: maleNew:Bip01 R Finger0
+    100068: maleNew:Bip01 R Finger01
+    100070: maleNew:Bip01 R Finger02
+    100072: maleNew:Bip01 R Finger1
+    100074: maleNew:Bip01 R Finger11
+    100076: maleNew:Bip01 R Finger12
+    100078: maleNew:Bip01 R Finger2
+    100080: maleNew:Bip01 R Finger21
+    100082: maleNew:Bip01 R Finger22
+    100084: maleNew:Bip01 R Finger3
+    100086: maleNew:Bip01 R Finger31
+    100088: maleNew:Bip01 R Finger32
+    100090: maleNew:Bip01 R Finger4
+    100092: maleNew:Bip01 R Finger41
+    100094: maleNew:Bip01 R Finger42
+    100096: maleNew:Bip01 R Foot
+    100098: maleNew:Bip01 R Forearm
+    100100: maleNew:Bip01 R Hand
+    100102: maleNew:Bip01 R Thigh
+    100104: maleNew:Bip01 R Toe0
+    100106: maleNew:Bip01 R UpperArm
+    100108: maleNew:Bip01 Spine
+    100110: maleNew:Bip01 Spine1
+    100112: maleNew:Bip01 Spine2
+    100114: maleNew:bottom
+    100116: maleNew:button1
+    100118: maleNew:cam-case1
+    100120: maleNew:cam-case2
+    100122: maleNew:cam-kase3
+    100124: maleNew:cam-switcher
+    100126: maleNew:cam1
+    100128: maleNew:cam2
+    100130: maleNew:camlens
+    100132: maleNew:flash
+    100134: maleNew:flash-glass
+    100136: maleNew:kase-bottom1
+    100138: maleNew:kase-bottom2
+    100140: maleNew:kase-bottom3
+    100142: maleNew:keyboard
+    100144: maleNew:keyboard-border
+    100146: maleNew:keyboard-top
+    100148: maleNew:minisd-cap
+    100150: maleNew:newspaper1:general
+    100152: maleNew:newspaper1:geometri
+    100154: maleNew:newspaper1:jointc01
+    100156: maleNew:newspaper1:jointc01 1
+    100158: maleNew:newspaper1:jointc01 10
+    100160: maleNew:newspaper1:jointc01 11
+    100162: maleNew:newspaper1:jointc01 12
+    100164: maleNew:newspaper1:jointc01 13
+    100166: maleNew:newspaper1:jointc01 14
+    100168: maleNew:newspaper1:jointc01 15
+    100170: maleNew:newspaper1:jointc01 2
+    100172: maleNew:newspaper1:jointc01 3
+    100174: maleNew:newspaper1:jointc01 4
+    100176: maleNew:newspaper1:jointc01 5
+    100178: maleNew:newspaper1:jointc01 6
+    100180: maleNew:newspaper1:jointc01 7
+    100182: maleNew:newspaper1:jointc01 8
+    100184: maleNew:newspaper1:jointc01 9
+    100186: maleNew:newspaper1:jointd01
+    100188: maleNew:newspaper1:jointd01 1
+    100190: maleNew:newspaper1:jointd01 10
+    100192: maleNew:newspaper1:jointd01 11
+    100194: maleNew:newspaper1:jointd01 12
+    100196: maleNew:newspaper1:jointd01 13
+    100198: maleNew:newspaper1:jointd01 14
+    100200: maleNew:newspaper1:jointd01 15
+    100202: maleNew:newspaper1:jointd01 2
+    100204: maleNew:newspaper1:jointd01 3
+    100206: maleNew:newspaper1:jointd01 4
+    100208: maleNew:newspaper1:jointd01 5
+    100210: maleNew:newspaper1:jointd01 6
+    100212: maleNew:newspaper1:jointd01 7
+    100214: maleNew:newspaper1:jointd01 8
+    100216: maleNew:newspaper1:jointd01 9
+    100218: maleNew:newspaper1:kontrole
+    100220: maleNew:newspaper1:kosti
+    100222: maleNew:newspaper1:list01
+    100224: maleNew:newspaper1:list02
+    100226: maleNew:newspaper1:list03
+    100228: maleNew:newspaper1:list04
+    100230: maleNew:newspaper1:list05
+    100232: maleNew:newspaper1:list06
+    100234: maleNew:newspaper1:list07
+    100236: maleNew:newspaper1:list08
+    100238: maleNew:newspaper1:list09
+    100240: maleNew:newspaper1:list10
+    100242: maleNew:newspaper1:list11
+    100244: maleNew:newspaper1:list12
+    100246: maleNew:newspaper1:list13
+    100248: maleNew:newspaper1:list14
+    100250: maleNew:newspaper1:list15
+    100252: maleNew:newspaper1:list16
+    100254: maleNew:newspaper1:listanjeKontrola01
+    100256: maleNew:newspaper1:listanjeKontrola010
+    100258: maleNew:newspaper1:listanjeKontrola011
+    100260: maleNew:newspaper1:listanjeKontrola012
+    100262: maleNew:newspaper1:listanjeKontrola013
+    100264: maleNew:newspaper1:listanjeKontrola014
+    100266: maleNew:newspaper1:listanjeKontrola015
+    100268: maleNew:newspaper1:listanjeKontrola016
+    100270: maleNew:newspaper1:listanjeKontrola02
+    100272: maleNew:newspaper1:listanjeKontrola03
+    100274: maleNew:newspaper1:listanjeKontrola04
+    100276: maleNew:newspaper1:listanjeKontrola05
+    100278: maleNew:newspaper1:listanjeKontrola06
+    100280: maleNew:newspaper1:listanjeKontrola07
+    100282: maleNew:newspaper1:listanjeKontrola08
+    100284: maleNew:newspaper1:listanjeKontrola09
+    100286: maleNew:newspaper1:novina
+    100288: maleNew:newspaper1:pCube1
+    100290: maleNew:newspaper1:persp1
+    100292: maleNew:newspaper1:savijA01
+    100294: maleNew:newspaper1:savijA01 1
+    100296: maleNew:newspaper1:savijA01 10
+    100298: maleNew:newspaper1:savijA01 11
+    100300: maleNew:newspaper1:savijA01 12
+    100302: maleNew:newspaper1:savijA01 13
+    100304: maleNew:newspaper1:savijA01 14
+    100306: maleNew:newspaper1:savijA01 15
+    100308: maleNew:newspaper1:savijA01 2
+    100310: maleNew:newspaper1:savijA01 3
+    100312: maleNew:newspaper1:savijA01 4
+    100314: maleNew:newspaper1:savijA01 5
+    100316: maleNew:newspaper1:savijA01 6
+    100318: maleNew:newspaper1:savijA01 7
+    100320: maleNew:newspaper1:savijA01 8
+    100322: maleNew:newspaper1:savijA01 9
+    100324: maleNew:newspaper1:savijB01
+    100326: maleNew:newspaper1:savijB01 1
+    100328: maleNew:newspaper1:savijB01 10
+    100330: maleNew:newspaper1:savijB01 11
+    100332: maleNew:newspaper1:savijB01 12
+    100334: maleNew:newspaper1:savijB01 13
+    100336: maleNew:newspaper1:savijB01 14
+    100338: maleNew:newspaper1:savijB01 15
+    100340: maleNew:newspaper1:savijB01 2
+    100342: maleNew:newspaper1:savijB01 3
+    100344: maleNew:newspaper1:savijB01 4
+    100346: maleNew:newspaper1:savijB01 5
+    100348: maleNew:newspaper1:savijB01 6
+    100350: maleNew:newspaper1:savijB01 7
+    100352: maleNew:newspaper1:savijB01 8
+    100354: maleNew:newspaper1:savijB01 9
+    100356: maleNew:newspaper1:savijC
+    100358: maleNew:newspaper1:savijC 1
+    100360: maleNew:newspaper1:savijC 10
+    100362: maleNew:newspaper1:savijC 11
+    100364: maleNew:newspaper1:savijC 12
+    100366: maleNew:newspaper1:savijC 13
+    100368: maleNew:newspaper1:savijC 14
+    100370: maleNew:newspaper1:savijC 15
+    100372: maleNew:newspaper1:savijC 2
+    100374: maleNew:newspaper1:savijC 3
+    100376: maleNew:newspaper1:savijC 4
+    100378: maleNew:newspaper1:savijC 5
+    100380: maleNew:newspaper1:savijC 6
+    100382: maleNew:newspaper1:savijC 7
+    100384: maleNew:newspaper1:savijC 8
+    100386: maleNew:newspaper1:savijC 9
+    100388: maleNew:newspaper1:savijD
+    100390: maleNew:newspaper1:savijD 1
+    100392: maleNew:newspaper1:savijD 10
+    100394: maleNew:newspaper1:savijD 11
+    100396: maleNew:newspaper1:savijD 12
+    100398: maleNew:newspaper1:savijD 13
+    100400: maleNew:newspaper1:savijD 14
+    100402: maleNew:newspaper1:savijD 15
+    100404: maleNew:newspaper1:savijD 2
+    100406: maleNew:newspaper1:savijD 3
+    100408: maleNew:newspaper1:savijD 4
+    100410: maleNew:newspaper1:savijD 5
+    100412: maleNew:newspaper1:savijD 6
+    100414: maleNew:newspaper1:savijD 7
+    100416: maleNew:newspaper1:savijD 8
+    100418: maleNew:newspaper1:savijD 9
+    100420: maleNew:newspaper1:savijRoot01
+    100422: maleNew:newspaper1:savijRoot010
+    100424: maleNew:newspaper1:savijRoot011
+    100426: maleNew:newspaper1:savijRoot012
+    100428: maleNew:newspaper1:savijRoot013
+    100430: maleNew:newspaper1:savijRoot014
+    100432: maleNew:newspaper1:savijRoot015
+    100434: maleNew:newspaper1:savijRoot016
+    100436: maleNew:newspaper1:savijRoot02
+    100438: maleNew:newspaper1:savijRoot03
+    100440: maleNew:newspaper1:savijRoot04
+    100442: maleNew:newspaper1:savijRoot05
+    100444: maleNew:newspaper1:savijRoot06
+    100446: maleNew:newspaper1:savijRoot07
+    100448: maleNew:newspaper1:savijRoot08
+    100450: maleNew:newspaper1:savijRoot09
+    100452: maleNew:newspaper1:spotLight1
+    100454: maleNew:newspaper1:spotLight2
+    100456: maleNew:newspaper1:ugaoDonjiA01
+    100458: maleNew:newspaper1:ugaoDonjiA01 1
+    100460: maleNew:newspaper1:ugaoDonjiA01 10
+    100462: maleNew:newspaper1:ugaoDonjiA01 11
+    100464: maleNew:newspaper1:ugaoDonjiA01 12
+    100466: maleNew:newspaper1:ugaoDonjiA01 13
+    100468: maleNew:newspaper1:ugaoDonjiA01 14
+    100470: maleNew:newspaper1:ugaoDonjiA01 15
+    100472: maleNew:newspaper1:ugaoDonjiA01 2
+    100474: maleNew:newspaper1:ugaoDonjiA01 3
+    100476: maleNew:newspaper1:ugaoDonjiA01 4
+    100478: maleNew:newspaper1:ugaoDonjiA01 5
+    100480: maleNew:newspaper1:ugaoDonjiA01 6
+    100482: maleNew:newspaper1:ugaoDonjiA01 7
+    100484: maleNew:newspaper1:ugaoDonjiA01 8
+    100486: maleNew:newspaper1:ugaoDonjiA01 9
+    100488: maleNew:newspaper1:ugaoDonjiB01
+    100490: maleNew:newspaper1:ugaoDonjiB01 1
+    100492: maleNew:newspaper1:ugaoDonjiB01 10
+    100494: maleNew:newspaper1:ugaoDonjiB01 11
+    100496: maleNew:newspaper1:ugaoDonjiB01 12
+    100498: maleNew:newspaper1:ugaoDonjiB01 13
+    100500: maleNew:newspaper1:ugaoDonjiB01 14
+    100502: maleNew:newspaper1:ugaoDonjiB01 15
+    100504: maleNew:newspaper1:ugaoDonjiB01 2
+    100506: maleNew:newspaper1:ugaoDonjiB01 3
+    100508: maleNew:newspaper1:ugaoDonjiB01 4
+    100510: maleNew:newspaper1:ugaoDonjiB01 5
+    100512: maleNew:newspaper1:ugaoDonjiB01 6
+    100514: maleNew:newspaper1:ugaoDonjiB01 7
+    100516: maleNew:newspaper1:ugaoDonjiB01 8
+    100518: maleNew:newspaper1:ugaoDonjiB01 9
+    100520: maleNew:newspaper1:ugaoGornjiA01
+    100522: maleNew:newspaper1:ugaoGornjiA01 1
+    100524: maleNew:newspaper1:ugaoGornjiA01 10
+    100526: maleNew:newspaper1:ugaoGornjiA01 11
+    100528: maleNew:newspaper1:ugaoGornjiA01 12
+    100530: maleNew:newspaper1:ugaoGornjiA01 13
+    100532: maleNew:newspaper1:ugaoGornjiA01 14
+    100534: maleNew:newspaper1:ugaoGornjiA01 15
+    100536: maleNew:newspaper1:ugaoGornjiA01 2
+    100538: maleNew:newspaper1:ugaoGornjiA01 3
+    100540: maleNew:newspaper1:ugaoGornjiA01 4
+    100542: maleNew:newspaper1:ugaoGornjiA01 5
+    100544: maleNew:newspaper1:ugaoGornjiA01 6
+    100546: maleNew:newspaper1:ugaoGornjiA01 7
+    100548: maleNew:newspaper1:ugaoGornjiA01 8
+    100550: maleNew:newspaper1:ugaoGornjiA01 9
+    100552: maleNew:newspaper1:ugaoGornjiB01
+    100554: maleNew:newspaper1:ugaoGornjiB01 1
+    100556: maleNew:newspaper1:ugaoGornjiB01 10
+    100558: maleNew:newspaper1:ugaoGornjiB01 11
+    100560: maleNew:newspaper1:ugaoGornjiB01 12
+    100562: maleNew:newspaper1:ugaoGornjiB01 13
+    100564: maleNew:newspaper1:ugaoGornjiB01 14
+    100566: maleNew:newspaper1:ugaoGornjiB01 15
+    100568: maleNew:newspaper1:ugaoGornjiB01 2
+    100570: maleNew:newspaper1:ugaoGornjiB01 3
+    100572: maleNew:newspaper1:ugaoGornjiB01 4
+    100574: maleNew:newspaper1:ugaoGornjiB01 5
+    100576: maleNew:newspaper1:ugaoGornjiB01 6
+    100578: maleNew:newspaper1:ugaoGornjiB01 7
+    100580: maleNew:newspaper1:ugaoGornjiB01 8
+    100582: maleNew:newspaper1:ugaoGornjiB01 9
+    100584: maleNew:newspaper:persp1
+    100586: maleNew:newspaper:spotLight1
+    100588: maleNew:newspaper:spotLight2
+    100590: maleNew:nokia-n80
+    100592: maleNew:port-border
+    100594: maleNew:port-border2
+    100596: maleNew:port-connectors
+    100598: maleNew:port-fix
+    100600: maleNew:port-kase
+    100602: maleNew:port-rails
+    100604: maleNew:powerbutton
+    100606: maleNew:powerbutton-border1
+    100608: maleTry:accamulator-fix
+    100610: maleTry:Bip01 Head
+    100612: maleTry:Bip01 L Calf
+    100614: maleTry:Bip01 L Clavicle
+    100616: maleTry:Bip01 L Finger0
+    100618: maleTry:Bip01 L Finger01
+    100620: maleTry:Bip01 L Finger02
+    100622: maleTry:Bip01 L Finger1
+    100624: maleTry:Bip01 L Finger11
+    100626: maleTry:Bip01 L Finger12
+    100628: maleTry:Bip01 L Finger2
+    100630: maleTry:Bip01 L Finger21
+    100632: maleTry:Bip01 L Finger22
+    100634: maleTry:Bip01 L Finger3
+    100636: maleTry:Bip01 L Finger31
+    100638: maleTry:Bip01 L Finger32
+    100640: maleTry:Bip01 L Finger4
+    100642: maleTry:Bip01 L Finger41
+    100644: maleTry:Bip01 L Finger42
+    100646: maleTry:Bip01 L Foot
+    100648: maleTry:Bip01 L Forearm
+    100650: maleTry:Bip01 L Hand
+    100652: maleTry:Bip01 L Thigh
+    100654: maleTry:Bip01 L Toe0
+    100656: maleTry:Bip01 L UpperArm
+    100658: maleTry:Bip01 Neck
+    100660: maleTry:Bip01 Pelvis
+    100662: maleTry:Bip01 R Calf
+    100664: maleTry:Bip01 R Clavicle
+    100666: maleTry:Bip01 R Finger0
+    100668: maleTry:Bip01 R Finger01
+    100670: maleTry:Bip01 R Finger02
+    100672: maleTry:Bip01 R Finger1
+    100674: maleTry:Bip01 R Finger11
+    100676: maleTry:Bip01 R Finger12
+    100678: maleTry:Bip01 R Finger2
+    100680: maleTry:Bip01 R Finger21
+    100682: maleTry:Bip01 R Finger22
+    100684: maleTry:Bip01 R Finger3
+    100686: maleTry:Bip01 R Finger31
+    100688: maleTry:Bip01 R Finger32
+    100690: maleTry:Bip01 R Finger4
+    100692: maleTry:Bip01 R Finger41
+    100694: maleTry:Bip01 R Finger42
+    100696: maleTry:Bip01 R Foot
+    100698: maleTry:Bip01 R Forearm
+    100700: maleTry:Bip01 R Hand
+    100702: maleTry:Bip01 R Thigh
+    100704: maleTry:Bip01 R Toe0
+    100706: maleTry:Bip01 R UpperArm
+    100708: maleTry:Bip01 Spine
+    100710: maleTry:Bip01 Spine1
+    100712: maleTry:Bip01 Spine2
+    100714: maleTry:bottom
+    100716: maleTry:button1
+    100718: maleTry:cam-case1
+    100720: maleTry:cam-case2
+    100722: maleTry:cam-kase3
+    100724: maleTry:cam-switcher
+    100726: maleTry:cam1
+    100728: maleTry:cam2
+    100730: maleTry:camlens
+    100732: maleTry:flash
+    100734: maleTry:flash-glass
+    100736: maleTry:kase-bottom1
+    100738: maleTry:kase-bottom2
+    100740: maleTry:kase-bottom3
+    100742: maleTry:keyboard
+    100744: maleTry:keyboard-border
+    100746: maleTry:keyboard-top
+    100748: maleTry:minisd-cap
+    100750: maleTry:newspaper1:general
+    100752: maleTry:newspaper1:geometri
+    100754: maleTry:newspaper1:jointc01
+    100756: maleTry:newspaper1:jointc01 1
+    100758: maleTry:newspaper1:jointc01 10
+    100760: maleTry:newspaper1:jointc01 11
+    100762: maleTry:newspaper1:jointc01 12
+    100764: maleTry:newspaper1:jointc01 13
+    100766: maleTry:newspaper1:jointc01 14
+    100768: maleTry:newspaper1:jointc01 15
+    100770: maleTry:newspaper1:jointc01 2
+    100772: maleTry:newspaper1:jointc01 3
+    100774: maleTry:newspaper1:jointc01 4
+    100776: maleTry:newspaper1:jointc01 5
+    100778: maleTry:newspaper1:jointc01 6
+    100780: maleTry:newspaper1:jointc01 7
+    100782: maleTry:newspaper1:jointc01 8
+    100784: maleTry:newspaper1:jointc01 9
+    100786: maleTry:newspaper1:jointd01
+    100788: maleTry:newspaper1:jointd01 1
+    100790: maleTry:newspaper1:jointd01 10
+    100792: maleTry:newspaper1:jointd01 11
+    100794: maleTry:newspaper1:jointd01 12
+    100796: maleTry:newspaper1:jointd01 13
+    100798: maleTry:newspaper1:jointd01 14
+    100800: maleTry:newspaper1:jointd01 15
+    100802: maleTry:newspaper1:jointd01 2
+    100804: maleTry:newspaper1:jointd01 3
+    100806: maleTry:newspaper1:jointd01 4
+    100808: maleTry:newspaper1:jointd01 5
+    100810: maleTry:newspaper1:jointd01 6
+    100812: maleTry:newspaper1:jointd01 7
+    100814: maleTry:newspaper1:jointd01 8
+    100816: maleTry:newspaper1:jointd01 9
+    100818: maleTry:newspaper1:kontrole
+    100820: maleTry:newspaper1:kosti
+    100822: maleTry:newspaper1:list01
+    100824: maleTry:newspaper1:list02
+    100826: maleTry:newspaper1:list03
+    100828: maleTry:newspaper1:list04
+    100830: maleTry:newspaper1:list05
+    100832: maleTry:newspaper1:list06
+    100834: maleTry:newspaper1:list07
+    100836: maleTry:newspaper1:list08
+    100838: maleTry:newspaper1:list09
+    100840: maleTry:newspaper1:list10
+    100842: maleTry:newspaper1:list11
+    100844: maleTry:newspaper1:list12
+    100846: maleTry:newspaper1:list13
+    100848: maleTry:newspaper1:list14
+    100850: maleTry:newspaper1:list15
+    100852: maleTry:newspaper1:list16
+    100854: maleTry:newspaper1:listanjeKontrola01
+    100856: maleTry:newspaper1:listanjeKontrola010
+    100858: maleTry:newspaper1:listanjeKontrola011
+    100860: maleTry:newspaper1:listanjeKontrola012
+    100862: maleTry:newspaper1:listanjeKontrola013
+    100864: maleTry:newspaper1:listanjeKontrola014
+    100866: maleTry:newspaper1:listanjeKontrola015
+    100868: maleTry:newspaper1:listanjeKontrola016
+    100870: maleTry:newspaper1:listanjeKontrola02
+    100872: maleTry:newspaper1:listanjeKontrola03
+    100874: maleTry:newspaper1:listanjeKontrola04
+    100876: maleTry:newspaper1:listanjeKontrola05
+    100878: maleTry:newspaper1:listanjeKontrola06
+    100880: maleTry:newspaper1:listanjeKontrola07
+    100882: maleTry:newspaper1:listanjeKontrola08
+    100884: maleTry:newspaper1:listanjeKontrola09
+    100886: maleTry:newspaper1:novina
+    100888: maleTry:newspaper1:pCube1
+    100890: maleTry:newspaper1:persp1
+    100892: maleTry:newspaper1:savijA01
+    100894: maleTry:newspaper1:savijA01 1
+    100896: maleTry:newspaper1:savijA01 10
+    100898: maleTry:newspaper1:savijA01 11
+    100900: maleTry:newspaper1:savijA01 12
+    100902: maleTry:newspaper1:savijA01 13
+    100904: maleTry:newspaper1:savijA01 14
+    100906: maleTry:newspaper1:savijA01 15
+    100908: maleTry:newspaper1:savijA01 2
+    100910: maleTry:newspaper1:savijA01 3
+    100912: maleTry:newspaper1:savijA01 4
+    100914: maleTry:newspaper1:savijA01 5
+    100916: maleTry:newspaper1:savijA01 6
+    100918: maleTry:newspaper1:savijA01 7
+    100920: maleTry:newspaper1:savijA01 8
+    100922: maleTry:newspaper1:savijA01 9
+    100924: maleTry:newspaper1:savijB01
+    100926: maleTry:newspaper1:savijB01 1
+    100928: maleTry:newspaper1:savijB01 10
+    100930: maleTry:newspaper1:savijB01 11
+    100932: maleTry:newspaper1:savijB01 12
+    100934: maleTry:newspaper1:savijB01 13
+    100936: maleTry:newspaper1:savijB01 14
+    100938: maleTry:newspaper1:savijB01 15
+    100940: maleTry:newspaper1:savijB01 2
+    100942: maleTry:newspaper1:savijB01 3
+    100944: maleTry:newspaper1:savijB01 4
+    100946: maleTry:newspaper1:savijB01 5
+    100948: maleTry:newspaper1:savijB01 6
+    100950: maleTry:newspaper1:savijB01 7
+    100952: maleTry:newspaper1:savijB01 8
+    100954: maleTry:newspaper1:savijB01 9
+    100956: maleTry:newspaper1:savijC
+    100958: maleTry:newspaper1:savijC 1
+    100960: maleTry:newspaper1:savijC 10
+    100962: maleTry:newspaper1:savijC 11
+    100964: maleTry:newspaper1:savijC 12
+    100966: maleTry:newspaper1:savijC 13
+    100968: maleTry:newspaper1:savijC 14
+    100970: maleTry:newspaper1:savijC 15
+    100972: maleTry:newspaper1:savijC 2
+    100974: maleTry:newspaper1:savijC 3
+    100976: maleTry:newspaper1:savijC 4
+    100978: maleTry:newspaper1:savijC 5
+    100980: maleTry:newspaper1:savijC 6
+    100982: maleTry:newspaper1:savijC 7
+    100984: maleTry:newspaper1:savijC 8
+    100986: maleTry:newspaper1:savijC 9
+    100988: maleTry:newspaper1:savijD
+    100990: maleTry:newspaper1:savijD 1
+    100992: maleTry:newspaper1:savijD 10
+    100994: maleTry:newspaper1:savijD 11
+    100996: maleTry:newspaper1:savijD 12
+    100998: maleTry:newspaper1:savijD 13
+    101000: maleTry:newspaper1:savijD 14
+    101002: maleTry:newspaper1:savijD 15
+    101004: maleTry:newspaper1:savijD 2
+    101006: maleTry:newspaper1:savijD 3
+    101008: maleTry:newspaper1:savijD 4
+    101010: maleTry:newspaper1:savijD 5
+    101012: maleTry:newspaper1:savijD 6
+    101014: maleTry:newspaper1:savijD 7
+    101016: maleTry:newspaper1:savijD 8
+    101018: maleTry:newspaper1:savijD 9
+    101020: maleTry:newspaper1:savijRoot01
+    101022: maleTry:newspaper1:savijRoot010
+    101024: maleTry:newspaper1:savijRoot011
+    101026: maleTry:newspaper1:savijRoot012
+    101028: maleTry:newspaper1:savijRoot013
+    101030: maleTry:newspaper1:savijRoot014
+    101032: maleTry:newspaper1:savijRoot015
+    101034: maleTry:newspaper1:savijRoot016
+    101036: maleTry:newspaper1:savijRoot02
+    101038: maleTry:newspaper1:savijRoot03
+    101040: maleTry:newspaper1:savijRoot04
+    101042: maleTry:newspaper1:savijRoot05
+    101044: maleTry:newspaper1:savijRoot06
+    101046: maleTry:newspaper1:savijRoot07
+    101048: maleTry:newspaper1:savijRoot08
+    101050: maleTry:newspaper1:savijRoot09
+    101052: maleTry:newspaper1:spotLight1
+    101054: maleTry:newspaper1:spotLight2
+    101056: maleTry:newspaper1:ugaoDonjiA01
+    101058: maleTry:newspaper1:ugaoDonjiA01 1
+    101060: maleTry:newspaper1:ugaoDonjiA01 10
+    101062: maleTry:newspaper1:ugaoDonjiA01 11
+    101064: maleTry:newspaper1:ugaoDonjiA01 12
+    101066: maleTry:newspaper1:ugaoDonjiA01 13
+    101068: maleTry:newspaper1:ugaoDonjiA01 14
+    101070: maleTry:newspaper1:ugaoDonjiA01 15
+    101072: maleTry:newspaper1:ugaoDonjiA01 2
+    101074: maleTry:newspaper1:ugaoDonjiA01 3
+    101076: maleTry:newspaper1:ugaoDonjiA01 4
+    101078: maleTry:newspaper1:ugaoDonjiA01 5
+    101080: maleTry:newspaper1:ugaoDonjiA01 6
+    101082: maleTry:newspaper1:ugaoDonjiA01 7
+    101084: maleTry:newspaper1:ugaoDonjiA01 8
+    101086: maleTry:newspaper1:ugaoDonjiA01 9
+    101088: maleTry:newspaper1:ugaoDonjiB01
+    101090: maleTry:newspaper1:ugaoDonjiB01 1
+    101092: maleTry:newspaper1:ugaoDonjiB01 10
+    101094: maleTry:newspaper1:ugaoDonjiB01 11
+    101096: maleTry:newspaper1:ugaoDonjiB01 12
+    101098: maleTry:newspaper1:ugaoDonjiB01 13
+    101100: maleTry:newspaper1:ugaoDonjiB01 14
+    101102: maleTry:newspaper1:ugaoDonjiB01 15
+    101104: maleTry:newspaper1:ugaoDonjiB01 2
+    101106: maleTry:newspaper1:ugaoDonjiB01 3
+    101108: maleTry:newspaper1:ugaoDonjiB01 4
+    101110: maleTry:newspaper1:ugaoDonjiB01 5
+    101112: maleTry:newspaper1:ugaoDonjiB01 6
+    101114: maleTry:newspaper1:ugaoDonjiB01 7
+    101116: maleTry:newspaper1:ugaoDonjiB01 8
+    101118: maleTry:newspaper1:ugaoDonjiB01 9
+    101120: maleTry:newspaper1:ugaoGornjiA01
+    101122: maleTry:newspaper1:ugaoGornjiA01 1
+    101124: maleTry:newspaper1:ugaoGornjiA01 10
+    101126: maleTry:newspaper1:ugaoGornjiA01 11
+    101128: maleTry:newspaper1:ugaoGornjiA01 12
+    101130: maleTry:newspaper1:ugaoGornjiA01 13
+    101132: maleTry:newspaper1:ugaoGornjiA01 14
+    101134: maleTry:newspaper1:ugaoGornjiA01 15
+    101136: maleTry:newspaper1:ugaoGornjiA01 2
+    101138: maleTry:newspaper1:ugaoGornjiA01 3
+    101140: maleTry:newspaper1:ugaoGornjiA01 4
+    101142: maleTry:newspaper1:ugaoGornjiA01 5
+    101144: maleTry:newspaper1:ugaoGornjiA01 6
+    101146: maleTry:newspaper1:ugaoGornjiA01 7
+    101148: maleTry:newspaper1:ugaoGornjiA01 8
+    101150: maleTry:newspaper1:ugaoGornjiA01 9
+    101152: maleTry:newspaper1:ugaoGornjiB01
+    101154: maleTry:newspaper1:ugaoGornjiB01 1
+    101156: maleTry:newspaper1:ugaoGornjiB01 10
+    101158: maleTry:newspaper1:ugaoGornjiB01 11
+    101160: maleTry:newspaper1:ugaoGornjiB01 12
+    101162: maleTry:newspaper1:ugaoGornjiB01 13
+    101164: maleTry:newspaper1:ugaoGornjiB01 14
+    101166: maleTry:newspaper1:ugaoGornjiB01 15
+    101168: maleTry:newspaper1:ugaoGornjiB01 2
+    101170: maleTry:newspaper1:ugaoGornjiB01 3
+    101172: maleTry:newspaper1:ugaoGornjiB01 4
+    101174: maleTry:newspaper1:ugaoGornjiB01 5
+    101176: maleTry:newspaper1:ugaoGornjiB01 6
+    101178: maleTry:newspaper1:ugaoGornjiB01 7
+    101180: maleTry:newspaper1:ugaoGornjiB01 8
+    101182: maleTry:newspaper1:ugaoGornjiB01 9
+    101184: maleTry:newspaper:persp1
+    101186: maleTry:newspaper:spotLight1
+    101188: maleTry:newspaper:spotLight2
+    101190: maleTry:nokia-n80
+    101192: maleTry:port-border
+    101194: maleTry:port-border2
+    101196: maleTry:port-connectors
+    101198: maleTry:port-fix
+    101200: maleTry:port-kase
+    101202: maleTry:port-rails
+    101204: maleTry:powerbutton
+    101206: maleTry:powerbutton-border1
+    101208: //RootNode
+    101210: Mesh
+    400000: Bip02
+    400002: Male_Human1
+    400004: Male_Human2
+    400006: maleNew:accamulator-fix
+    400008: maleNew:Bip01
+    400010: maleNew:Bip01 Head
+    400012: maleNew:Bip01 L Calf
+    400014: maleNew:Bip01 L Clavicle
+    400016: maleNew:Bip01 L Finger0
+    400018: maleNew:Bip01 L Finger01
+    400020: maleNew:Bip01 L Finger02
+    400022: maleNew:Bip01 L Finger1
+    400024: maleNew:Bip01 L Finger11
+    400026: maleNew:Bip01 L Finger12
+    400028: maleNew:Bip01 L Finger2
+    400030: maleNew:Bip01 L Finger21
+    400032: maleNew:Bip01 L Finger22
+    400034: maleNew:Bip01 L Finger3
+    400036: maleNew:Bip01 L Finger31
+    400038: maleNew:Bip01 L Finger32
+    400040: maleNew:Bip01 L Finger4
+    400042: maleNew:Bip01 L Finger41
+    400044: maleNew:Bip01 L Finger42
+    400046: maleNew:Bip01 L Foot
+    400048: maleNew:Bip01 L Forearm
+    400050: maleNew:Bip01 L Hand
+    400052: maleNew:Bip01 L Thigh
+    400054: maleNew:Bip01 L Toe0
+    400056: maleNew:Bip01 L UpperArm
+    400058: maleNew:Bip01 Neck
+    400060: maleNew:Bip01 Pelvis
+    400062: maleNew:Bip01 R Calf
+    400064: maleNew:Bip01 R Clavicle
+    400066: maleNew:Bip01 R Finger0
+    400068: maleNew:Bip01 R Finger01
+    400070: maleNew:Bip01 R Finger02
+    400072: maleNew:Bip01 R Finger1
+    400074: maleNew:Bip01 R Finger11
+    400076: maleNew:Bip01 R Finger12
+    400078: maleNew:Bip01 R Finger2
+    400080: maleNew:Bip01 R Finger21
+    400082: maleNew:Bip01 R Finger22
+    400084: maleNew:Bip01 R Finger3
+    400086: maleNew:Bip01 R Finger31
+    400088: maleNew:Bip01 R Finger32
+    400090: maleNew:Bip01 R Finger4
+    400092: maleNew:Bip01 R Finger41
+    400094: maleNew:Bip01 R Finger42
+    400096: maleNew:Bip01 R Foot
+    400098: maleNew:Bip01 R Forearm
+    400100: maleNew:Bip01 R Hand
+    400102: maleNew:Bip01 R Thigh
+    400104: maleNew:Bip01 R Toe0
+    400106: maleNew:Bip01 R UpperArm
+    400108: maleNew:Bip01 Spine
+    400110: maleNew:Bip01 Spine1
+    400112: maleNew:Bip01 Spine2
+    400114: maleNew:bottom
+    400116: maleNew:button1
+    400118: maleNew:cam-case1
+    400120: maleNew:cam-case2
+    400122: maleNew:cam-kase3
+    400124: maleNew:cam-switcher
+    400126: maleNew:cam1
+    400128: maleNew:cam2
+    400130: maleNew:camlens
+    400132: maleNew:flash
+    400134: maleNew:flash-glass
+    400136: maleNew:kase-bottom1
+    400138: maleNew:kase-bottom2
+    400140: maleNew:kase-bottom3
+    400142: maleNew:keyboard
+    400144: maleNew:keyboard-border
+    400146: maleNew:keyboard-top
+    400148: maleNew:minisd-cap
+    400150: maleNew:newspaper1:general
+    400152: maleNew:newspaper1:geometri
+    400154: maleNew:newspaper1:jointc01
+    400156: maleNew:newspaper1:jointc01 1
+    400158: maleNew:newspaper1:jointc01 10
+    400160: maleNew:newspaper1:jointc01 11
+    400162: maleNew:newspaper1:jointc01 12
+    400164: maleNew:newspaper1:jointc01 13
+    400166: maleNew:newspaper1:jointc01 14
+    400168: maleNew:newspaper1:jointc01 15
+    400170: maleNew:newspaper1:jointc01 2
+    400172: maleNew:newspaper1:jointc01 3
+    400174: maleNew:newspaper1:jointc01 4
+    400176: maleNew:newspaper1:jointc01 5
+    400178: maleNew:newspaper1:jointc01 6
+    400180: maleNew:newspaper1:jointc01 7
+    400182: maleNew:newspaper1:jointc01 8
+    400184: maleNew:newspaper1:jointc01 9
+    400186: maleNew:newspaper1:jointd01
+    400188: maleNew:newspaper1:jointd01 1
+    400190: maleNew:newspaper1:jointd01 10
+    400192: maleNew:newspaper1:jointd01 11
+    400194: maleNew:newspaper1:jointd01 12
+    400196: maleNew:newspaper1:jointd01 13
+    400198: maleNew:newspaper1:jointd01 14
+    400200: maleNew:newspaper1:jointd01 15
+    400202: maleNew:newspaper1:jointd01 2
+    400204: maleNew:newspaper1:jointd01 3
+    400206: maleNew:newspaper1:jointd01 4
+    400208: maleNew:newspaper1:jointd01 5
+    400210: maleNew:newspaper1:jointd01 6
+    400212: maleNew:newspaper1:jointd01 7
+    400214: maleNew:newspaper1:jointd01 8
+    400216: maleNew:newspaper1:jointd01 9
+    400218: maleNew:newspaper1:kontrole
+    400220: maleNew:newspaper1:kosti
+    400222: maleNew:newspaper1:list01
+    400224: maleNew:newspaper1:list02
+    400226: maleNew:newspaper1:list03
+    400228: maleNew:newspaper1:list04
+    400230: maleNew:newspaper1:list05
+    400232: maleNew:newspaper1:list06
+    400234: maleNew:newspaper1:list07
+    400236: maleNew:newspaper1:list08
+    400238: maleNew:newspaper1:list09
+    400240: maleNew:newspaper1:list10
+    400242: maleNew:newspaper1:list11
+    400244: maleNew:newspaper1:list12
+    400246: maleNew:newspaper1:list13
+    400248: maleNew:newspaper1:list14
+    400250: maleNew:newspaper1:list15
+    400252: maleNew:newspaper1:list16
+    400254: maleNew:newspaper1:listanjeKontrola01
+    400256: maleNew:newspaper1:listanjeKontrola010
+    400258: maleNew:newspaper1:listanjeKontrola011
+    400260: maleNew:newspaper1:listanjeKontrola012
+    400262: maleNew:newspaper1:listanjeKontrola013
+    400264: maleNew:newspaper1:listanjeKontrola014
+    400266: maleNew:newspaper1:listanjeKontrola015
+    400268: maleNew:newspaper1:listanjeKontrola016
+    400270: maleNew:newspaper1:listanjeKontrola02
+    400272: maleNew:newspaper1:listanjeKontrola03
+    400274: maleNew:newspaper1:listanjeKontrola04
+    400276: maleNew:newspaper1:listanjeKontrola05
+    400278: maleNew:newspaper1:listanjeKontrola06
+    400280: maleNew:newspaper1:listanjeKontrola07
+    400282: maleNew:newspaper1:listanjeKontrola08
+    400284: maleNew:newspaper1:listanjeKontrola09
+    400286: maleNew:newspaper1:novina
+    400288: maleNew:newspaper1:pCube1
+    400290: maleNew:newspaper1:persp1
+    400292: maleNew:newspaper1:savijA01
+    400294: maleNew:newspaper1:savijA01 1
+    400296: maleNew:newspaper1:savijA01 10
+    400298: maleNew:newspaper1:savijA01 11
+    400300: maleNew:newspaper1:savijA01 12
+    400302: maleNew:newspaper1:savijA01 13
+    400304: maleNew:newspaper1:savijA01 14
+    400306: maleNew:newspaper1:savijA01 15
+    400308: maleNew:newspaper1:savijA01 2
+    400310: maleNew:newspaper1:savijA01 3
+    400312: maleNew:newspaper1:savijA01 4
+    400314: maleNew:newspaper1:savijA01 5
+    400316: maleNew:newspaper1:savijA01 6
+    400318: maleNew:newspaper1:savijA01 7
+    400320: maleNew:newspaper1:savijA01 8
+    400322: maleNew:newspaper1:savijA01 9
+    400324: maleNew:newspaper1:savijB01
+    400326: maleNew:newspaper1:savijB01 1
+    400328: maleNew:newspaper1:savijB01 10
+    400330: maleNew:newspaper1:savijB01 11
+    400332: maleNew:newspaper1:savijB01 12
+    400334: maleNew:newspaper1:savijB01 13
+    400336: maleNew:newspaper1:savijB01 14
+    400338: maleNew:newspaper1:savijB01 15
+    400340: maleNew:newspaper1:savijB01 2
+    400342: maleNew:newspaper1:savijB01 3
+    400344: maleNew:newspaper1:savijB01 4
+    400346: maleNew:newspaper1:savijB01 5
+    400348: maleNew:newspaper1:savijB01 6
+    400350: maleNew:newspaper1:savijB01 7
+    400352: maleNew:newspaper1:savijB01 8
+    400354: maleNew:newspaper1:savijB01 9
+    400356: maleNew:newspaper1:savijC
+    400358: maleNew:newspaper1:savijC 1
+    400360: maleNew:newspaper1:savijC 10
+    400362: maleNew:newspaper1:savijC 11
+    400364: maleNew:newspaper1:savijC 12
+    400366: maleNew:newspaper1:savijC 13
+    400368: maleNew:newspaper1:savijC 14
+    400370: maleNew:newspaper1:savijC 15
+    400372: maleNew:newspaper1:savijC 2
+    400374: maleNew:newspaper1:savijC 3
+    400376: maleNew:newspaper1:savijC 4
+    400378: maleNew:newspaper1:savijC 5
+    400380: maleNew:newspaper1:savijC 6
+    400382: maleNew:newspaper1:savijC 7
+    400384: maleNew:newspaper1:savijC 8
+    400386: maleNew:newspaper1:savijC 9
+    400388: maleNew:newspaper1:savijD
+    400390: maleNew:newspaper1:savijD 1
+    400392: maleNew:newspaper1:savijD 10
+    400394: maleNew:newspaper1:savijD 11
+    400396: maleNew:newspaper1:savijD 12
+    400398: maleNew:newspaper1:savijD 13
+    400400: maleNew:newspaper1:savijD 14
+    400402: maleNew:newspaper1:savijD 15
+    400404: maleNew:newspaper1:savijD 2
+    400406: maleNew:newspaper1:savijD 3
+    400408: maleNew:newspaper1:savijD 4
+    400410: maleNew:newspaper1:savijD 5
+    400412: maleNew:newspaper1:savijD 6
+    400414: maleNew:newspaper1:savijD 7
+    400416: maleNew:newspaper1:savijD 8
+    400418: maleNew:newspaper1:savijD 9
+    400420: maleNew:newspaper1:savijRoot01
+    400422: maleNew:newspaper1:savijRoot010
+    400424: maleNew:newspaper1:savijRoot011
+    400426: maleNew:newspaper1:savijRoot012
+    400428: maleNew:newspaper1:savijRoot013
+    400430: maleNew:newspaper1:savijRoot014
+    400432: maleNew:newspaper1:savijRoot015
+    400434: maleNew:newspaper1:savijRoot016
+    400436: maleNew:newspaper1:savijRoot02
+    400438: maleNew:newspaper1:savijRoot03
+    400440: maleNew:newspaper1:savijRoot04
+    400442: maleNew:newspaper1:savijRoot05
+    400444: maleNew:newspaper1:savijRoot06
+    400446: maleNew:newspaper1:savijRoot07
+    400448: maleNew:newspaper1:savijRoot08
+    400450: maleNew:newspaper1:savijRoot09
+    400452: maleNew:newspaper1:spotLight1
+    400454: maleNew:newspaper1:spotLight2
+    400456: maleNew:newspaper1:ugaoDonjiA01
+    400458: maleNew:newspaper1:ugaoDonjiA01 1
+    400460: maleNew:newspaper1:ugaoDonjiA01 10
+    400462: maleNew:newspaper1:ugaoDonjiA01 11
+    400464: maleNew:newspaper1:ugaoDonjiA01 12
+    400466: maleNew:newspaper1:ugaoDonjiA01 13
+    400468: maleNew:newspaper1:ugaoDonjiA01 14
+    400470: maleNew:newspaper1:ugaoDonjiA01 15
+    400472: maleNew:newspaper1:ugaoDonjiA01 2
+    400474: maleNew:newspaper1:ugaoDonjiA01 3
+    400476: maleNew:newspaper1:ugaoDonjiA01 4
+    400478: maleNew:newspaper1:ugaoDonjiA01 5
+    400480: maleNew:newspaper1:ugaoDonjiA01 6
+    400482: maleNew:newspaper1:ugaoDonjiA01 7
+    400484: maleNew:newspaper1:ugaoDonjiA01 8
+    400486: maleNew:newspaper1:ugaoDonjiA01 9
+    400488: maleNew:newspaper1:ugaoDonjiB01
+    400490: maleNew:newspaper1:ugaoDonjiB01 1
+    400492: maleNew:newspaper1:ugaoDonjiB01 10
+    400494: maleNew:newspaper1:ugaoDonjiB01 11
+    400496: maleNew:newspaper1:ugaoDonjiB01 12
+    400498: maleNew:newspaper1:ugaoDonjiB01 13
+    400500: maleNew:newspaper1:ugaoDonjiB01 14
+    400502: maleNew:newspaper1:ugaoDonjiB01 15
+    400504: maleNew:newspaper1:ugaoDonjiB01 2
+    400506: maleNew:newspaper1:ugaoDonjiB01 3
+    400508: maleNew:newspaper1:ugaoDonjiB01 4
+    400510: maleNew:newspaper1:ugaoDonjiB01 5
+    400512: maleNew:newspaper1:ugaoDonjiB01 6
+    400514: maleNew:newspaper1:ugaoDonjiB01 7
+    400516: maleNew:newspaper1:ugaoDonjiB01 8
+    400518: maleNew:newspaper1:ugaoDonjiB01 9
+    400520: maleNew:newspaper1:ugaoGornjiA01
+    400522: maleNew:newspaper1:ugaoGornjiA01 1
+    400524: maleNew:newspaper1:ugaoGornjiA01 10
+    400526: maleNew:newspaper1:ugaoGornjiA01 11
+    400528: maleNew:newspaper1:ugaoGornjiA01 12
+    400530: maleNew:newspaper1:ugaoGornjiA01 13
+    400532: maleNew:newspaper1:ugaoGornjiA01 14
+    400534: maleNew:newspaper1:ugaoGornjiA01 15
+    400536: maleNew:newspaper1:ugaoGornjiA01 2
+    400538: maleNew:newspaper1:ugaoGornjiA01 3
+    400540: maleNew:newspaper1:ugaoGornjiA01 4
+    400542: maleNew:newspaper1:ugaoGornjiA01 5
+    400544: maleNew:newspaper1:ugaoGornjiA01 6
+    400546: maleNew:newspaper1:ugaoGornjiA01 7
+    400548: maleNew:newspaper1:ugaoGornjiA01 8
+    400550: maleNew:newspaper1:ugaoGornjiA01 9
+    400552: maleNew:newspaper1:ugaoGornjiB01
+    400554: maleNew:newspaper1:ugaoGornjiB01 1
+    400556: maleNew:newspaper1:ugaoGornjiB01 10
+    400558: maleNew:newspaper1:ugaoGornjiB01 11
+    400560: maleNew:newspaper1:ugaoGornjiB01 12
+    400562: maleNew:newspaper1:ugaoGornjiB01 13
+    400564: maleNew:newspaper1:ugaoGornjiB01 14
+    400566: maleNew:newspaper1:ugaoGornjiB01 15
+    400568: maleNew:newspaper1:ugaoGornjiB01 2
+    400570: maleNew:newspaper1:ugaoGornjiB01 3
+    400572: maleNew:newspaper1:ugaoGornjiB01 4
+    400574: maleNew:newspaper1:ugaoGornjiB01 5
+    400576: maleNew:newspaper1:ugaoGornjiB01 6
+    400578: maleNew:newspaper1:ugaoGornjiB01 7
+    400580: maleNew:newspaper1:ugaoGornjiB01 8
+    400582: maleNew:newspaper1:ugaoGornjiB01 9
+    400584: maleNew:newspaper:persp1
+    400586: maleNew:newspaper:spotLight1
+    400588: maleNew:newspaper:spotLight2
+    400590: maleNew:nokia-n80
+    400592: maleNew:port-border
+    400594: maleNew:port-border2
+    400596: maleNew:port-connectors
+    400598: maleNew:port-fix
+    400600: maleNew:port-kase
+    400602: maleNew:port-rails
+    400604: maleNew:powerbutton
+    400606: maleNew:powerbutton-border1
+    400608: maleTry:accamulator-fix
+    400610: maleTry:Bip01 Head
+    400612: maleTry:Bip01 L Calf
+    400614: maleTry:Bip01 L Clavicle
+    400616: maleTry:Bip01 L Finger0
+    400618: maleTry:Bip01 L Finger01
+    400620: maleTry:Bip01 L Finger02
+    400622: maleTry:Bip01 L Finger1
+    400624: maleTry:Bip01 L Finger11
+    400626: maleTry:Bip01 L Finger12
+    400628: maleTry:Bip01 L Finger2
+    400630: maleTry:Bip01 L Finger21
+    400632: maleTry:Bip01 L Finger22
+    400634: maleTry:Bip01 L Finger3
+    400636: maleTry:Bip01 L Finger31
+    400638: maleTry:Bip01 L Finger32
+    400640: maleTry:Bip01 L Finger4
+    400642: maleTry:Bip01 L Finger41
+    400644: maleTry:Bip01 L Finger42
+    400646: maleTry:Bip01 L Foot
+    400648: maleTry:Bip01 L Forearm
+    400650: maleTry:Bip01 L Hand
+    400652: maleTry:Bip01 L Thigh
+    400654: maleTry:Bip01 L Toe0
+    400656: maleTry:Bip01 L UpperArm
+    400658: maleTry:Bip01 Neck
+    400660: maleTry:Bip01 Pelvis
+    400662: maleTry:Bip01 R Calf
+    400664: maleTry:Bip01 R Clavicle
+    400666: maleTry:Bip01 R Finger0
+    400668: maleTry:Bip01 R Finger01
+    400670: maleTry:Bip01 R Finger02
+    400672: maleTry:Bip01 R Finger1
+    400674: maleTry:Bip01 R Finger11
+    400676: maleTry:Bip01 R Finger12
+    400678: maleTry:Bip01 R Finger2
+    400680: maleTry:Bip01 R Finger21
+    400682: maleTry:Bip01 R Finger22
+    400684: maleTry:Bip01 R Finger3
+    400686: maleTry:Bip01 R Finger31
+    400688: maleTry:Bip01 R Finger32
+    400690: maleTry:Bip01 R Finger4
+    400692: maleTry:Bip01 R Finger41
+    400694: maleTry:Bip01 R Finger42
+    400696: maleTry:Bip01 R Foot
+    400698: maleTry:Bip01 R Forearm
+    400700: maleTry:Bip01 R Hand
+    400702: maleTry:Bip01 R Thigh
+    400704: maleTry:Bip01 R Toe0
+    400706: maleTry:Bip01 R UpperArm
+    400708: maleTry:Bip01 Spine
+    400710: maleTry:Bip01 Spine1
+    400712: maleTry:Bip01 Spine2
+    400714: maleTry:bottom
+    400716: maleTry:button1
+    400718: maleTry:cam-case1
+    400720: maleTry:cam-case2
+    400722: maleTry:cam-kase3
+    400724: maleTry:cam-switcher
+    400726: maleTry:cam1
+    400728: maleTry:cam2
+    400730: maleTry:camlens
+    400732: maleTry:flash
+    400734: maleTry:flash-glass
+    400736: maleTry:kase-bottom1
+    400738: maleTry:kase-bottom2
+    400740: maleTry:kase-bottom3
+    400742: maleTry:keyboard
+    400744: maleTry:keyboard-border
+    400746: maleTry:keyboard-top
+    400748: maleTry:minisd-cap
+    400750: maleTry:newspaper1:general
+    400752: maleTry:newspaper1:geometri
+    400754: maleTry:newspaper1:jointc01
+    400756: maleTry:newspaper1:jointc01 1
+    400758: maleTry:newspaper1:jointc01 10
+    400760: maleTry:newspaper1:jointc01 11
+    400762: maleTry:newspaper1:jointc01 12
+    400764: maleTry:newspaper1:jointc01 13
+    400766: maleTry:newspaper1:jointc01 14
+    400768: maleTry:newspaper1:jointc01 15
+    400770: maleTry:newspaper1:jointc01 2
+    400772: maleTry:newspaper1:jointc01 3
+    400774: maleTry:newspaper1:jointc01 4
+    400776: maleTry:newspaper1:jointc01 5
+    400778: maleTry:newspaper1:jointc01 6
+    400780: maleTry:newspaper1:jointc01 7
+    400782: maleTry:newspaper1:jointc01 8
+    400784: maleTry:newspaper1:jointc01 9
+    400786: maleTry:newspaper1:jointd01
+    400788: maleTry:newspaper1:jointd01 1
+    400790: maleTry:newspaper1:jointd01 10
+    400792: maleTry:newspaper1:jointd01 11
+    400794: maleTry:newspaper1:jointd01 12
+    400796: maleTry:newspaper1:jointd01 13
+    400798: maleTry:newspaper1:jointd01 14
+    400800: maleTry:newspaper1:jointd01 15
+    400802: maleTry:newspaper1:jointd01 2
+    400804: maleTry:newspaper1:jointd01 3
+    400806: maleTry:newspaper1:jointd01 4
+    400808: maleTry:newspaper1:jointd01 5
+    400810: maleTry:newspaper1:jointd01 6
+    400812: maleTry:newspaper1:jointd01 7
+    400814: maleTry:newspaper1:jointd01 8
+    400816: maleTry:newspaper1:jointd01 9
+    400818: maleTry:newspaper1:kontrole
+    400820: maleTry:newspaper1:kosti
+    400822: maleTry:newspaper1:list01
+    400824: maleTry:newspaper1:list02
+    400826: maleTry:newspaper1:list03
+    400828: maleTry:newspaper1:list04
+    400830: maleTry:newspaper1:list05
+    400832: maleTry:newspaper1:list06
+    400834: maleTry:newspaper1:list07
+    400836: maleTry:newspaper1:list08
+    400838: maleTry:newspaper1:list09
+    400840: maleTry:newspaper1:list10
+    400842: maleTry:newspaper1:list11
+    400844: maleTry:newspaper1:list12
+    400846: maleTry:newspaper1:list13
+    400848: maleTry:newspaper1:list14
+    400850: maleTry:newspaper1:list15
+    400852: maleTry:newspaper1:list16
+    400854: maleTry:newspaper1:listanjeKontrola01
+    400856: maleTry:newspaper1:listanjeKontrola010
+    400858: maleTry:newspaper1:listanjeKontrola011
+    400860: maleTry:newspaper1:listanjeKontrola012
+    400862: maleTry:newspaper1:listanjeKontrola013
+    400864: maleTry:newspaper1:listanjeKontrola014
+    400866: maleTry:newspaper1:listanjeKontrola015
+    400868: maleTry:newspaper1:listanjeKontrola016
+    400870: maleTry:newspaper1:listanjeKontrola02
+    400872: maleTry:newspaper1:listanjeKontrola03
+    400874: maleTry:newspaper1:listanjeKontrola04
+    400876: maleTry:newspaper1:listanjeKontrola05
+    400878: maleTry:newspaper1:listanjeKontrola06
+    400880: maleTry:newspaper1:listanjeKontrola07
+    400882: maleTry:newspaper1:listanjeKontrola08
+    400884: maleTry:newspaper1:listanjeKontrola09
+    400886: maleTry:newspaper1:novina
+    400888: maleTry:newspaper1:pCube1
+    400890: maleTry:newspaper1:persp1
+    400892: maleTry:newspaper1:savijA01
+    400894: maleTry:newspaper1:savijA01 1
+    400896: maleTry:newspaper1:savijA01 10
+    400898: maleTry:newspaper1:savijA01 11
+    400900: maleTry:newspaper1:savijA01 12
+    400902: maleTry:newspaper1:savijA01 13
+    400904: maleTry:newspaper1:savijA01 14
+    400906: maleTry:newspaper1:savijA01 15
+    400908: maleTry:newspaper1:savijA01 2
+    400910: maleTry:newspaper1:savijA01 3
+    400912: maleTry:newspaper1:savijA01 4
+    400914: maleTry:newspaper1:savijA01 5
+    400916: maleTry:newspaper1:savijA01 6
+    400918: maleTry:newspaper1:savijA01 7
+    400920: maleTry:newspaper1:savijA01 8
+    400922: maleTry:newspaper1:savijA01 9
+    400924: maleTry:newspaper1:savijB01
+    400926: maleTry:newspaper1:savijB01 1
+    400928: maleTry:newspaper1:savijB01 10
+    400930: maleTry:newspaper1:savijB01 11
+    400932: maleTry:newspaper1:savijB01 12
+    400934: maleTry:newspaper1:savijB01 13
+    400936: maleTry:newspaper1:savijB01 14
+    400938: maleTry:newspaper1:savijB01 15
+    400940: maleTry:newspaper1:savijB01 2
+    400942: maleTry:newspaper1:savijB01 3
+    400944: maleTry:newspaper1:savijB01 4
+    400946: maleTry:newspaper1:savijB01 5
+    400948: maleTry:newspaper1:savijB01 6
+    400950: maleTry:newspaper1:savijB01 7
+    400952: maleTry:newspaper1:savijB01 8
+    400954: maleTry:newspaper1:savijB01 9
+    400956: maleTry:newspaper1:savijC
+    400958: maleTry:newspaper1:savijC 1
+    400960: maleTry:newspaper1:savijC 10
+    400962: maleTry:newspaper1:savijC 11
+    400964: maleTry:newspaper1:savijC 12
+    400966: maleTry:newspaper1:savijC 13
+    400968: maleTry:newspaper1:savijC 14
+    400970: maleTry:newspaper1:savijC 15
+    400972: maleTry:newspaper1:savijC 2
+    400974: maleTry:newspaper1:savijC 3
+    400976: maleTry:newspaper1:savijC 4
+    400978: maleTry:newspaper1:savijC 5
+    400980: maleTry:newspaper1:savijC 6
+    400982: maleTry:newspaper1:savijC 7
+    400984: maleTry:newspaper1:savijC 8
+    400986: maleTry:newspaper1:savijC 9
+    400988: maleTry:newspaper1:savijD
+    400990: maleTry:newspaper1:savijD 1
+    400992: maleTry:newspaper1:savijD 10
+    400994: maleTry:newspaper1:savijD 11
+    400996: maleTry:newspaper1:savijD 12
+    400998: maleTry:newspaper1:savijD 13
+    401000: maleTry:newspaper1:savijD 14
+    401002: maleTry:newspaper1:savijD 15
+    401004: maleTry:newspaper1:savijD 2
+    401006: maleTry:newspaper1:savijD 3
+    401008: maleTry:newspaper1:savijD 4
+    401010: maleTry:newspaper1:savijD 5
+    401012: maleTry:newspaper1:savijD 6
+    401014: maleTry:newspaper1:savijD 7
+    401016: maleTry:newspaper1:savijD 8
+    401018: maleTry:newspaper1:savijD 9
+    401020: maleTry:newspaper1:savijRoot01
+    401022: maleTry:newspaper1:savijRoot010
+    401024: maleTry:newspaper1:savijRoot011
+    401026: maleTry:newspaper1:savijRoot012
+    401028: maleTry:newspaper1:savijRoot013
+    401030: maleTry:newspaper1:savijRoot014
+    401032: maleTry:newspaper1:savijRoot015
+    401034: maleTry:newspaper1:savijRoot016
+    401036: maleTry:newspaper1:savijRoot02
+    401038: maleTry:newspaper1:savijRoot03
+    401040: maleTry:newspaper1:savijRoot04
+    401042: maleTry:newspaper1:savijRoot05
+    401044: maleTry:newspaper1:savijRoot06
+    401046: maleTry:newspaper1:savijRoot07
+    401048: maleTry:newspaper1:savijRoot08
+    401050: maleTry:newspaper1:savijRoot09
+    401052: maleTry:newspaper1:spotLight1
+    401054: maleTry:newspaper1:spotLight2
+    401056: maleTry:newspaper1:ugaoDonjiA01
+    401058: maleTry:newspaper1:ugaoDonjiA01 1
+    401060: maleTry:newspaper1:ugaoDonjiA01 10
+    401062: maleTry:newspaper1:ugaoDonjiA01 11
+    401064: maleTry:newspaper1:ugaoDonjiA01 12
+    401066: maleTry:newspaper1:ugaoDonjiA01 13
+    401068: maleTry:newspaper1:ugaoDonjiA01 14
+    401070: maleTry:newspaper1:ugaoDonjiA01 15
+    401072: maleTry:newspaper1:ugaoDonjiA01 2
+    401074: maleTry:newspaper1:ugaoDonjiA01 3
+    401076: maleTry:newspaper1:ugaoDonjiA01 4
+    401078: maleTry:newspaper1:ugaoDonjiA01 5
+    401080: maleTry:newspaper1:ugaoDonjiA01 6
+    401082: maleTry:newspaper1:ugaoDonjiA01 7
+    401084: maleTry:newspaper1:ugaoDonjiA01 8
+    401086: maleTry:newspaper1:ugaoDonjiA01 9
+    401088: maleTry:newspaper1:ugaoDonjiB01
+    401090: maleTry:newspaper1:ugaoDonjiB01 1
+    401092: maleTry:newspaper1:ugaoDonjiB01 10
+    401094: maleTry:newspaper1:ugaoDonjiB01 11
+    401096: maleTry:newspaper1:ugaoDonjiB01 12
+    401098: maleTry:newspaper1:ugaoDonjiB01 13
+    401100: maleTry:newspaper1:ugaoDonjiB01 14
+    401102: maleTry:newspaper1:ugaoDonjiB01 15
+    401104: maleTry:newspaper1:ugaoDonjiB01 2
+    401106: maleTry:newspaper1:ugaoDonjiB01 3
+    401108: maleTry:newspaper1:ugaoDonjiB01 4
+    401110: maleTry:newspaper1:ugaoDonjiB01 5
+    401112: maleTry:newspaper1:ugaoDonjiB01 6
+    401114: maleTry:newspaper1:ugaoDonjiB01 7
+    401116: maleTry:newspaper1:ugaoDonjiB01 8
+    401118: maleTry:newspaper1:ugaoDonjiB01 9
+    401120: maleTry:newspaper1:ugaoGornjiA01
+    401122: maleTry:newspaper1:ugaoGornjiA01 1
+    401124: maleTry:newspaper1:ugaoGornjiA01 10
+    401126: maleTry:newspaper1:ugaoGornjiA01 11
+    401128: maleTry:newspaper1:ugaoGornjiA01 12
+    401130: maleTry:newspaper1:ugaoGornjiA01 13
+    401132: maleTry:newspaper1:ugaoGornjiA01 14
+    401134: maleTry:newspaper1:ugaoGornjiA01 15
+    401136: maleTry:newspaper1:ugaoGornjiA01 2
+    401138: maleTry:newspaper1:ugaoGornjiA01 3
+    401140: maleTry:newspaper1:ugaoGornjiA01 4
+    401142: maleTry:newspaper1:ugaoGornjiA01 5
+    401144: maleTry:newspaper1:ugaoGornjiA01 6
+    401146: maleTry:newspaper1:ugaoGornjiA01 7
+    401148: maleTry:newspaper1:ugaoGornjiA01 8
+    401150: maleTry:newspaper1:ugaoGornjiA01 9
+    401152: maleTry:newspaper1:ugaoGornjiB01
+    401154: maleTry:newspaper1:ugaoGornjiB01 1
+    401156: maleTry:newspaper1:ugaoGornjiB01 10
+    401158: maleTry:newspaper1:ugaoGornjiB01 11
+    401160: maleTry:newspaper1:ugaoGornjiB01 12
+    401162: maleTry:newspaper1:ugaoGornjiB01 13
+    401164: maleTry:newspaper1:ugaoGornjiB01 14
+    401166: maleTry:newspaper1:ugaoGornjiB01 15
+    401168: maleTry:newspaper1:ugaoGornjiB01 2
+    401170: maleTry:newspaper1:ugaoGornjiB01 3
+    401172: maleTry:newspaper1:ugaoGornjiB01 4
+    401174: maleTry:newspaper1:ugaoGornjiB01 5
+    401176: maleTry:newspaper1:ugaoGornjiB01 6
+    401178: maleTry:newspaper1:ugaoGornjiB01 7
+    401180: maleTry:newspaper1:ugaoGornjiB01 8
+    401182: maleTry:newspaper1:ugaoGornjiB01 9
+    401184: maleTry:newspaper:persp1
+    401186: maleTry:newspaper:spotLight1
+    401188: maleTry:newspaper:spotLight2
+    401190: maleTry:nokia-n80
+    401192: maleTry:port-border
+    401194: maleTry:port-border2
+    401196: maleTry:port-connectors
+    401198: maleTry:port-fix
+    401200: maleTry:port-kase
+    401202: maleTry:port-rails
+    401204: maleTry:powerbutton
+    401206: maleTry:powerbutton-border1
+    401208: //RootNode
+    401210: Mesh
+    2300000: maleNew:accamulator-fix
+    2300002: maleNew:button1
+    2300004: maleNew:cam-case1
+    2300006: maleNew:cam-case2
+    2300008: maleNew:cam-kase3
+    2300010: maleNew:cam-switcher
+    2300012: maleNew:cam1
+    2300014: maleNew:cam2
+    2300016: maleNew:camlens
+    2300018: maleNew:flash
+    2300020: maleNew:flash-glass
+    2300022: maleNew:kase-bottom1
+    2300024: maleNew:kase-bottom2
+    2300026: maleNew:kase-bottom3
+    2300028: maleNew:keyboard
+    2300030: maleNew:keyboard-border
+    2300032: maleNew:keyboard-top
+    2300034: maleNew:minisd-cap
+    2300036: maleNew:newspaper1:pCube1
+    2300038: maleNew:port-border
+    2300040: maleNew:port-border2
+    2300042: maleNew:port-connectors
+    2300044: maleNew:port-fix
+    2300046: maleNew:port-kase
+    2300048: maleNew:port-rails
+    2300050: maleNew:powerbutton
+    2300052: maleNew:powerbutton-border1
+    2300054: maleTry:accamulator-fix
+    2300056: maleTry:button1
+    2300058: maleTry:cam-case1
+    2300060: maleTry:cam-case2
+    2300062: maleTry:cam-kase3
+    2300064: maleTry:cam-switcher
+    2300066: maleTry:cam1
+    2300068: maleTry:cam2
+    2300070: maleTry:camlens
+    2300072: maleTry:flash
+    2300074: maleTry:flash-glass
+    2300076: maleTry:kase-bottom1
+    2300078: maleTry:kase-bottom2
+    2300080: maleTry:kase-bottom3
+    2300082: maleTry:keyboard
+    2300084: maleTry:keyboard-border
+    2300086: maleTry:keyboard-top
+    2300088: maleTry:minisd-cap
+    2300090: maleTry:newspaper1:pCube1
+    2300092: maleTry:port-border
+    2300094: maleTry:port-border2
+    2300096: maleTry:port-connectors
+    2300098: maleTry:port-fix
+    2300100: maleTry:port-kase
+    2300102: maleTry:port-rails
+    2300104: maleTry:powerbutton
+    2300106: maleTry:powerbutton-border1
+    2300108: Mesh
+    3300000: maleNew:accamulator-fix
+    3300002: maleNew:button1
+    3300004: maleNew:cam-case1
+    3300006: maleNew:cam-case2
+    3300008: maleNew:cam-kase3
+    3300010: maleNew:cam-switcher
+    3300012: maleNew:cam1
+    3300014: maleNew:cam2
+    3300016: maleNew:camlens
+    3300018: maleNew:flash
+    3300020: maleNew:flash-glass
+    3300022: maleNew:kase-bottom1
+    3300024: maleNew:kase-bottom2
+    3300026: maleNew:kase-bottom3
+    3300028: maleNew:keyboard
+    3300030: maleNew:keyboard-border
+    3300032: maleNew:keyboard-top
+    3300034: maleNew:minisd-cap
+    3300036: maleNew:newspaper1:pCube1
+    3300038: maleNew:port-border
+    3300040: maleNew:port-border2
+    3300042: maleNew:port-connectors
+    3300044: maleNew:port-fix
+    3300046: maleNew:port-kase
+    3300048: maleNew:port-rails
+    3300050: maleNew:powerbutton
+    3300052: maleNew:powerbutton-border1
+    3300054: maleTry:accamulator-fix
+    3300056: maleTry:button1
+    3300058: maleTry:cam-case1
+    3300060: maleTry:cam-case2
+    3300062: maleTry:cam-kase3
+    3300064: maleTry:cam-switcher
+    3300066: maleTry:cam1
+    3300068: maleTry:cam2
+    3300070: maleTry:camlens
+    3300072: maleTry:flash
+    3300074: maleTry:flash-glass
+    3300076: maleTry:kase-bottom1
+    3300078: maleTry:kase-bottom2
+    3300080: maleTry:kase-bottom3
+    3300082: maleTry:keyboard
+    3300084: maleTry:keyboard-border
+    3300086: maleTry:keyboard-top
+    3300088: maleTry:minisd-cap
+    3300090: maleTry:newspaper1:pCube1
+    3300092: maleTry:port-border
+    3300094: maleTry:port-border2
+    3300096: maleTry:port-connectors
+    3300098: maleTry:port-fix
+    3300100: maleTry:port-kase
+    3300102: maleTry:port-rails
+    3300104: maleTry:powerbutton
+    3300106: maleTry:powerbutton-border1
+    3300108: Mesh
+    4300000: maleNew:newspaper1:pCube1
+    4300002: maleNew:cam-case2
+    4300004: maleNew:kase-bottom1
+    4300006: maleNew:cam-case1
+    4300008: maleNew:minisd-cap
+    4300010: maleNew:kase-bottom3
+    4300012: maleNew:powerbutton-border1
+    4300014: maleNew:powerbutton
+    4300016: maleNew:kase-bottom2
+    4300018: maleNew:port-border2
+    4300020: maleNew:port-border
+    4300022: maleNew:port-kase
+    4300024: maleNew:port-connectors
+    4300026: maleNew:port-rails
+    4300028: maleNew:port-fix
+    4300030: maleNew:cam-switcher
+    4300032: maleNew:flash-glass
+    4300034: maleNew:flash
+    4300036: maleNew:cam1
+    4300038: maleNew:cam2
+    4300040: maleNew:camlens
+    4300042: maleNew:cam-kase3
+    4300044: maleNew:accamulator-fix
+    4300046: maleNew:button1
+    4300048: maleNew:keyboard-border
+    4300050: maleNew:keyboard
+    4300052: maleNew:keyboard-top
+    4300054: maleTry:newspaper1:pCube1
+    4300056: maleTry:cam-case2
+    4300058: maleTry:kase-bottom1
+    4300060: maleTry:cam-case1
+    4300062: maleTry:minisd-cap
+    4300064: maleTry:kase-bottom3
+    4300066: maleTry:powerbutton-border1
+    4300068: maleTry:powerbutton
+    4300070: maleTry:kase-bottom2
+    4300072: maleTry:port-border2
+    4300074: maleTry:port-border
+    4300076: maleTry:port-kase
+    4300078: maleTry:port-connectors
+    4300080: maleTry:port-rails
+    4300082: maleTry:port-fix
+    4300084: maleTry:cam-switcher
+    4300086: maleTry:flash-glass
+    4300088: maleTry:flash
+    4300090: maleTry:cam1
+    4300092: maleTry:cam2
+    4300094: maleTry:camlens
+    4300096: maleTry:cam-kase3
+    4300098: maleTry:accamulator-fix
+    4300100: maleTry:button1
+    4300102: maleTry:keyboard-border
+    4300104: maleTry:keyboard
+    4300106: maleTry:keyboard-top
+    4300108: Male_Human1
+    4300110: Male_Human2
+    4300112: Mesh
+    7400000: TwoPunch
+    7400002: PointKick
+    7400004: ClubDown
+    7400006: ClubHit
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Male_Human1
+    13700002: Male_Human2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TwoPunch
+      takeName: Take 001
+      firstFrame: 1470
+      lastFrame: 1520
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PointKick
+      takeName: Take 001
+      firstFrame: 1521
+      lastFrame: 1575
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ClubDown
+      takeName: Take 001
+      firstFrame: 1594
+      lastFrame: 1640
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ClubHit
+      takeName: Take 001
+      firstFrame: 1645
+      lastFrame: 1690
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

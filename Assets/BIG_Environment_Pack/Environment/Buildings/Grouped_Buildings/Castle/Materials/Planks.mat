@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Planks
+  m_Shader: {fileID: 4, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 3d6e8115d5dbdb44aadaf789e30d9ffd, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: b98bd7e30684909448d20d5cb3f380d3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Dif
+        second:
+          m_Texture: {fileID: 2800000, guid: 0abd22797d61c7141aa1a4a6ef4c2dd6, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Nor
+        second:
+          m_Texture: {fileID: 2800000, guid: b98bd7e30684909448d20d5cb3f380d3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Spec
+        second:
+          m_Texture: {fileID: 2800000, guid: ee007e18ee9c71d4f8a37a41af7d46e9, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .0889180601
+      data:
+        first:
+          name: _Gloss
+        second: .0298507456
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .820895553, g: .810271263, b: .796391189, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .76119405, g: .76119405, b: .76119405, a: 1}
+      data:
+        first:
+          name: _Diff_Color
+        second: {r: .828358173, g: .82196027, b: .81599462, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

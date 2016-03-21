@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 6763b8b1ff0c74f458f4bc8e4bcd8684
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: YCross_BotBolt_No2
+    100004: YCross_BotBolt_Yes
+    100006: YCRoss_BotHardware_No
+    100008: YCross_BotHardware_Yes
+    100010: YCross_BotNut_No
+    100012: YCross_BotNut_Yes
+    100014: YCross_No
+    100016: YCross_NoGrp
+    100018: YCross_Pole_No
+    100020: YCross_Pole_Yes
+    100022: YCross_SignPlate_No
+    100024: YCross_SignPlate_Yes
+    100026: YCross_TopBolt_No
+    100028: YCross_TopBolt_Yes
+    100030: YCross_TopHardware_No
+    100032: YCross_TopHardware_Yes
+    100034: YCross_TopNut_No
+    100036: YCross_TopNut_Yes
+    100038: YCross_YES
+    100040: YCross_Yes
+    400000: //RootNode
+    400002: YCross_BotBolt_No2
+    400004: YCross_BotBolt_Yes
+    400006: YCRoss_BotHardware_No
+    400008: YCross_BotHardware_Yes
+    400010: YCross_BotNut_No
+    400012: YCross_BotNut_Yes
+    400014: YCross_No
+    400016: YCross_NoGrp
+    400018: YCross_Pole_No
+    400020: YCross_Pole_Yes
+    400022: YCross_SignPlate_No
+    400024: YCross_SignPlate_Yes
+    400026: YCross_TopBolt_No
+    400028: YCross_TopBolt_Yes
+    400030: YCross_TopHardware_No
+    400032: YCross_TopHardware_Yes
+    400034: YCross_TopNut_No
+    400036: YCross_TopNut_Yes
+    400038: YCross_YES
+    400040: YCross_Yes
+    2300000: YCross_BotBolt_No2
+    2300002: YCross_BotBolt_Yes
+    2300004: YCross_BotNut_No
+    2300006: YCross_BotNut_Yes
+    2300008: YCross_Pole_No
+    2300010: YCross_Pole_Yes
+    2300012: YCross_SignPlate_No
+    2300014: YCross_SignPlate_Yes
+    2300016: YCross_TopBolt_No
+    2300018: YCross_TopBolt_Yes
+    2300020: YCross_TopNut_No
+    2300022: YCross_TopNut_Yes
+    3300000: YCross_BotBolt_No2
+    3300002: YCross_BotBolt_Yes
+    3300004: YCross_BotNut_No
+    3300006: YCross_BotNut_Yes
+    3300008: YCross_Pole_No
+    3300010: YCross_Pole_Yes
+    3300012: YCross_SignPlate_No
+    3300014: YCross_SignPlate_Yes
+    3300016: YCross_TopBolt_No
+    3300018: YCross_TopBolt_Yes
+    3300020: YCross_TopNut_No
+    3300022: YCross_TopNut_Yes
+    4300000: YCross_SignPlate_No
+    4300002: YCross_Pole_No
+    4300004: YCross_TopNut_No
+    4300006: YCross_TopBolt_No
+    4300008: YCross_BotBolt_No2
+    4300010: YCross_BotNut_No
+    4300012: YCross_SignPlate_Yes
+    4300014: YCross_Pole_Yes
+    4300016: YCross_TopNut_Yes
+    4300018: YCross_TopBolt_Yes
+    4300020: YCross_BotBolt_Yes
+    4300022: YCross_BotNut_Yes
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

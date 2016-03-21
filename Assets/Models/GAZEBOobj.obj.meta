@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: fb4493b0290aeec4593b1c0af8adadd6
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: gazebo_base
+    100002: gazebo_Cilindro3
+    100004: gazebo_colonne Cilindro
+    100006: gazebo_colonne Cilindro1
+    100008: gazebo_colonne Cilindro2
+    100010: gazebo_colonne Cilindro4
+    100012: gazebo_colonne Cilindro5
+    100014: gazebo_colonne Cilindro6
+    100016: gazebo_colonne Cilindro7
+    100018: gazebo_colonne Cilindro8
+    100020: //RootNode
+    400000: gazebo_base
+    400002: gazebo_Cilindro3
+    400004: gazebo_colonne Cilindro
+    400006: gazebo_colonne Cilindro1
+    400008: gazebo_colonne Cilindro2
+    400010: gazebo_colonne Cilindro4
+    400012: gazebo_colonne Cilindro5
+    400014: gazebo_colonne Cilindro6
+    400016: gazebo_colonne Cilindro7
+    400018: gazebo_colonne Cilindro8
+    400020: //RootNode
+    2300000: gazebo_base
+    2300002: gazebo_Cilindro3
+    2300004: gazebo_colonne Cilindro
+    2300006: gazebo_colonne Cilindro1
+    2300008: gazebo_colonne Cilindro2
+    2300010: gazebo_colonne Cilindro4
+    2300012: gazebo_colonne Cilindro5
+    2300014: gazebo_colonne Cilindro6
+    2300016: gazebo_colonne Cilindro7
+    2300018: gazebo_colonne Cilindro8
+    3300000: gazebo_base
+    3300002: gazebo_Cilindro3
+    3300004: gazebo_colonne Cilindro
+    3300006: gazebo_colonne Cilindro1
+    3300008: gazebo_colonne Cilindro2
+    3300010: gazebo_colonne Cilindro4
+    3300012: gazebo_colonne Cilindro5
+    3300014: gazebo_colonne Cilindro6
+    3300016: gazebo_colonne Cilindro7
+    3300018: gazebo_colonne Cilindro8
+    4300000: gazebo_base
+    4300002: gazebo_Cilindro3
+    4300004: gazebo_colonne Cilindro
+    4300006: gazebo_colonne Cilindro1
+    4300008: gazebo_colonne Cilindro2
+    4300010: gazebo_colonne Cilindro4
+    4300012: gazebo_colonne Cilindro5
+    4300014: gazebo_colonne Cilindro6
+    4300016: gazebo_colonne Cilindro7
+    4300018: gazebo_colonne Cilindro8
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Value3D
+  m_Shader: {fileID: 4800000, guid: 0540f63aa78635e43bc40ebc0f08959c, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _LowTexture
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _HighTexture
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _TurbulenceMapX
+        second:
+          m_Texture: {fileID: 2800000, guid: fe462e493de3b014bb64e58d5e1adaf0, type: 3}
+          m_Scale: {x: .100000001, y: .100000001}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _TurbulenceMapY
+        second:
+          m_Texture: {fileID: 2800000, guid: fe462e493de3b014bb64e58d5e1adaf0, type: 3}
+          m_Scale: {x: .100000001, y: .100000001}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _TurbulenceMapZ
+        second:
+          m_Texture: {fileID: 2800000, guid: fe462e493de3b014bb64e58d5e1adaf0, type: 3}
+          m_Scale: {x: .100000001, y: .100000001}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Texturing
+        second: -1
+      data:
+        first:
+          name: _Displace
+        second: -1
+      data:
+        first:
+          name: _Frequency
+        second: .589999974
+      data:
+        first:
+          name: _Amplitude
+        second: .790000021
+      data:
+        first:
+          name: _Contribution
+        second: 1
+      data:
+        first:
+          name: _Normalize
+        second: -1
+      data:
+        first:
+          name: _AnimSpeed
+        second: 0
+      data:
+        first:
+          name: _Octaves
+        second: 11.1538467
+      data:
+        first:
+          name: _TurbulencePower
+        second: .100000001
+      data:
+        first:
+          name: _Lacunarity
+        second: 1.91999996
+      data:
+        first:
+          name: _Persistence
+        second: -.810000002
+    m_Colors:
+      data:
+        first:
+          name: _LowColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _HighColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _NoiseOffset
+        second: {r: .0299999993, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _NoiseScale
+        second: {r: 1.07000005, g: .970000029, b: .100000001, a: 5}
+      data:
+        first:
+          name: _NoiseRotationX
+        second: {r: 1.57079637, g: 1.57079637, b: 0, a: 1}
+      data:
+        first:
+          name: _NoiseRotationY
+        second: {r: 1.57079637, g: 1.57079637, b: 0, a: 1}
+      data:
+        first:
+          name: _NoiseRotationZ
+        second: {r: 1.57079637, g: 1.57079637, b: 0, a: 1}
+      data:
+        first:
+          name: _NoiseRotation
+        second: {r: 79.9300003, g: 0, b: 0, a: 1}

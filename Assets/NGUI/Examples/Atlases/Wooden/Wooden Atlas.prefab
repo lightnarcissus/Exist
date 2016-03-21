@@ -1,0 +1,766 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Wooden Atlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1002 &100001
+EditorExtensionImpl:
+  serializedVersion: 6
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!1002 &400001
+EditorExtensionImpl:
+  serializedVersion: 6
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: ec268c3ea1baceb4abb2168daed86f68, type: 2}
+  sprites:
+  - name: Glow - Inner
+    outer:
+      serializedVersion: 2
+      x: 1310
+      y: 1805
+      width: 29
+      height: 29
+    inner:
+      serializedVersion: 2
+      x: 1311
+      y: 1806
+      width: 27
+      height: 27
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Glow - Outer
+    outer:
+      serializedVersion: 2
+      x: 1310
+      y: 1867
+      width: 60
+      height: 60
+    inner:
+      serializedVersion: 2
+      x: 1336
+      y: 1893
+      width: 8
+      height: 8
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: NGUI
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 29
+      width: 255
+      height: 76
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 29
+      width: 255
+      height: 76
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Highlight - Thin
+    outer:
+      serializedVersion: 2
+      x: 1310
+      y: 1782
+      width: 22
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 1316
+      y: 1788
+      width: 10
+      height: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Highlight - Shadowed
+    outer:
+      serializedVersion: 2
+      x: 1340
+      y: 1806
+      width: 28
+      height: 28
+    inner:
+      serializedVersion: 2
+      x: 1349
+      y: 1815
+      width: 10
+      height: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button
+    outer:
+      serializedVersion: 2
+      x: 1333
+      y: 1787
+      width: 17
+      height: 17
+    inner:
+      serializedVersion: 2
+      x: 1338
+      y: 1792
+      width: 7
+      height: 7
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Screw
+    outer:
+      serializedVersion: 2
+      x: 1343
+      y: 1837
+      width: 30
+      height: 29
+    inner:
+      serializedVersion: 2
+      x: 1343
+      y: 1837
+      width: 30
+      height: 29
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0344827585
+    paddingBottom: .0344827585
+  - name: Arimo20
+    outer:
+      serializedVersion: 2
+      x: 869
+      y: 1650
+      width: 255
+      height: 116
+    inner:
+      serializedVersion: 2
+      x: 869
+      y: 1650
+      width: 255
+      height: 116
+    paddingLeft: 0
+    paddingRight: .00392156886
+    paddingTop: 0
+    paddingBottom: 1.20689654
+  - name: Row Outline
+    outer:
+      serializedVersion: 2
+      x: 1371
+      y: 1922
+      width: 5
+      height: 5
+    inner:
+      serializedVersion: 2
+      x: 1373
+      y: 1924
+      width: 1
+      height: 2
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Arimo14
+    outer:
+      serializedVersion: 2
+      x: 1869
+      y: 1666
+      width: 126
+      height: 126
+    inner:
+      serializedVersion: 2
+      x: 1869
+      y: 1666
+      width: 126
+      height: 126
+    paddingLeft: 0
+    paddingRight: .00793650839
+    paddingTop: 0
+    paddingBottom: .00793650839
+  - name: Arimo18
+    outer:
+      serializedVersion: 2
+      x: 1748
+      y: 1955
+      width: 254
+      height: 93
+    inner:
+      serializedVersion: 2
+      x: 1748
+      y: 1955
+      width: 254
+      height: 93
+    paddingLeft: 0
+    paddingRight: .00393700786
+    paddingTop: 0
+    paddingBottom: .365591407
+  - name: Flag-FR
+    outer:
+      serializedVersion: 2
+      x: 1459
+      y: 1652
+      width: 80
+      height: 52
+    inner:
+      serializedVersion: 2
+      x: 1459
+      y: 1652
+      width: 80
+      height: 52
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .365384609
+    paddingBottom: .173076928
+  - name: Flag-US
+    outer:
+      serializedVersion: 2
+      x: 1378
+      y: 1652
+      width: 80
+      height: 52
+    inner:
+      serializedVersion: 2
+      x: 1378
+      y: 1652
+      width: 80
+      height: 52
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .365384609
+    paddingBottom: .173076928
+  - name: Checkmark
+    outer:
+      serializedVersion: 2
+      x: 1310
+      y: 1835
+      width: 32
+      height: 31
+    inner:
+      serializedVersion: 2
+      x: 1310
+      y: 1835
+      width: 32
+      height: 31
+    paddingLeft: .03125
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: .161290318
+  - name: Copy of Highlight - Thin
+    outer:
+      serializedVersion: 2
+      x: 1310
+      y: 1759
+      width: 22
+      height: 22
+    inner:
+      serializedVersion: 2
+      x: 1316
+      y: 1765
+      width: 10
+      height: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fairydust
+    outer:
+      serializedVersion: 2
+      x: 869
+      y: 1928
+      width: 508
+      height: 120
+    inner:
+      serializedVersion: 2
+      x: 869
+      y: 1928
+      width: 508
+      height: 120
+    paddingLeft: 0
+    paddingRight: 1.01574802
+    paddingTop: 4.26666689
+    paddingBottom: 3.26666665
+  - name: Streamlined Button
+    outer:
+      serializedVersion: 2
+      x: 1748
+      y: 1676
+      width: 90
+      height: 90
+    inner:
+      serializedVersion: 2
+      x: 1748
+      y: 1676
+      width: 90
+      height: 90
+    paddingLeft: .0666666701
+    paddingRight: .0444444455
+    paddingTop: .0666666701
+    paddingBottom: .0444444455
+  - name: 6418927-abstract-button-vector-halftone-effect copy
+    outer:
+      serializedVersion: 2
+      x: 1563
+      y: 1725
+      width: 154
+      height: 151
+    inner:
+      serializedVersion: 2
+      x: 1563
+      y: 1725
+      width: 154
+      height: 151
+    paddingLeft: .0454545468
+    paddingRight: .0454545468
+    paddingTop: .0662251636
+    paddingBottom: .0463576168
+  - name: greenbg
+    outer:
+      serializedVersion: 2
+      x: 513
+      y: 1132
+      width: 512
+      height: 512
+    inner:
+      serializedVersion: 2
+      x: 513
+      y: 1132
+      width: 512
+      height: 512
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: redbg
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1132
+      width: 512
+      height: 512
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1132
+      width: 512
+      height: 512
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: goldbg
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 106
+      width: 512
+      height: 512
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 106
+      width: 512
+      height: 512
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bluebg
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 619
+      width: 512
+      height: 512
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 619
+      width: 512
+      height: 512
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: curved_line_brush_by_mysteriofthekaulitz-d32aumc
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1645
+      width: 868
+      height: 403
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1645
+      width: 868
+      height: 403
+    paddingLeft: .0334101394
+    paddingRight: .00345622119
+    paddingTop: .394540936
+    paddingBottom: .200992554
+  - name: MouseIcon
+    outer:
+      serializedVersion: 2
+      x: 1748
+      y: 1767
+      width: 120
+      height: 187
+    inner:
+      serializedVersion: 2
+      x: 1748
+      y: 1767
+      width: 120
+      height: 187
+    paddingLeft: .550000012
+    paddingRight: .583333313
+    paddingTop: .187165782
+    paddingBottom: .181818187
+  - name: blueLeft
+    outer:
+      serializedVersion: 2
+      x: 1398
+      y: 1451
+      width: 71
+      height: 193
+    inner:
+      serializedVersion: 2
+      x: 1398
+      y: 1451
+      width: 71
+      height: 193
+    paddingLeft: 2.30985904
+    paddingRight: 3.90140843
+    paddingTop: 1.23316061
+    paddingBottom: .419689119
+  - name: blueMain
+    outer:
+      serializedVersion: 2
+      x: 1378
+      y: 1877
+      width: 184
+      height: 171
+    inner:
+      serializedVersion: 2
+      x: 1378
+      y: 1877
+      width: 184
+      height: 171
+    paddingLeft: .380434781
+    paddingRight: 1.40217388
+    paddingTop: .432748526
+    paddingBottom: 1.56140351
+  - name: blueMid
+    outer:
+      serializedVersion: 2
+      x: 1026
+      y: 1291
+      width: 104
+      height: 161
+    inner:
+      serializedVersion: 2
+      x: 1026
+      y: 1291
+      width: 104
+      height: 161
+    paddingLeft: 2.25
+    paddingRight: 1.67307687
+    paddingTop: 1.56521738
+    paddingBottom: .614906847
+  - name: blueRight
+    outer:
+      serializedVersion: 2
+      x: 1125
+      y: 1660
+      width: 194
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 1125
+      y: 1660
+      width: 194
+      height: 95
+    paddingLeft: 1.29896903
+    paddingRight: .340206176
+    paddingTop: 2.44210529
+    paddingBottom: 1.94736838
+  - name: greenLeft
+    outer:
+      serializedVersion: 2
+      x: 1326
+      y: 1451
+      width: 71
+      height: 193
+    inner:
+      serializedVersion: 2
+      x: 1326
+      y: 1451
+      width: 71
+      height: 193
+    paddingLeft: 2.30985904
+    paddingRight: 3.90140843
+    paddingTop: 1.23316061
+    paddingBottom: .419689119
+  - name: greenMain
+    outer:
+      serializedVersion: 2
+      x: 1125
+      y: 1756
+      width: 184
+      height: 171
+    inner:
+      serializedVersion: 2
+      x: 1125
+      y: 1756
+      width: 184
+      height: 171
+    paddingLeft: .380434781
+    paddingRight: 1.40217388
+    paddingTop: .432748526
+    paddingBottom: 1.56140351
+  - name: greenMid
+    outer:
+      serializedVersion: 2
+      x: 1221
+      y: 1483
+      width: 104
+      height: 161
+    inner:
+      serializedVersion: 2
+      x: 1221
+      y: 1483
+      width: 104
+      height: 161
+    paddingLeft: 2.25
+    paddingRight: 1.67307687
+    paddingTop: 1.56521738
+    paddingBottom: .614906847
+  - name: greenRight
+    outer:
+      serializedVersion: 2
+      x: 1026
+      y: 1453
+      width: 194
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 1026
+      y: 1453
+      width: 194
+      height: 95
+    paddingLeft: 1.29896903
+    paddingRight: .340206176
+    paddingTop: 2.44210529
+    paddingBottom: 1.94736838
+  - name: redMain
+    outer:
+      serializedVersion: 2
+      x: 1563
+      y: 1877
+      width: 184
+      height: 171
+    inner:
+      serializedVersion: 2
+      x: 1563
+      y: 1877
+      width: 184
+      height: 171
+    paddingLeft: .380434781
+    paddingRight: 1.40217388
+    paddingTop: .432748526
+    paddingBottom: 1.56140351
+  - name: redLeft
+    outer:
+      serializedVersion: 2
+      x: 1326
+      y: 1257
+      width: 71
+      height: 193
+    inner:
+      serializedVersion: 2
+      x: 1326
+      y: 1257
+      width: 71
+      height: 193
+    paddingLeft: 2.30985904
+    paddingRight: 3.90140843
+    paddingTop: 1.23316061
+    paddingBottom: .419689119
+  - name: redRight
+    outer:
+      serializedVersion: 2
+      x: 1026
+      y: 1549
+      width: 194
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 1026
+      y: 1549
+      width: 194
+      height: 95
+    paddingLeft: 1.29896903
+    paddingRight: .340206176
+    paddingTop: 2.44210529
+    paddingBottom: 1.94736838
+  - name: redMid
+    outer:
+      serializedVersion: 2
+      x: 1221
+      y: 1321
+      width: 104
+      height: 161
+    inner:
+      serializedVersion: 2
+      x: 1221
+      y: 1321
+      width: 104
+      height: 161
+    paddingLeft: 2.25
+    paddingRight: 1.67307687
+    paddingTop: 1.56521738
+    paddingBottom: .614906847
+  - name: yellowMain
+    outer:
+      serializedVersion: 2
+      x: 1378
+      y: 1705
+      width: 184
+      height: 171
+    inner:
+      serializedVersion: 2
+      x: 1378
+      y: 1705
+      width: 184
+      height: 171
+    paddingLeft: .380434781
+    paddingRight: 1.40217388
+    paddingTop: .432748526
+    paddingBottom: 1.56140351
+  - name: yellowLeft
+    outer:
+      serializedVersion: 2
+      x: 1398
+      y: 1257
+      width: 71
+      height: 193
+    inner:
+      serializedVersion: 2
+      x: 1398
+      y: 1257
+      width: 71
+      height: 193
+    paddingLeft: 2.30985904
+    paddingRight: 3.90140843
+    paddingTop: 1.23316061
+    paddingBottom: .419689119
+  - name: yellowRight
+    outer:
+      serializedVersion: 2
+      x: 256
+      y: 10
+      width: 194
+      height: 95
+    inner:
+      serializedVersion: 2
+      x: 256
+      y: 10
+      width: 194
+      height: 95
+    paddingLeft: 1.29896903
+    paddingRight: .340206176
+    paddingTop: 2.44210529
+    paddingBottom: 1.94736838
+  - name: yellowMid
+    outer:
+      serializedVersion: 2
+      x: 1869
+      y: 1793
+      width: 104
+      height: 161
+    inner:
+      serializedVersion: 2
+      x: 1869
+      y: 1793
+      width: 104
+      height: 161
+    paddingLeft: 2.25
+    paddingRight: 1.67307687
+    paddingTop: 1.56521738
+    paddingBottom: .614906847
+  - name: coloredcray
+    outer:
+      serializedVersion: 2
+      x: 869
+      y: 1767
+      width: 255
+      height: 160
+    inner:
+      serializedVersion: 2
+      x: 869
+      y: 1767
+      width: 255
+      height: 160
+    paddingLeft: 0
+    paddingRight: .00392156886
+    paddingTop: 0
+    paddingBottom: .600000024
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1002 &11400001
+EditorExtensionImpl:
+  serializedVersion: 6
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
+--- !u!1002 &100100001
+EditorExtensionImpl:
+  serializedVersion: 6

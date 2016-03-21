@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400002}
+  - 154: {fileID: 15400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 8
+  m_Name: Terrain
+  m_TagString: Ground
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 8
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 061ace15c03895b4eaa1c81d3c7c07da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 100004, guid: deff8d1ed2223fc4e8db6dffece21439, type: 2}
+  text: {fileID: 0}
+  minutes: 0
+  seconds: 0
+  multFactor: 1
+  obstacle: {fileID: 0}
+  obstacle2: {fileID: 0}
+  obstacle3: {fileID: 0}
+  obstacle4: {fileID: 0}
+  obstacle5: {fileID: 0}
+  obstacle6: {fileID: 0}
+  obstacle7: {fileID: 0}
+  obstacle10: {fileID: 0}
+  obstacle12: {fileID: 0}
+  lightHouse: {fileID: 0}
+  warRoom: {fileID: 0}
+  pod: {fileID: 0}
+  TV: {fileID: 0}
+  escalator: {fileID: 0}
+  gaze: {fileID: 0}
+  pyramid: {fileID: 0}
+  ast: {fileID: 0}
+  once: 1
+  telepole: {fileID: 0}
+  bill: {fileID: 0}
+  small: {fileID: 0}
+  stand: {fileID: 0}
+  talk1: {fileID: 0}
+  talk2: {fileID: 0}
+  talk3: {fileID: 0}
+  tableFB: {fileID: 0}
+  tableFW: {fileID: 0}
+  tableFWh: {fileID: 0}
+  tableMB: {fileID: 0}
+  tableMW: {fileID: 0}
+  tableMWh: {fileID: 0}
+  money: {fileID: 0}
+  stereotype: {fileID: 0}
+  stop: {fileID: 0}
+  chalk: {fileID: 0}
+  glassCase: {fileID: 0}
+  anarchist: {fileID: 0}
+  directionSign: {fileID: 0}
+  dollar: {fileID: 0}
+  tent: {fileID: 0}
+  impPerson: {fileID: 0}
+  debris: {fileID: 0}
+  sphere: {fileID: 0}
+  killAll: {fileID: 0}
+  chairs: {fileID: 0}
+  timerObj: {fileID: 0}
+  staticCity: {fileID: 0}
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12000, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TerrainData: {fileID: 15600000, guid: d5ab0119eaa5599458903029b891ae08, type: 2}
+  m_TreeDistance: 5000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_LightmapIndex: -1
+  m_LightmapSize: 1024
+  m_DrawTreesAndFoliage: 1
+  m_MaterialTemplate: {fileID: 0}
+--- !u!154 &15400000
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: d5ab0119eaa5599458903029b891ae08, type: 2}
+  m_CreateTreeColliders: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

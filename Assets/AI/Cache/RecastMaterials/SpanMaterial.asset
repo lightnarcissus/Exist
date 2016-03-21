@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SpanMaterial
+  m_Shader: {fileID: 4800000, guid: f8d2aeda3527ee24f879b7dae2987908, type: 2}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _ConnectionTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 74dffc74a65353d4cab752fd405ca1cd, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EdgeConnectionTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 37df3bf653016734186222f9822bde2c, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats: {}
+    m_Colors: {}

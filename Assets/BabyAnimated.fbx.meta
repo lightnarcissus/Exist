@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 1f4408e8a1e407a489e561b9022ca1de
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body_geo
+    100004: directionalLight1
+    100006: directionalLight2
+    100008: joint1
+    100010: joint10
+    100012: joint15
+    100014: joint16
+    100016: joint17
+    100018: joint18
+    100020: joint19
+    100022: joint2
+    100024: joint20
+    100026: joint21
+    100028: joint22
+    100030: joint3
+    100032: joint4
+    100034: joint5
+    100036: joint6
+    100038: joint7
+    100040: joint8
+    100042: joint9
+    100044: l_eye_geo
+    100046: l_eye_geo1
+    100048: polySurface1
+    100050: polySurface18
+    100052: polySurface2
+    100054: polySurface3
+    100056: tongue_geo
+    400000: //RootNode
+    400002: body_geo
+    400004: directionalLight1
+    400006: directionalLight2
+    400008: joint1
+    400010: joint10
+    400012: joint15
+    400014: joint16
+    400016: joint17
+    400018: joint18
+    400020: joint19
+    400022: joint2
+    400024: joint20
+    400026: joint21
+    400028: joint22
+    400030: joint3
+    400032: joint4
+    400034: joint5
+    400036: joint6
+    400038: joint7
+    400040: joint8
+    400042: joint9
+    400044: l_eye_geo
+    400046: l_eye_geo1
+    400048: polySurface1
+    400050: polySurface18
+    400052: polySurface2
+    400054: polySurface3
+    400056: tongue_geo
+    2300000: l_eye_geo
+    2300002: l_eye_geo1
+    2300004: polySurface1
+    2300006: polySurface18
+    2300008: polySurface2
+    2300010: polySurface3
+    2300012: tongue_geo
+    3300000: l_eye_geo
+    3300002: l_eye_geo1
+    3300004: polySurface1
+    3300006: polySurface18
+    3300008: polySurface2
+    3300010: polySurface3
+    3300012: tongue_geo
+    4300000: polySurface1
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: polySurface18
+    4300008: tongue_geo
+    4300010: l_eye_geo
+    4300012: l_eye_geo1
+    4300014: body_geo
+    7400000: OrphanChild
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: OrphanChild
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

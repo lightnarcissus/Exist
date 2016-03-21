@@ -1,0 +1,1375 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: _Take 001
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.55358998e-06, y: 1.55358998e-06, z: .707106829, w: .707106829}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.55358998e-06, y: 1.55358998e-06, z: .707106829, w: .707106829}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.499999672, y: .500000358, z: .499999672, w: .500000358}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.499999672, y: .500000358, z: .499999672, w: .500000358}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.08047618e-06, y: 6.9367627e-07, z: -.000398159027, w: .99999994}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -2.08047618e-06, y: 6.9367627e-07, z: -.000398159027, w: .99999994}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.27373675e-13, y: 1.26010313e-13, z: -2.86514281e-26, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 2.27373675e-13, y: 1.26010313e-13, z: -2.86514281e-26, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 6.25787806e-14, y: 4.07757568e-07, z: -.147013813, w: .989134431}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 6.25787806e-14, y: 4.07757568e-07, z: -.147013813, w: .989134431}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.48597531e-14, y: 1.43103321e-07, z: -.0515947267, w: .998668134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -1.48597531e-14, y: 1.43103321e-07, z: -.0515947267, w: .998668134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 9.10137918e-14, y: 1.43103165e-07, z: -.0515947193, w: .998668134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 9.10137918e-14, y: 1.43103165e-07, z: -.0515947193, w: .998668134}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.35163137e-12, y: -1.68286135e-06, z: .606742978, w: .794898152}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -1.35163137e-12, y: -1.68286135e-06, z: .606742978, w: .794898152}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2/PIG_
+      Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.0001611e-12, y: 2.01094781e-06, z: -.725031972, w: .688715219}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 2.0001611e-12, y: 2.01094781e-06, z: -.725031972, w: .688715219}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2/PIG_
+      Head/PIG_ Queue de cheval 1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.62618506, y: .174747884, z: .688672602, w: -.32106933}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.62618506, y: .174747884, z: .688672602, w: -.32106933}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.47295785, y: -.445778549, z: .224384472, w: .726115704}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.47295785, y: -.445778549, z: .224384472, w: .726115704}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.22205428e-08, y: -4.54546356e-09, z: .34861815, w: .93726486}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -1.22205428e-08, y: -4.54546356e-09, z: .34861815, w: .93726486}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm/PIG_ L Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.716022551, y: .021197835, z: .0821262598, w: .692905307}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.716022551, y: .021197835, z: .0821262598, w: .692905307}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm/PIG_ L Forearm/PIG_ L Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.000389020919, y: -.212693125, z: 8.46803887e-05, w: .977118969}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.000389020919, y: -.212693125, z: 8.46803887e-05, w: .977118969}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .626184165, y: -.174749792, z: .688672125, w: -.321071088}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .626184165, y: -.174749792, z: .688672125, w: -.321071088}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .472957879, y: .445778489, z: .224384472, w: .726115704}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .472957879, y: .445778489, z: .224384472, w: .726115704}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 9.15455378e-10, y: 1.62390688e-08, z: .34861815, w: .93726486}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 9.15455378e-10, y: 1.62390688e-08, z: .34861815, w: .93726486}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm/PIG_ R Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .716022551, y: -.0211978182, z: .0821262673, w: .692905307}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .716022551, y: -.0211978182, z: .0821262673, w: .692905307}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm/PIG_ R Forearm/PIG_ R Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000389021967, y: .21269311, z: 8.46820985e-05, w: .977118969}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .000389021967, y: .21269311, z: 8.46820985e-05, w: .977118969}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .708316267, y: -.705895245, z: -1.0461456e-06, w: 8.53843574e-08}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .708316267, y: -.705895245, z: -1.0461456e-06, w: 8.53843574e-08}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.59497754e-13, y: 3.3328307e-13, z: .43167907, w: .902027249}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -1.59497754e-13, y: 3.3328307e-13, z: .43167907, w: .902027249}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.5054042e-13, y: -4.80348556e-14, z: -.402400494, w: .915463746}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 2.5054042e-13, y: -4.80348556e-14, z: -.402400494, w: .915463746}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 7.27654424e-07, y: -7.3086693e-07, z: -.0308971163, w: .999522567}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 7.27654424e-07, y: -7.3086693e-07, z: -.0308971163, w: .999522567}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink/PIG_
+      L Foot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .708316267, y: -.705895245, z: -1.0125874e-06, w: -1.94908807e-06}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .708316267, y: -.705895245, z: -1.0125874e-06, w: -1.94908807e-06}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.51624861e-13, y: -5.34724175e-14, z: .43167907, w: .902027249}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.51624861e-13, y: -5.34724175e-14, z: .43167907, w: .902027249}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -3.87569046e-13, y: -1.40102909e-13, z: -.402400494, w: .915463746}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -3.87569046e-13, y: -1.40102909e-13, z: -.402400494, w: .915463746}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -6.40273413e-07, y: 7.28165844e-07, z: -.0308971163, w: .999522567}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -6.40273413e-07, y: 7.28165844e-07, z: -.0308971163, w: .999522567}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink/PIG_
+      R Foot
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: .687192082, z: -.469999999}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -0, y: .687192082, z: -.469999999}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.207646906, y: -.000196304318, z: 2.88237061e-07}
+        inSlope: {x: -0, y: -4.02703658e-18, z: 6.3527471e-21}
+        outSlope: {x: -0, y: -4.02703658e-18, z: 6.3527471e-21}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.207646906, y: -.000196304318, z: 2.88237061e-07}
+        inSlope: {x: -0, y: -5.2661246e-18, z: 2.72260602e-21}
+        outSlope: {x: -0, y: -5.2661246e-18, z: 2.72260602e-21}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.246606216, y: -.000196380613, z: -5.44241596e-10}
+        inSlope: {x: -0, y: -2.16840414e-18, z: -8.27180534e-24}
+        outSlope: {x: -0, y: -2.16840414e-18, z: -8.27180534e-24}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.246606216, y: -.000196380613, z: -5.44241596e-10}
+        inSlope: {x: -0, y: -9.29316118e-19, z: -3.54505966e-24}
+        outSlope: {x: -0, y: -9.29316118e-19, z: -3.54505966e-24}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.240136653, y: .0282843783, z: 7.8450249e-08}
+        inSlope: {x: -6.66133815e-15, y: 8.32667268e-16, z: 1.05879108e-21}
+        outSlope: {x: -6.66133815e-15, y: 8.32667268e-16, z: 1.05879108e-21}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.240136653, y: .0282843783, z: 7.8450249e-08}
+        inSlope: {x: -2.85485933e-15, y: 3.56857416e-16, z: 4.53767636e-22}
+        outSlope: {x: -2.85485933e-15, y: 3.56857416e-16, z: 4.53767636e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.10694322, y: -8.47625706e-05, z: -2.3574101e-10}
+        inSlope: {x: -3.33066907e-15, y: -1.08420207e-18, z: -6.20385459e-24}
+        outSlope: {x: -3.33066907e-15, y: -1.08420207e-18, z: -6.20385459e-24}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.10694322, y: -8.47625706e-05, z: -2.3574101e-10}
+        inSlope: {x: -1.42742966e-15, y: -4.64658059e-19, z: -2.65879494e-24}
+        outSlope: {x: -1.42742966e-15, y: -4.64658059e-19, z: -2.65879494e-24}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.106943265, y: -8.46862749e-05, z: -2.35158948e-10}
+        inSlope: {x: -2.22044584e-15, y: -2.16840414e-18, z: -6.20385459e-24}
+        outSlope: {x: -2.22044584e-15, y: -2.16840414e-18, z: -6.20385459e-24}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.106943265, y: -8.46862749e-05, z: -2.35158948e-10}
+        inSlope: {x: -9.51619705e-16, y: -9.29316118e-19, z: -2.65879494e-24}
+        outSlope: {x: -9.51619705e-16, y: -9.29316118e-19, z: -2.65879494e-24}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.150344506, y: -.0258876793, z: -1.41801721e-07}
+        inSlope: {x: -2.53765248e-15, y: -5.55111459e-16, z: -2.42009399e-21}
+        outSlope: {x: -2.53765248e-15, y: -5.55111459e-16, z: -2.42009399e-21}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.150344506, y: -.0258876793, z: -1.41801721e-07}
+        inSlope: {x: 2.53765248e-15, y: -2.37904926e-16, z: 2.42009399e-21}
+        outSlope: {x: 2.53765248e-15, y: -2.37904926e-16, z: 2.42009399e-21}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2/PIG_
+      Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0883143619, y: .177451894, z: 3.9244506e-07}
+        inSlope: {x: -0, y: 1.11022292e-15, z: -0}
+        outSlope: {x: -0, y: 1.11022292e-15, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .0883143619, y: .177451894, z: 3.9244506e-07}
+        inSlope: {x: -0, y: 4.75809853e-16, z: -0}
+        outSlope: {x: -0, y: 4.75809853e-16, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2/PIG_
+      Head/PIG_ Queue de cheval 1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00674987771, y: -.0444068909, z: .0840277821}
+        inSlope: {x: 8.92143341e-17, y: -8.32667268e-16, z: 1.26882624e-15}
+        outSlope: {x: 8.92143341e-17, y: -8.32667268e-16, z: 1.26882624e-15}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .00674987771, y: -.0444068909, z: .0840277821}
+        inSlope: {x: -1.88341402e-16, y: -3.56857416e-16, z: -1.26882624e-15}
+        outSlope: {x: -1.88341402e-16, y: -3.56857416e-16, z: -1.26882624e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.196152002, y: 3.81469718e-08, z: 9.53674295e-09}
+        inSlope: {x: -2.22044584e-15, y: 5.29395542e-22, z: 1.32348885e-22}
+        outSlope: {x: -2.22044584e-15, y: 5.29395542e-22, z: 1.32348885e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.196152002, y: 3.81469718e-08, z: 9.53674295e-09}
+        inSlope: {x: -9.51619705e-16, y: 2.26883818e-22, z: 5.67209545e-23}
+        outSlope: {x: -9.51619705e-16, y: 2.26883818e-22, z: 5.67209545e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.199939802, y: -9.53674295e-09, z: 0}
+        inSlope: {x: -2.22044584e-15, y: -1.32348885e-22, z: -0}
+        outSlope: {x: -2.22044584e-15, y: -1.32348885e-22, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.199939802, y: -9.53674295e-09, z: 0}
+        inSlope: {x: -9.51619705e-16, y: -5.67209545e-23, z: -0}
+        outSlope: {x: -9.51619705e-16, y: -5.67209545e-23, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm/PIG_ L Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.135580122, y: 0, z: -9.53674295e-09}
+        inSlope: {x: -3.33066907e-15, y: -0, z: -1.32348885e-22}
+        outSlope: {x: -3.33066907e-15, y: -0, z: -1.32348885e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.135580122, y: 0, z: -9.53674295e-09}
+        inSlope: {x: -1.42742966e-15, y: -0, z: -5.67209545e-23}
+        outSlope: {x: -1.42742966e-15, y: -0, z: -5.67209545e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm/PIG_ L Forearm/PIG_ L Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.198662698, y: 0, z: 0}
+        inSlope: {x: -4.44089167e-15, y: -0, z: -0}
+        outSlope: {x: -4.44089167e-15, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.198662698, y: 0, z: 0}
+        inSlope: {x: -1.90323941e-15, y: -0, z: -0}
+        outSlope: {x: -1.90323941e-15, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0067498968, y: -.0444064327, z: -.0840280354}
+        inSlope: {x: -0, y: -5.55111459e-16, z: -2.22044584e-15}
+        outSlope: {x: -0, y: -5.55111459e-16, z: -2.22044584e-15}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .0067498968, y: -.0444064327, z: -.0840280354}
+        inSlope: {x: -0, y: -2.37904926e-16, z: -9.51619705e-16}
+        outSlope: {x: -0, y: -2.37904926e-16, z: -9.51619705e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.196152031, y: -7.62939436e-08, z: 9.53674295e-09}
+        inSlope: {x: -2.22044584e-15, y: -1.05879108e-21, z: 1.32348885e-22}
+        outSlope: {x: -2.22044584e-15, y: -1.05879108e-21, z: 1.32348885e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.196152031, y: -7.62939436e-08, z: 9.53674295e-09}
+        inSlope: {x: -9.51619705e-16, y: -4.53767636e-22, z: 5.67209545e-23}
+        outSlope: {x: -9.51619705e-16, y: -4.53767636e-22, z: 5.67209545e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.199939832, y: 1.90734859e-08, z: -1.90734859e-08}
+        inSlope: {x: -2.22044584e-15, y: 2.64697771e-22, z: -2.64697771e-22}
+        outSlope: {x: -2.22044584e-15, y: 2.64697771e-22, z: -2.64697771e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.199939832, y: 1.90734859e-08, z: -1.90734859e-08}
+        inSlope: {x: -9.51619705e-16, y: 1.13441909e-22, z: -1.13441909e-22}
+        outSlope: {x: -9.51619705e-16, y: 1.13441909e-22, z: -1.13441909e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm/PIG_ R Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.135580122, y: 9.53674295e-09, z: 1.90734859e-08}
+        inSlope: {x: -3.33066907e-15, y: 1.32348885e-22, z: 2.64697771e-22}
+        outSlope: {x: -3.33066907e-15, y: 1.32348885e-22, z: 2.64697771e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.135580122, y: 9.53674295e-09, z: 1.90734859e-08}
+        inSlope: {x: -1.42742966e-15, y: 5.67209545e-23, z: 1.13441909e-22}
+        outSlope: {x: -1.42742966e-15, y: 5.67209545e-23, z: 1.13441909e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm/PIG_ R Forearm/PIG_ R Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.198662683, y: -9.53674295e-09, z: -1.90734859e-08}
+        inSlope: {x: -2.53765248e-15, y: -1.32348885e-22, z: -2.64697771e-22}
+        outSlope: {x: -2.53765248e-15, y: -1.32348885e-22, z: -2.64697771e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.198662683, y: -9.53674295e-09, z: -1.90734859e-08}
+        inSlope: {x: 2.53765248e-15, y: -5.67209545e-23, z: -1.13441909e-22}
+        outSlope: {x: 2.53765248e-15, y: -5.67209545e-23, z: -1.13441909e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .207646638, y: .000361251819, z: .180651426}
+        inSlope: {x: -0, y: 8.67361655e-18, z: 2.22044584e-15}
+        outSlope: {x: -0, y: 8.67361655e-18, z: 2.22044584e-15}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .207646638, y: .000361251819, z: .180651426}
+        inSlope: {x: -0, y: 3.71726447e-18, z: 9.51619705e-16}
+        outSlope: {x: -0, y: 3.71726447e-18, z: 9.51619705e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.30844456, y: -3.81469718e-08, z: 0}
+        inSlope: {x: -4.44089167e-15, y: -5.29395542e-22, z: -0}
+        outSlope: {x: -4.44089167e-15, y: -5.29395542e-22, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.30844456, y: -3.81469718e-08, z: 0}
+        inSlope: {x: -1.90323941e-15, y: -2.26883818e-22, z: -0}
+        outSlope: {x: -1.90323941e-15, y: -2.26883818e-22, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.173766777, y: 0, z: -1.90734859e-08}
+        inSlope: {x: -2.22044584e-15, y: -0, z: -2.64697771e-22}
+        outSlope: {x: -2.22044584e-15, y: -0, z: -2.64697771e-22}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.173766777, y: 0, z: -1.90734859e-08}
+        inSlope: {x: -9.51619705e-16, y: -0, z: -1.13441909e-22}
+        outSlope: {x: -9.51619705e-16, y: -0, z: -1.13441909e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.195650131, y: 3.81469718e-08, z: 0}
+        inSlope: {x: -2.22044584e-15, y: 5.29395542e-22, z: -0}
+        outSlope: {x: -2.22044584e-15, y: 5.29395542e-22, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.195650131, y: 3.81469718e-08, z: 0}
+        inSlope: {x: -9.51619705e-16, y: 2.26883818e-22, z: -0}
+        outSlope: {x: -9.51619705e-16, y: 2.26883818e-22, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink/PIG_
+      L Foot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .207646638, y: .000362167339, z: -.180651471}
+        inSlope: {x: -0, y: 4.33680828e-18, z: -1.11022292e-15}
+        outSlope: {x: -0, y: 4.33680828e-18, z: -1.11022292e-15}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .207646638, y: .000362167339, z: -.180651471}
+        inSlope: {x: -0, y: 1.85863224e-18, z: -4.75809853e-16}
+        outSlope: {x: -0, y: 1.85863224e-18, z: -4.75809853e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.3084445, y: -3.81469718e-08, z: 0}
+        inSlope: {x: -4.44089167e-15, y: -5.29395542e-22, z: -0}
+        outSlope: {x: -4.44089167e-15, y: -5.29395542e-22, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.3084445, y: -3.81469718e-08, z: 0}
+        inSlope: {x: -1.90323941e-15, y: -2.26883818e-22, z: -0}
+        outSlope: {x: -1.90323941e-15, y: -2.26883818e-22, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.173766822, y: 0, z: 0}
+        inSlope: {x: -1.11022292e-15, y: -0, z: -0}
+        outSlope: {x: -1.11022292e-15, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.173766822, y: 0, z: 0}
+        inSlope: {x: -4.75809853e-16, y: -0, z: -0}
+        outSlope: {x: -4.75809853e-16, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.195650116, y: 0, z: 0}
+        inSlope: {x: -4.44089167e-15, y: -0, z: -0}
+        outSlope: {x: -4.44089167e-15, y: -0, z: -0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -.195650116, y: 0, z: 0}
+        inSlope: {x: -1.90323941e-15, y: -0, z: -0}
+        outSlope: {x: -1.90323941e-15, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink/PIG_
+      R Foot
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999881, y: .999999881, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999881, y: .999999881, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2/PIG_
+      Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ Neck1/PIG_ Neck2/PIG_
+      Head/PIG_ Queue de cheval 1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: .999999881, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: .999999881, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999821, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999821, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm/PIG_ L Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm/PIG_ L Forearm/PIG_ L Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999762, y: .99999994, z: .999999702}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999762, y: .99999994, z: .999999702}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ L Clavicle/PIG_ L
+      UpperArm/PIG_ L Forearm/PIG_ L Hand/PIG_ L Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999821, y: 1, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999821, y: 1, z: .99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm/PIG_ R Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1, y: 1, z: 1.00000012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm/PIG_ R Forearm/PIG_ R Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999642, y: .99999994, z: .999999642}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999642, y: .99999994, z: .999999642}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ Spine1/PIG_ Neck/PIG_ R Clavicle/PIG_ R
+      UpperArm/PIG_ R Forearm/PIG_ R Hand/PIG_ R Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999881, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999881, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ L Thigh/PIG_ L Calf/PIG_ L HorseLink/PIG_
+      L Foot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .999999881, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .999999881, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: .99999994, y: 1.00000012, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.00000012, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 1.00000012, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: PIG_/PIG_ Pelvis/PIG_ Spine/PIG_ R Thigh/PIG_ R Calf/PIG_ R HorseLink/PIG_
+      R Foot
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: .0016746521, y: .467229784, z: .074547708}
+    m_Extent: {x: .306563526, y: .478219509, z: .877585649}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

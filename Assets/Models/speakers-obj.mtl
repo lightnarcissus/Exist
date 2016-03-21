@@ -1,0 +1,267 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 29.03.2009 17:21:31
+
+newmtl remote
+	Ns 13.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0471 0.0471 0.0471
+	Ks 0.1440 0.1440 0.1440
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "D:\gotovi modeli\Speakers\remote_color.jpg"
+	map_Kd "D:\gotovi modeli\Speakers\remote_color.jpg"
+
+newmtl wire
+	Ns 31.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0706 0.0706 0.0706
+	Ks 0.1890 0.1890 0.1890
+	Ke 0.0000 0.0000 0.0000
+
+newmtl rubber
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0471 0.0471 0.0471
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl speaker_body
+	Ns 55.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.2700 0.2700 0.2700
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "D:\gotovi modeli\Speakers\wood_bright.jpg"
+	map_Kd "D:\gotovi modeli\Speakers\wood_bright.jpg"
+
+newmtl metal1
+	Ns 90.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0471 0.0471 0.0471
+	Ks 0.6561 0.6561 0.6561
+	Ke 0.0000 0.0000 0.0000
+
+newmtl cover
+	Ns 13.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1137 0.1137 0.1137
+	Ks 0.0180 0.0180 0.0180
+	Ke 0.0000 0.0000 0.0000
+	map_bump "D:\gotovi modeli\Speakers\speaker_cover_specular .jpg"
+
+newmtl membrane
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0471 0.0471 0.0471
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump "D:\gotovi modeli\Speakers\Membrane_bump.jpg"
+	bump "D:\gotovi modeli\Speakers\Membrane_bump.jpg"
+
+newmtl metal
+	Ns 62.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2314 0.2314 0.2314
+	Ks 0.5760 0.5760 0.5760
+	Ke 0.0000 0.0000 0.0000
+
+newmtl sourround_back_wall
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0863 0.0863 0.0863
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump "D:\gotovi modeli\Speakers\speaker_plastic_bump.jpg"
+
+newmtl tweeter
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_refl "D:\gotovi modeli\Speakers\free_001.hdr"
+
+newmtl input_sourround_center
+	Ns 31.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.3420 0.3420 0.3420
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "D:\gotovi modeli\Speakers\speakers_sourround_input .jpg"
+	map_Kd "D:\gotovi modeli\Speakers\speakers_sourround_input .jpg"
+
+newmtl metal_logo
+	Ns 66.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5529 0.5529 0.5529
+	Ks 0.2587 0.2587 0.2587
+	Ke 0.0000 0.0000 0.0000
+	map_Kd "D:\gotovi modeli\Speakers\logo_brushed .jpg"
+	map_bump "D:\gotovi modeli\Speakers\logo_brushed .jpg"
+
+newmtl sub_panel
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "D:\gotovi modeli\Speakers\sub_panel_color.jpg"
+	map_Kd "D:\gotovi modeli\Speakers\sub_panel_color.jpg"
+	map_refl "D:\gotovi modeli\Speakers\free_001.hdr"
+
+newmtl potenciometer
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4667 0.4667 0.4667
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_refl "D:\gotovi modeli\Speakers\Kitchen2_LL.hdr"
+
+newmtl buttons1
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4667 0.4667 0.4667
+	Ks 0.3870 0.3870 0.3870
+	Ke 0.0000 0.0000 0.0000
+
+newmtl sub_lcd
+	Ns 55.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1059 0.1922 0.3020
+	Ks 0.5490 0.5490 0.5490
+	Ke 0.1059 0.1922 0.3020
+	map_Ka "D:\gotovi modeli\Speakers\lcd_panel_color.jpg"
+	map_Kd "D:\gotovi modeli\Speakers\lcd_panel_color.jpg"
+
+newmtl glass
+	Ns 63.0000
+	Ni 1.5000
+	d 0.2100
+	Tr 0.2100
+	Tf 0.2100 0.2100 0.2100 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3529 0.3529 0.3686
+	Ks 0.7110 0.7110 0.7110
+	Ke 0.0000 0.0000 0.0000
+
+newmtl sub_back_plate
+	Ns 29.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0549 0.0549 0.0549
+	Ks 0.5670 0.5670 0.5670
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "D:\gotovi modeli\Speakers\sub_back_color .jpg"
+	map_Kd "D:\gotovi modeli\Speakers\sub_back_color .jpg"
+
+newmtl sub_cinch
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4353 0.4353 0.4353
+	Ks 0.4140 0.4140 0.4140
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "D:\gotovi modeli\Speakers\speaker_cinch_color .jpg"
+	map_Kd "D:\gotovi modeli\Speakers\speaker_cinch_color .jpg"
+
+newmtl output_sub
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5529 0.0510 0.0510
+	Ks 0.2880 0.2880 0.2880
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "D:\gotovi modeli\Speakers\speakers_output_color .jpg"
+	map_Kd "D:\gotovi modeli\Speakers\speakers_output_color .jpg"

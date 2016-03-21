@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: ca5464a01c2542f469f0230a73c89386
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: accamulator-fix
+    100002: Bip01
+    100004: Bip01 Head
+    100006: Bip01 L Calf
+    100008: Bip01 L Clavicle
+    100010: Bip01 L Finger0
+    100012: Bip01 L Finger01
+    100014: Bip01 L Finger02
+    100016: Bip01 L Finger1
+    100018: Bip01 L Finger11
+    100020: Bip01 L Finger12
+    100022: Bip01 L Finger2
+    100024: Bip01 L Finger21
+    100026: Bip01 L Finger22
+    100028: Bip01 L Finger3
+    100030: Bip01 L Finger31
+    100032: Bip01 L Finger32
+    100034: Bip01 L Finger4
+    100036: Bip01 L Finger41
+    100038: Bip01 L Finger42
+    100040: Bip01 L Foot
+    100042: Bip01 L Forearm
+    100044: Bip01 L Hand
+    100046: Bip01 L Thigh
+    100048: Bip01 L Toe0
+    100050: Bip01 L UpperArm
+    100052: Bip01 Neck
+    100054: Bip01 Pelvis
+    100056: Bip01 R Calf
+    100058: Bip01 R Clavicle
+    100060: Bip01 R Finger0
+    100062: Bip01 R Finger01
+    100064: Bip01 R Finger02
+    100066: Bip01 R Finger1
+    100068: Bip01 R Finger11
+    100070: Bip01 R Finger12
+    100072: Bip01 R Finger2
+    100074: Bip01 R Finger21
+    100076: Bip01 R Finger22
+    100078: Bip01 R Finger3
+    100080: Bip01 R Finger31
+    100082: Bip01 R Finger32
+    100084: Bip01 R Finger4
+    100086: Bip01 R Finger41
+    100088: Bip01 R Finger42
+    100090: Bip01 R Foot
+    100092: Bip01 R Forearm
+    100094: Bip01 R Hand
+    100096: Bip01 R Thigh
+    100098: Bip01 R Toe0
+    100100: Bip01 R UpperArm
+    100102: Bip01 Spine
+    100104: Bip01 Spine1
+    100106: Bip01 Spine2
+    100108: bottom
+    100110: button1
+    100112: cam-case1
+    100114: cam-case2
+    100116: cam-kase3
+    100118: cam-switcher
+    100120: cam1
+    100122: cam2
+    100124: camlens
+    100126: flash
+    100128: flash-glass
+    100130: kase-bottom1
+    100132: kase-bottom2
+    100134: kase-bottom3
+    100136: keyboard
+    100138: keyboard-border
+    100140: keyboard-top
+    100142: Male_Human
+    100144: //RootNode
+    100146: minisd-cap
+    100148: newspaper1:general
+    100150: newspaper1:geometri
+    100152: newspaper1:jointc01
+    100154: newspaper1:jointc01 1
+    100156: newspaper1:jointc01 10
+    100158: newspaper1:jointc01 11
+    100160: newspaper1:jointc01 12
+    100162: newspaper1:jointc01 13
+    100164: newspaper1:jointc01 14
+    100166: newspaper1:jointc01 15
+    100168: newspaper1:jointc01 2
+    100170: newspaper1:jointc01 3
+    100172: newspaper1:jointc01 4
+    100174: newspaper1:jointc01 5
+    100176: newspaper1:jointc01 6
+    100178: newspaper1:jointc01 7
+    100180: newspaper1:jointc01 8
+    100182: newspaper1:jointc01 9
+    100184: newspaper1:jointd01
+    100186: newspaper1:jointd01 1
+    100188: newspaper1:jointd01 10
+    100190: newspaper1:jointd01 11
+    100192: newspaper1:jointd01 12
+    100194: newspaper1:jointd01 13
+    100196: newspaper1:jointd01 14
+    100198: newspaper1:jointd01 15
+    100200: newspaper1:jointd01 2
+    100202: newspaper1:jointd01 3
+    100204: newspaper1:jointd01 4
+    100206: newspaper1:jointd01 5
+    100208: newspaper1:jointd01 6
+    100210: newspaper1:jointd01 7
+    100212: newspaper1:jointd01 8
+    100214: newspaper1:jointd01 9
+    100216: newspaper1:kontrole
+    100218: newspaper1:kosti
+    100220: newspaper1:list01
+    100222: newspaper1:list02
+    100224: newspaper1:list03
+    100226: newspaper1:list04
+    100228: newspaper1:list05
+    100230: newspaper1:list06
+    100232: newspaper1:list07
+    100234: newspaper1:list08
+    100236: newspaper1:list09
+    100238: newspaper1:list10
+    100240: newspaper1:list11
+    100242: newspaper1:list12
+    100244: newspaper1:list13
+    100246: newspaper1:list14
+    100248: newspaper1:list15
+    100250: newspaper1:list16
+    100252: newspaper1:listanjeKontrola01
+    100254: newspaper1:listanjeKontrola010
+    100256: newspaper1:listanjeKontrola011
+    100258: newspaper1:listanjeKontrola012
+    100260: newspaper1:listanjeKontrola013
+    100262: newspaper1:listanjeKontrola014
+    100264: newspaper1:listanjeKontrola015
+    100266: newspaper1:listanjeKontrola016
+    100268: newspaper1:listanjeKontrola02
+    100270: newspaper1:listanjeKontrola03
+    100272: newspaper1:listanjeKontrola04
+    100274: newspaper1:listanjeKontrola05
+    100276: newspaper1:listanjeKontrola06
+    100278: newspaper1:listanjeKontrola07
+    100280: newspaper1:listanjeKontrola08
+    100282: newspaper1:listanjeKontrola09
+    100284: newspaper1:novina
+    100286: newspaper1:pCube1
+    100288: newspaper1:persp1
+    100290: newspaper1:savijA01
+    100292: newspaper1:savijA01 1
+    100294: newspaper1:savijA01 10
+    100296: newspaper1:savijA01 11
+    100298: newspaper1:savijA01 12
+    100300: newspaper1:savijA01 13
+    100302: newspaper1:savijA01 14
+    100304: newspaper1:savijA01 15
+    100306: newspaper1:savijA01 2
+    100308: newspaper1:savijA01 3
+    100310: newspaper1:savijA01 4
+    100312: newspaper1:savijA01 5
+    100314: newspaper1:savijA01 6
+    100316: newspaper1:savijA01 7
+    100318: newspaper1:savijA01 8
+    100320: newspaper1:savijA01 9
+    100322: newspaper1:savijB01
+    100324: newspaper1:savijB01 1
+    100326: newspaper1:savijB01 10
+    100328: newspaper1:savijB01 11
+    100330: newspaper1:savijB01 12
+    100332: newspaper1:savijB01 13
+    100334: newspaper1:savijB01 14
+    100336: newspaper1:savijB01 15
+    100338: newspaper1:savijB01 2
+    100340: newspaper1:savijB01 3
+    100342: newspaper1:savijB01 4
+    100344: newspaper1:savijB01 5
+    100346: newspaper1:savijB01 6
+    100348: newspaper1:savijB01 7
+    100350: newspaper1:savijB01 8
+    100352: newspaper1:savijB01 9
+    100354: newspaper1:savijC
+    100356: newspaper1:savijC 1
+    100358: newspaper1:savijC 10
+    100360: newspaper1:savijC 11
+    100362: newspaper1:savijC 12
+    100364: newspaper1:savijC 13
+    100366: newspaper1:savijC 14
+    100368: newspaper1:savijC 15
+    100370: newspaper1:savijC 2
+    100372: newspaper1:savijC 3
+    100374: newspaper1:savijC 4
+    100376: newspaper1:savijC 5
+    100378: newspaper1:savijC 6
+    100380: newspaper1:savijC 7
+    100382: newspaper1:savijC 8
+    100384: newspaper1:savijC 9
+    100386: newspaper1:savijD
+    100388: newspaper1:savijD 1
+    100390: newspaper1:savijD 10
+    100392: newspaper1:savijD 11
+    100394: newspaper1:savijD 12
+    100396: newspaper1:savijD 13
+    100398: newspaper1:savijD 14
+    100400: newspaper1:savijD 15
+    100402: newspaper1:savijD 2
+    100404: newspaper1:savijD 3
+    100406: newspaper1:savijD 4
+    100408: newspaper1:savijD 5
+    100410: newspaper1:savijD 6
+    100412: newspaper1:savijD 7
+    100414: newspaper1:savijD 8
+    100416: newspaper1:savijD 9
+    100418: newspaper1:savijRoot01
+    100420: newspaper1:savijRoot010
+    100422: newspaper1:savijRoot011
+    100424: newspaper1:savijRoot012
+    100426: newspaper1:savijRoot013
+    100428: newspaper1:savijRoot014
+    100430: newspaper1:savijRoot015
+    100432: newspaper1:savijRoot016
+    100434: newspaper1:savijRoot02
+    100436: newspaper1:savijRoot03
+    100438: newspaper1:savijRoot04
+    100440: newspaper1:savijRoot05
+    100442: newspaper1:savijRoot06
+    100444: newspaper1:savijRoot07
+    100446: newspaper1:savijRoot08
+    100448: newspaper1:savijRoot09
+    100450: newspaper1:spotLight1
+    100452: newspaper1:spotLight2
+    100454: newspaper1:ugaoDonjiA01
+    100456: newspaper1:ugaoDonjiA01 1
+    100458: newspaper1:ugaoDonjiA01 10
+    100460: newspaper1:ugaoDonjiA01 11
+    100462: newspaper1:ugaoDonjiA01 12
+    100464: newspaper1:ugaoDonjiA01 13
+    100466: newspaper1:ugaoDonjiA01 14
+    100468: newspaper1:ugaoDonjiA01 15
+    100470: newspaper1:ugaoDonjiA01 2
+    100472: newspaper1:ugaoDonjiA01 3
+    100474: newspaper1:ugaoDonjiA01 4
+    100476: newspaper1:ugaoDonjiA01 5
+    100478: newspaper1:ugaoDonjiA01 6
+    100480: newspaper1:ugaoDonjiA01 7
+    100482: newspaper1:ugaoDonjiA01 8
+    100484: newspaper1:ugaoDonjiA01 9
+    100486: newspaper1:ugaoDonjiB01
+    100488: newspaper1:ugaoDonjiB01 1
+    100490: newspaper1:ugaoDonjiB01 10
+    100492: newspaper1:ugaoDonjiB01 11
+    100494: newspaper1:ugaoDonjiB01 12
+    100496: newspaper1:ugaoDonjiB01 13
+    100498: newspaper1:ugaoDonjiB01 14
+    100500: newspaper1:ugaoDonjiB01 15
+    100502: newspaper1:ugaoDonjiB01 2
+    100504: newspaper1:ugaoDonjiB01 3
+    100506: newspaper1:ugaoDonjiB01 4
+    100508: newspaper1:ugaoDonjiB01 5
+    100510: newspaper1:ugaoDonjiB01 6
+    100512: newspaper1:ugaoDonjiB01 7
+    100514: newspaper1:ugaoDonjiB01 8
+    100516: newspaper1:ugaoDonjiB01 9
+    100518: newspaper1:ugaoGornjiA01
+    100520: newspaper1:ugaoGornjiA01 1
+    100522: newspaper1:ugaoGornjiA01 10
+    100524: newspaper1:ugaoGornjiA01 11
+    100526: newspaper1:ugaoGornjiA01 12
+    100528: newspaper1:ugaoGornjiA01 13
+    100530: newspaper1:ugaoGornjiA01 14
+    100532: newspaper1:ugaoGornjiA01 15
+    100534: newspaper1:ugaoGornjiA01 2
+    100536: newspaper1:ugaoGornjiA01 3
+    100538: newspaper1:ugaoGornjiA01 4
+    100540: newspaper1:ugaoGornjiA01 5
+    100542: newspaper1:ugaoGornjiA01 6
+    100544: newspaper1:ugaoGornjiA01 7
+    100546: newspaper1:ugaoGornjiA01 8
+    100548: newspaper1:ugaoGornjiA01 9
+    100550: newspaper1:ugaoGornjiB01
+    100552: newspaper1:ugaoGornjiB01 1
+    100554: newspaper1:ugaoGornjiB01 10
+    100556: newspaper1:ugaoGornjiB01 11
+    100558: newspaper1:ugaoGornjiB01 12
+    100560: newspaper1:ugaoGornjiB01 13
+    100562: newspaper1:ugaoGornjiB01 14
+    100564: newspaper1:ugaoGornjiB01 15
+    100566: newspaper1:ugaoGornjiB01 2
+    100568: newspaper1:ugaoGornjiB01 3
+    100570: newspaper1:ugaoGornjiB01 4
+    100572: newspaper1:ugaoGornjiB01 5
+    100574: newspaper1:ugaoGornjiB01 6
+    100576: newspaper1:ugaoGornjiB01 7
+    100578: newspaper1:ugaoGornjiB01 8
+    100580: newspaper1:ugaoGornjiB01 9
+    100582: newspaper:persp1
+    100584: newspaper:spotLight1
+    100586: newspaper:spotLight2
+    100588: nokia-n80
+    100590: port-border
+    100592: port-border2
+    100594: port-connectors
+    100596: port-fix
+    100598: port-kase
+    100600: port-rails
+    100602: powerbutton
+    100604: powerbutton-border1
+    400000: accamulator-fix
+    400002: Bip01
+    400004: Bip01 Head
+    400006: Bip01 L Calf
+    400008: Bip01 L Clavicle
+    400010: Bip01 L Finger0
+    400012: Bip01 L Finger01
+    400014: Bip01 L Finger02
+    400016: Bip01 L Finger1
+    400018: Bip01 L Finger11
+    400020: Bip01 L Finger12
+    400022: Bip01 L Finger2
+    400024: Bip01 L Finger21
+    400026: Bip01 L Finger22
+    400028: Bip01 L Finger3
+    400030: Bip01 L Finger31
+    400032: Bip01 L Finger32
+    400034: Bip01 L Finger4
+    400036: Bip01 L Finger41
+    400038: Bip01 L Finger42
+    400040: Bip01 L Foot
+    400042: Bip01 L Forearm
+    400044: Bip01 L Hand
+    400046: Bip01 L Thigh
+    400048: Bip01 L Toe0
+    400050: Bip01 L UpperArm
+    400052: Bip01 Neck
+    400054: Bip01 Pelvis
+    400056: Bip01 R Calf
+    400058: Bip01 R Clavicle
+    400060: Bip01 R Finger0
+    400062: Bip01 R Finger01
+    400064: Bip01 R Finger02
+    400066: Bip01 R Finger1
+    400068: Bip01 R Finger11
+    400070: Bip01 R Finger12
+    400072: Bip01 R Finger2
+    400074: Bip01 R Finger21
+    400076: Bip01 R Finger22
+    400078: Bip01 R Finger3
+    400080: Bip01 R Finger31
+    400082: Bip01 R Finger32
+    400084: Bip01 R Finger4
+    400086: Bip01 R Finger41
+    400088: Bip01 R Finger42
+    400090: Bip01 R Foot
+    400092: Bip01 R Forearm
+    400094: Bip01 R Hand
+    400096: Bip01 R Thigh
+    400098: Bip01 R Toe0
+    400100: Bip01 R UpperArm
+    400102: Bip01 Spine
+    400104: Bip01 Spine1
+    400106: Bip01 Spine2
+    400108: bottom
+    400110: button1
+    400112: cam-case1
+    400114: cam-case2
+    400116: cam-kase3
+    400118: cam-switcher
+    400120: cam1
+    400122: cam2
+    400124: camlens
+    400126: flash
+    400128: flash-glass
+    400130: kase-bottom1
+    400132: kase-bottom2
+    400134: kase-bottom3
+    400136: keyboard
+    400138: keyboard-border
+    400140: keyboard-top
+    400142: Male_Human
+    400144: //RootNode
+    400146: minisd-cap
+    400148: newspaper1:general
+    400150: newspaper1:geometri
+    400152: newspaper1:jointc01
+    400154: newspaper1:jointc01 1
+    400156: newspaper1:jointc01 10
+    400158: newspaper1:jointc01 11
+    400160: newspaper1:jointc01 12
+    400162: newspaper1:jointc01 13
+    400164: newspaper1:jointc01 14
+    400166: newspaper1:jointc01 15
+    400168: newspaper1:jointc01 2
+    400170: newspaper1:jointc01 3
+    400172: newspaper1:jointc01 4
+    400174: newspaper1:jointc01 5
+    400176: newspaper1:jointc01 6
+    400178: newspaper1:jointc01 7
+    400180: newspaper1:jointc01 8
+    400182: newspaper1:jointc01 9
+    400184: newspaper1:jointd01
+    400186: newspaper1:jointd01 1
+    400188: newspaper1:jointd01 10
+    400190: newspaper1:jointd01 11
+    400192: newspaper1:jointd01 12
+    400194: newspaper1:jointd01 13
+    400196: newspaper1:jointd01 14
+    400198: newspaper1:jointd01 15
+    400200: newspaper1:jointd01 2
+    400202: newspaper1:jointd01 3
+    400204: newspaper1:jointd01 4
+    400206: newspaper1:jointd01 5
+    400208: newspaper1:jointd01 6
+    400210: newspaper1:jointd01 7
+    400212: newspaper1:jointd01 8
+    400214: newspaper1:jointd01 9
+    400216: newspaper1:kontrole
+    400218: newspaper1:kosti
+    400220: newspaper1:list01
+    400222: newspaper1:list02
+    400224: newspaper1:list03
+    400226: newspaper1:list04
+    400228: newspaper1:list05
+    400230: newspaper1:list06
+    400232: newspaper1:list07
+    400234: newspaper1:list08
+    400236: newspaper1:list09
+    400238: newspaper1:list10
+    400240: newspaper1:list11
+    400242: newspaper1:list12
+    400244: newspaper1:list13
+    400246: newspaper1:list14
+    400248: newspaper1:list15
+    400250: newspaper1:list16
+    400252: newspaper1:listanjeKontrola01
+    400254: newspaper1:listanjeKontrola010
+    400256: newspaper1:listanjeKontrola011
+    400258: newspaper1:listanjeKontrola012
+    400260: newspaper1:listanjeKontrola013
+    400262: newspaper1:listanjeKontrola014
+    400264: newspaper1:listanjeKontrola015
+    400266: newspaper1:listanjeKontrola016
+    400268: newspaper1:listanjeKontrola02
+    400270: newspaper1:listanjeKontrola03
+    400272: newspaper1:listanjeKontrola04
+    400274: newspaper1:listanjeKontrola05
+    400276: newspaper1:listanjeKontrola06
+    400278: newspaper1:listanjeKontrola07
+    400280: newspaper1:listanjeKontrola08
+    400282: newspaper1:listanjeKontrola09
+    400284: newspaper1:novina
+    400286: newspaper1:pCube1
+    400288: newspaper1:persp1
+    400290: newspaper1:savijA01
+    400292: newspaper1:savijA01 1
+    400294: newspaper1:savijA01 10
+    400296: newspaper1:savijA01 11
+    400298: newspaper1:savijA01 12
+    400300: newspaper1:savijA01 13
+    400302: newspaper1:savijA01 14
+    400304: newspaper1:savijA01 15
+    400306: newspaper1:savijA01 2
+    400308: newspaper1:savijA01 3
+    400310: newspaper1:savijA01 4
+    400312: newspaper1:savijA01 5
+    400314: newspaper1:savijA01 6
+    400316: newspaper1:savijA01 7
+    400318: newspaper1:savijA01 8
+    400320: newspaper1:savijA01 9
+    400322: newspaper1:savijB01
+    400324: newspaper1:savijB01 1
+    400326: newspaper1:savijB01 10
+    400328: newspaper1:savijB01 11
+    400330: newspaper1:savijB01 12
+    400332: newspaper1:savijB01 13
+    400334: newspaper1:savijB01 14
+    400336: newspaper1:savijB01 15
+    400338: newspaper1:savijB01 2
+    400340: newspaper1:savijB01 3
+    400342: newspaper1:savijB01 4
+    400344: newspaper1:savijB01 5
+    400346: newspaper1:savijB01 6
+    400348: newspaper1:savijB01 7
+    400350: newspaper1:savijB01 8
+    400352: newspaper1:savijB01 9
+    400354: newspaper1:savijC
+    400356: newspaper1:savijC 1
+    400358: newspaper1:savijC 10
+    400360: newspaper1:savijC 11
+    400362: newspaper1:savijC 12
+    400364: newspaper1:savijC 13
+    400366: newspaper1:savijC 14
+    400368: newspaper1:savijC 15
+    400370: newspaper1:savijC 2
+    400372: newspaper1:savijC 3
+    400374: newspaper1:savijC 4
+    400376: newspaper1:savijC 5
+    400378: newspaper1:savijC 6
+    400380: newspaper1:savijC 7
+    400382: newspaper1:savijC 8
+    400384: newspaper1:savijC 9
+    400386: newspaper1:savijD
+    400388: newspaper1:savijD 1
+    400390: newspaper1:savijD 10
+    400392: newspaper1:savijD 11
+    400394: newspaper1:savijD 12
+    400396: newspaper1:savijD 13
+    400398: newspaper1:savijD 14
+    400400: newspaper1:savijD 15
+    400402: newspaper1:savijD 2
+    400404: newspaper1:savijD 3
+    400406: newspaper1:savijD 4
+    400408: newspaper1:savijD 5
+    400410: newspaper1:savijD 6
+    400412: newspaper1:savijD 7
+    400414: newspaper1:savijD 8
+    400416: newspaper1:savijD 9
+    400418: newspaper1:savijRoot01
+    400420: newspaper1:savijRoot010
+    400422: newspaper1:savijRoot011
+    400424: newspaper1:savijRoot012
+    400426: newspaper1:savijRoot013
+    400428: newspaper1:savijRoot014
+    400430: newspaper1:savijRoot015
+    400432: newspaper1:savijRoot016
+    400434: newspaper1:savijRoot02
+    400436: newspaper1:savijRoot03
+    400438: newspaper1:savijRoot04
+    400440: newspaper1:savijRoot05
+    400442: newspaper1:savijRoot06
+    400444: newspaper1:savijRoot07
+    400446: newspaper1:savijRoot08
+    400448: newspaper1:savijRoot09
+    400450: newspaper1:spotLight1
+    400452: newspaper1:spotLight2
+    400454: newspaper1:ugaoDonjiA01
+    400456: newspaper1:ugaoDonjiA01 1
+    400458: newspaper1:ugaoDonjiA01 10
+    400460: newspaper1:ugaoDonjiA01 11
+    400462: newspaper1:ugaoDonjiA01 12
+    400464: newspaper1:ugaoDonjiA01 13
+    400466: newspaper1:ugaoDonjiA01 14
+    400468: newspaper1:ugaoDonjiA01 15
+    400470: newspaper1:ugaoDonjiA01 2
+    400472: newspaper1:ugaoDonjiA01 3
+    400474: newspaper1:ugaoDonjiA01 4
+    400476: newspaper1:ugaoDonjiA01 5
+    400478: newspaper1:ugaoDonjiA01 6
+    400480: newspaper1:ugaoDonjiA01 7
+    400482: newspaper1:ugaoDonjiA01 8
+    400484: newspaper1:ugaoDonjiA01 9
+    400486: newspaper1:ugaoDonjiB01
+    400488: newspaper1:ugaoDonjiB01 1
+    400490: newspaper1:ugaoDonjiB01 10
+    400492: newspaper1:ugaoDonjiB01 11
+    400494: newspaper1:ugaoDonjiB01 12
+    400496: newspaper1:ugaoDonjiB01 13
+    400498: newspaper1:ugaoDonjiB01 14
+    400500: newspaper1:ugaoDonjiB01 15
+    400502: newspaper1:ugaoDonjiB01 2
+    400504: newspaper1:ugaoDonjiB01 3
+    400506: newspaper1:ugaoDonjiB01 4
+    400508: newspaper1:ugaoDonjiB01 5
+    400510: newspaper1:ugaoDonjiB01 6
+    400512: newspaper1:ugaoDonjiB01 7
+    400514: newspaper1:ugaoDonjiB01 8
+    400516: newspaper1:ugaoDonjiB01 9
+    400518: newspaper1:ugaoGornjiA01
+    400520: newspaper1:ugaoGornjiA01 1
+    400522: newspaper1:ugaoGornjiA01 10
+    400524: newspaper1:ugaoGornjiA01 11
+    400526: newspaper1:ugaoGornjiA01 12
+    400528: newspaper1:ugaoGornjiA01 13
+    400530: newspaper1:ugaoGornjiA01 14
+    400532: newspaper1:ugaoGornjiA01 15
+    400534: newspaper1:ugaoGornjiA01 2
+    400536: newspaper1:ugaoGornjiA01 3
+    400538: newspaper1:ugaoGornjiA01 4
+    400540: newspaper1:ugaoGornjiA01 5
+    400542: newspaper1:ugaoGornjiA01 6
+    400544: newspaper1:ugaoGornjiA01 7
+    400546: newspaper1:ugaoGornjiA01 8
+    400548: newspaper1:ugaoGornjiA01 9
+    400550: newspaper1:ugaoGornjiB01
+    400552: newspaper1:ugaoGornjiB01 1
+    400554: newspaper1:ugaoGornjiB01 10
+    400556: newspaper1:ugaoGornjiB01 11
+    400558: newspaper1:ugaoGornjiB01 12
+    400560: newspaper1:ugaoGornjiB01 13
+    400562: newspaper1:ugaoGornjiB01 14
+    400564: newspaper1:ugaoGornjiB01 15
+    400566: newspaper1:ugaoGornjiB01 2
+    400568: newspaper1:ugaoGornjiB01 3
+    400570: newspaper1:ugaoGornjiB01 4
+    400572: newspaper1:ugaoGornjiB01 5
+    400574: newspaper1:ugaoGornjiB01 6
+    400576: newspaper1:ugaoGornjiB01 7
+    400578: newspaper1:ugaoGornjiB01 8
+    400580: newspaper1:ugaoGornjiB01 9
+    400582: newspaper:persp1
+    400584: newspaper:spotLight1
+    400586: newspaper:spotLight2
+    400588: nokia-n80
+    400590: port-border
+    400592: port-border2
+    400594: port-connectors
+    400596: port-fix
+    400598: port-kase
+    400600: port-rails
+    400602: powerbutton
+    400604: powerbutton-border1
+    2300000: accamulator-fix
+    2300002: button1
+    2300004: cam-case1
+    2300006: cam-case2
+    2300008: cam-kase3
+    2300010: cam-switcher
+    2300012: cam1
+    2300014: cam2
+    2300016: camlens
+    2300018: flash
+    2300020: flash-glass
+    2300022: kase-bottom1
+    2300024: kase-bottom2
+    2300026: kase-bottom3
+    2300028: keyboard
+    2300030: keyboard-border
+    2300032: keyboard-top
+    2300034: minisd-cap
+    2300036: newspaper1:pCube1
+    2300038: port-border
+    2300040: port-border2
+    2300042: port-connectors
+    2300044: port-fix
+    2300046: port-kase
+    2300048: port-rails
+    2300050: powerbutton
+    2300052: powerbutton-border1
+    3300000: accamulator-fix
+    3300002: button1
+    3300004: cam-case1
+    3300006: cam-case2
+    3300008: cam-kase3
+    3300010: cam-switcher
+    3300012: cam1
+    3300014: cam2
+    3300016: camlens
+    3300018: flash
+    3300020: flash-glass
+    3300022: kase-bottom1
+    3300024: kase-bottom2
+    3300026: kase-bottom3
+    3300028: keyboard
+    3300030: keyboard-border
+    3300032: keyboard-top
+    3300034: minisd-cap
+    3300036: newspaper1:pCube1
+    3300038: port-border
+    3300040: port-border2
+    3300042: port-connectors
+    3300044: port-fix
+    3300046: port-kase
+    3300048: port-rails
+    3300050: powerbutton
+    3300052: powerbutton-border1
+    4300000: Male_Human
+    4300002: newspaper1:pCube1
+    4300004: cam-case2
+    4300006: kase-bottom1
+    4300008: cam-case1
+    4300010: minisd-cap
+    4300012: kase-bottom3
+    4300014: powerbutton-border1
+    4300016: powerbutton
+    4300018: kase-bottom2
+    4300020: port-border2
+    4300022: port-border
+    4300024: port-kase
+    4300026: port-connectors
+    4300028: port-rails
+    4300030: port-fix
+    4300032: cam-switcher
+    4300034: flash-glass
+    4300036: flash
+    4300038: cam1
+    4300040: cam2
+    4300042: camlens
+    4300044: cam-kase3
+    4300046: accamulator-fix
+    4300048: button1
+    4300050: keyboard-border
+    4300052: keyboard
+    4300054: keyboard-top
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Male_Human
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: -8
+      lastFrame: 1537
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

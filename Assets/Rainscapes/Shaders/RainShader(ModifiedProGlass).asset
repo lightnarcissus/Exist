@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!48 &4800000
+Shader:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RainShader(ModifiedProGlass)
+  m_Script: "Shader \"RainShader(ModifiedProGlass)\" {\nProperties {\n _BumpAmt (\"Distortion\",
+    Range(0,128)) = 10\n _MainTex (\"Tint Color (RGB)\", 2D) = \"white\" {}\n _BumpMap
+    (\"Normalmap\", 2D) = \"bump\" {}\n}\nSubShader { \n Tags { \"QUEUE\"=\"Transparent
+    +100\" \"RenderType\"=\"Opaque\" }\n GrabPass {\n  Name \"BASE\"\n  Tags { \"LIGHTMODE\"=\"Always\"
+    }\n }\n Pass {\n  Name \"BASE\"\n  Tags { \"LIGHTMODE\"=\"Always\" \"QUEUE\"=\"Transparent
+    +100\" \"RenderType\"=\"Opaque\" }\nProgram \"vp\" {\nSubProgram \"opengl \" {\nBind
+    \"vertex\" Vertex\nBind \"texcoord\" TexCoord0\nVector 5 [_BumpMap_ST]\nVector
+    6 [_MainTex_ST]\n\"!!ARBvp1.0\n# 14 ALU\nPARAM c[7] = { { 0.5 },\n\t\tstate.matrix.mvp,\n\t\tprogram.local[5..6]
+    };\nTEMP R0;\nTEMP R1;\nDP4 R0.w, vertex.position, c[2];\nDP4 R0.z, vertex.position,
+    c[4];\nDP4 R0.x, vertex.position, c[1];\nMOV R1.w, R0.z;\nDP4 R1.z, vertex.position,
+    c[3];\nMOV R1.x, R0;\nMOV R0.y, R0.w;\nMOV R1.y, R0.w;\nADD R0.xy, R0.z, R0;\nMOV
+    result.position, R1;\nMOV result.texcoord[0].zw, R1;\nMUL result.texcoord[0].xy,
+    R0, c[0].x;\nMAD result.texcoord[1].xy, vertex.texcoord[0], c[5], c[5].zwzw;\nMAD
+    result.texcoord[2].xy, vertex.texcoord[0], c[6], c[6].zwzw;\nEND\n# 14 instructions,
+    2 R-regs\n\"\n}\nSubProgram \"d3d9 \" {\nBind \"vertex\" Vertex\nBind \"texcoord\"
+    TexCoord0\nMatrix 0 [glstate_matrix_mvp]\nVector 4 [_BumpMap_ST]\nVector 5 [_MainTex_ST]\n\"vs_2_0\n;
+    14 ALU\ndef c6, 0.50000000, 0, 0, 0\ndcl_position0 v0\ndcl_texcoord0 v1\ndp4 r0.w,
+    v0, c1\ndp4 r0.z, v0, c3\ndp4 r0.x, v0, c0\nmov r1.w, r0.z\ndp4 r1.z, v0, c2\nmov
+    r1.x, r0\nmov r0.y, -r0.w\nmov r1.y, r0.w\nadd r0.xy, r0.z, r0\nmov oPos, r1\nmov
+    oT0.zw, r1\nmul oT0.xy, r0, c6.x\nmad oT1.xy, v1, c4, c4.zwzw\nmad oT2.xy, v1,
+    c5, c5.zwzw\n\"\n}\n}\nProgram \"fp\" {\nSubProgram \"opengl \" {\nFloat 0 [_BumpAmt]\nVector
+    1 [_GrabTexture_TexelSize]\nSetTexture 0 [_BumpMap] 2D\nSetTexture 1 [_GrabTexture]
+    2D\nSetTexture 2 [_MainTex] 2D\n\"!!ARBfp1.0\nOPTION ARB_precision_hint_fastest;\n#
+    9 ALU, 3 TEX\nPARAM c[3] = { program.local[0..1],\n\t\t{ 2, 1 } };\nTEMP R0;\nTEMP
+    R1;\nTEX R0.yw, fragment.texcoord[1], texture[0], 2D;\nTEX R1, fragment.texcoord[2],
+    texture[2], 2D;\nMAD R0.xy, R0.wyzw, c[2].x, -c[2].y;\nMUL R0.xy, R0, c[0].x;\nMUL
+    R0.xy, R0, c[1];\nMAD R0.xy, R0, fragment.texcoord[0].z, fragment.texcoord[0];\nMOV
+    R0.z, fragment.texcoord[0].w;\nTXP R0, R0.xyzz, texture[1], 2D;\nMUL result.color,
+    R0, R1;\nEND\n# 9 instructions, 2 R-regs\n\"\n}\nSubProgram \"d3d9 \" {\nFloat
+    0 [_BumpAmt]\nVector 1 [_GrabTexture_TexelSize]\nSetTexture 0 [_BumpMap] 2D\nSetTexture
+    1 [_GrabTexture] 2D\nSetTexture 2 [_MainTex] 2D\n\"ps_2_0\n; 8 ALU, 3 TEX\ndcl_2d
+    s0\ndcl_2d s1\ndcl_2d s2\ndef c2, 2.00000000, -1.00000000, 0, 0\ndcl t0\ndcl t1.xy\ndcl
+    t2.xy\ntexld r0, t1, s0\nmov r0.x, r0.w\nmad_pp r0.xy, r0, c2.x, c2.y\nmul r0.xy,
+    r0, c0.x\nmul r0.xy, r0, c1\nmad r1.xy, r0, t0.z, t0\nmov r1.zw, t0\ntexld r0,
+    t2, s2\ntexldp r1, r1, s1\nmul_pp r0, r1, r0\nmov_pp oC0, r0\n\"\n}\n}\n }\n}\nSubShader
+    { \n Tags { \"QUEUE\"=\"Transparent +100\" \"RenderType\"=\"Opaque\" }\n Pass
+    {\n  Name \"BASE\"\n  Tags { \"QUEUE\"=\"Transparent +100\" \"RenderType\"=\"Opaque\"
+    }\n  Blend DstColor Zero\n  SetTexture [_MainTex] { combine texture }\n }\n}\n}"
+  m_PathName: 
+  m_Dependencies: []
+  m_ShaderIsBaked: 0
+  errors: []
+  m_DefaultTextures: {}
+--- !u!1002 &4800001
+EditorExtensionImpl:
+  serializedVersion: 6

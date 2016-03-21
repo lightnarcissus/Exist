@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: dd80e1ab52613c3498382105e77a8a1c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainCam: {instanceID: 0}
+  - waves: {fileID: 8300000, guid: 7f67cd33e9495b641bd24d4684031f5f, type: 3}
+  - villageMemory: {instanceID: 0}
+  - warFaceMemory: {instanceID: 0}
+  - systemicMemory: {instanceID: 0}
+  - ruinsMemory: {instanceID: 0}
+  - sailMemory: {instanceID: 0}
+  - moneyMemory: {instanceID: 0}
+  - burnDreamsMemory: {instanceID: 0}
+  - rapeMemory: {instanceID: 0}
+  - cultureFearMemory: {instanceID: 0}
+  - beautyMemory: {instanceID: 0}
+  - stopMemory: {instanceID: 0}
+  - racistMemory: {instanceID: 0}
+  - skinnedMemory: {instanceID: 0}
+  - nooseMemory: {instanceID: 0}
+  - bombPlay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

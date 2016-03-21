@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: b10cc9af6202c094aaca88dee18d23f6
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: satelite_cable_
+    100002: satelite_dish_
+    100004: satelite_LOW_POLY_cable_
+    100006: satelite_LOW_POLY_dish_
+    100008: satelite_LOW_POLY_parts_grey_
+    100010: satelite_LOW_POLY_parts_metal_
+    100012: //RootNode
+    100014: satelite_parts_gray_
+    100016: satelite_parts_metal_
+    100018: satelite_screws
+    400000: satelite_cable_
+    400002: satelite_dish_
+    400004: satelite_LOW_POLY_cable_
+    400006: satelite_LOW_POLY_dish_
+    400008: satelite_LOW_POLY_parts_grey_
+    400010: satelite_LOW_POLY_parts_metal_
+    400012: //RootNode
+    400014: satelite_parts_gray_
+    400016: satelite_parts_metal_
+    400018: satelite_screws
+    2300000: satelite_cable_
+    2300002: satelite_dish_
+    2300004: satelite_LOW_POLY_cable_
+    2300006: satelite_LOW_POLY_dish_
+    2300008: satelite_LOW_POLY_parts_grey_
+    2300010: satelite_LOW_POLY_parts_metal_
+    2300012: satelite_parts_gray_
+    2300014: satelite_parts_metal_
+    2300016: satelite_screws
+    3300000: satelite_cable_
+    3300002: satelite_dish_
+    3300004: satelite_LOW_POLY_cable_
+    3300006: satelite_LOW_POLY_dish_
+    3300008: satelite_LOW_POLY_parts_grey_
+    3300010: satelite_LOW_POLY_parts_metal_
+    3300012: satelite_parts_gray_
+    3300014: satelite_parts_metal_
+    3300016: satelite_screws
+    4300000: satelite_cable_
+    4300002: satelite_dish_
+    4300004: satelite_LOW_POLY_cable_
+    4300006: satelite_LOW_POLY_dish_
+    4300008: satelite_LOW_POLY_parts_grey_
+    4300010: satelite_LOW_POLY_parts_metal_
+    4300012: satelite_parts_gray_
+    4300014: satelite_parts_metal_
+    4300016: satelite_screws
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
